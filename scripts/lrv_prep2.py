@@ -11,6 +11,13 @@ import re
 import codecs
 
 
+def remove_markup(hw):
+	hw = re.sub('<p>[ ]*', '', hw)
+	hw = re.sub('<b>[ ]*', '', hw)
+	hw = re.sub('<\+>[ ]*', '', hw)
+	return hw
+
+
 if __name__ == "__main__":
 	filein = sys.argv[1]
 	fileout = sys.argv[2]
@@ -21,20 +28,22 @@ if __name__ == "__main__":
 	for row in reader:
 		lnum = row[0]
 		pc = row[1]
-		k2 = row[2]
-		if k2.startswith('<p>'):
-			clean_k2 = re.sub('<p>[ ]*', '', k2)
-			h1 = clean_k2
-		elif k2.startswith('<b>'):
-			clean_k2 = h1 + re.sub('<b>[ ]*', '', k2)
-		elif k2 == '':
-			clean_k2 = clean_k2
-		else:
-			print(k2)
-		prevhw = k2
-		grammar = row[3]
-		entry = row[4].rstrip()
-		fout.write('<L>' + lnum + '<pc>' + pc + '<k1>' + clean_k2 + '<k2>' + clean_k2 + '\n')
-		fout.write(lnum + '\t' + pc + '\t' + k2 + '\t' + grammar + '\t' + entry + '\n')
+		h1 = row[2]
+		k2 = row[3]
+		k1 = row[4]
+		grammar = row[5]
+		entry = row[6]
+		charcount = row[7].rstrip()
+		if h1.startswith('<p>'):
+			clean_h1 = remove_markup(h1)
+			clean_k2 = remove_markup(k2)
+			clean_k1 = remove_markup(k1)
+			clean_pc = pc
+		elif h1.startswith('<b>'):
+			clean_h1 = remove_markup(k1)
+			clean_k2 = remove_markup(k2)
+			clean_k1 = remove_markup(k1)
+		fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
+		fout.write(lnum + '\t' + clean_pc + '\t' + clean_h1 + '\t' + clean_k2 + '\t' + clean_k1 + '\t' + grammar + '\t' + entry  + '\t' + charcount + '\n')
 	fin.close()
 	fout.close()

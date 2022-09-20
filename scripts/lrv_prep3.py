@@ -23,7 +23,7 @@ if __name__ == "__main__":
 				print(m.group(1))
 				ls_list.append(m.group(1))
 				#lin = re.sub('\/([^/ ]+)\/', '<ls>\g<1></ls>', lin)
-				fout.write(lin)
+			fout.write(lin)
 	cnt = Counter(ls_list)
 	print(cnt.most_common())
 				

@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Change line ending to \n instead of \r\n
+"""Extract L-id, page-column, key1, key2
+
+	e.g. <L>00017<pc>001-09<k1>अंशु<k2>अंशु
 
 Usage - python3 lrv_prep1.py ../interim/lrv_0.txt ../interim/lrv_1.txt
 """

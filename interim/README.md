@@ -1,6 +1,6 @@
 # lrv_0.txt
 
-Copy of `glacier/LR_Vaidya_Main_proofed.txt` made on 20 September 2022
+Copy of `glacier/LR_Vaidya_Main_proofed_20220920.txt` made on 20 September 2022
 
 # lrv_1.txt
 

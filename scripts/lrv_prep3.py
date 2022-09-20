@@ -15,6 +15,7 @@ if __name__ == "__main__":
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	ls_list = []
 	for lin in fin:
+		lin = lin.replace('//', '<P>')
 		if lin.startswith('<L>') or lin.startswith('<LEND>'):
 			fout.write(lin)
 		else:

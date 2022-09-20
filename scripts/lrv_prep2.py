@@ -16,7 +16,7 @@ def remove_markup(hw):
 	hw = re.sub('<b>[ ]*', '', hw)
 	hw = re.sub('<\+>[ ]*', '', hw)
 	hw = re.sub('^\#\-[ ]*', '', hw)
-	hw = re.sub('^\$\-\-', '', hw)
+	hw = re.sub('^\$[\-]*', '', hw)
 	return hw
 
 
@@ -45,12 +45,10 @@ if __name__ == "__main__":
 			clean_h1 = remove_markup(k1)
 			clean_k2 = remove_markup(k2)
 			clean_k1 = remove_markup(k1)
-		if not grammar.startswith('#-'):
-			print(clean_h1, grammar)
-		if not entry.startswith('$--'):
-			print(clean_h1, entry)
+		clean_grammar = remove_markup(grammar)
+		clean_entry = remove_markup(entry)
 		fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
-		fout.write(clean_k2 + '\t' + grammar + '\t' + entry  + '\n')
+		fout.write(clean_k2 + '\t' + clean_grammar + '\t' + clean_entry  + '\n')
 		fout.write('<LEND>\n\n')
 	fin.close()
 	fout.close()

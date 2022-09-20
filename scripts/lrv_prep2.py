@@ -23,6 +23,7 @@ if __name__ == "__main__":
 		k2 = row[2]
 		grammar = row[3]
 		entry = row[4].rstrip()
+		fout.write('<L>' + lnum + '<pc>' + pc + '<k1>' + k2 + '<k2>' + k2 + '\n')
 		fout.write(lnum + '\t' + pc + '\t' + k2 + '\t' + grammar + '\t' + entry + '\n')
 	fin.close()
 	fout.close()

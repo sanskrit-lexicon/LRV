@@ -16,7 +16,13 @@ if __name__ == "__main__":
 	fileout = sys.argv[2]
 	fin = codecs.open(filein, 'r', 'utf-8')
 	fout = codecs.open(fileout, 'w', 'utf-8')
-	for lin in fin:
-		fout.write(lin)
+	reader = csv.reader(fin, delimiter='\t')
+	for row in reader:
+		lnum = row[0]
+		pc = row[1]
+		k2 = row[2]
+		grammar = row[3]
+		entry = row[4]
+		fout.write('\t'.join(row) + '\n')
 	fin.close()
 	fout.close()

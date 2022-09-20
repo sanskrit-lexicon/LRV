@@ -44,7 +44,7 @@ if __name__ == "__main__":
 			clean_k2 = remove_markup(k2)
 			clean_k1 = remove_markup(k1)
 		fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
-		fout.write(lnum + '\t' + clean_pc + '\t' + clean_h1 + '\t' + clean_k2 + '\t' + clean_k1 + '\t' + grammar + '\t' + entry  + '\t' + charcount + '\n')
+		fout.write(clean_k2 + '\t' + grammar + '\t' + entry  + '\n')
 		fout.write('<LEND>\n\n')
 	fin.close()
 	fout.close()

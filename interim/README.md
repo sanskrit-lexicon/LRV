@@ -9,6 +9,9 @@ Copy of `glacier/LR_Vaidya_Main_proofed_20220920.txt` made on 20 September 2022
 # lrv_2.txt
 
 1. Added metaline to lrv_1.txt.
+2. Kept only key2, grammar and entry in the dictionary entry section.
+
+
 
 
 

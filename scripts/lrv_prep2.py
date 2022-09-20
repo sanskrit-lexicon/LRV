@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
-"""Extract L-id, page-column, key1, key2
+"""Extract L-id, page-column, key1, key2 and put in metaline
+	Extract key2, lexinfo and entry and put in the next line
 
-	e.g. <L>00017<pc>001-09<k1>अंशु<k2>अंशु
+	e.g. 
+	<L>00017<pc>001-09<k1>अंशु<k2>अंशु
+	अंशु	m.	1. A ray of light, सूर्योंशुभिर्मित्रमिवारविन्दम् /K.S./i.32; 2. light, refulgence, अंगुष्ठनखांशुभिन्नया /Sis./i.9; 3. dress; 4. a minute particle, an atom.
+	<LEND>
 
 Usage - python3 lrv_prep2.py ../interim/lrv_1.txt ../interim/lrv_2.txt
 """

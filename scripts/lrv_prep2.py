@@ -3,7 +3,7 @@
 
 	e.g. <L>00017<pc>001-09<k1>अंशु<k2>अंशु
 
-Usage - python3 lrv_prep1.py ../interim/lrv_0.txt ../interim/lrv_1.txt
+Usage - python3 lrv_prep2.py ../interim/lrv_1.txt ../interim/lrv_2.txt
 """
 import sys
 import csv

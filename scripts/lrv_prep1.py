@@ -22,7 +22,7 @@ if __name__ == "__main__":
 		pc = row[1]
 		k2 = row[2]
 		grammar = row[3]
-		entry = row[4]
-		fout.write('\t'.join(row) + '\n')
+		entry = row[4].rstrip()
+		fout.write(lnum + '\t' + pc + '\t' + k2 + '\t' + grammar + '\t' + entry + '\n')
 	fin.close()
 	fout.close()

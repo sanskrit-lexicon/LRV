@@ -16,6 +16,10 @@ Copy of `glacier/LR_Vaidya_Main_proofed_20220920.txt` made on 20 September 2022
 1. Added literary resources markup with `<ls>` tag.
 2. Changed the paragraph break from `//` to `<P>` tag.
 
+# lrv_4.txt
+
+1. Converted Devanagari data to SLP1.
+
 
 
 

@@ -28,8 +28,6 @@ if __name__ == "__main__":
 	prevk1 = ''
 	prevk2 = ''
 	for lin in fin:
-		if counter == 500:
-			exit(0)
 		if lin.startswith('<L>'):
 			# <L>00017<pc>001-09<k1>अंशु<k2>अंशु
 			m = re.search('<L>([^<]*)<pc>([^<]*)<k1>([^<]*)<k2>([^<]*)\n', lin)

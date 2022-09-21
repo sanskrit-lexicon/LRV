@@ -74,8 +74,10 @@ if __name__ == "__main__":
 					clean_k2 = split2[i]
 					clean_k1 = split1[i]
 				if cnt > 0:
-					lnum = lnum + '.' + str(cnt)
-				fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
+					clean_lnum = lnum + '.' + str(cnt)
+				else:
+					clean_lnum = lnum
+				fout.write('<L>' + clean_lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
 				fout.write(clean_k2 + '\t' + clean_grammar + '\t' + clean_entry  + '\n')
 				fout.write('<LEND>\n\n')
 				cnt += 1

@@ -32,8 +32,8 @@ if __name__ == "__main__":
 				if j % 2 == 0:
 					gram += n[j]
 				else:
-					gram += '<s>' + sanscript.transliterate(n[j], 'devanagari', 'slp1') + '</s>'
-			gram = re.sub('</s>([ ]+)<s>', '\g<1>', gram)
+					gram += '{#' + sanscript.transliterate(n[j], 'devanagari', 'slp1') + '#}'
+			gram = re.sub('#}([ ]+){#', '\g<1>', gram)
 			# Prepare entry
 			m = re.split('([\u0900-\u097F]+)', entry)
 			ent = ''
@@ -41,9 +41,9 @@ if __name__ == "__main__":
 				if i % 2 == 0:
 					ent += m[i]
 				else:
-					ent += '<s>' + sanscript.transliterate(m[i], 'devanagari', 'slp1') + '</s>'
-			ent = re.sub('</s>([ ]+)<s>', '\g<1>', ent)
+					ent += '{#' + sanscript.transliterate(m[i], 'devanagari', 'slp1') + '#}'
+			ent = re.sub('#}([ ]+){#', '\g<1>', ent)
 			# Write to file
-			fout.write(key2 + '\t' + gram + '\t' + ent)
+			fout.write(key2 + '¦ {%' + gram + '%} ' + ent)
 
 

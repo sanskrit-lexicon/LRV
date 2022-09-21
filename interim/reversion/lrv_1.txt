@@ -1,108 +1,108 @@
 00001	001-01	<p> अ	<p> अ	<p> अ	#-(I) ind.	$--An interjection- (1) of pity; (2) of calling, e.g. अ अनंत; (3) of blame or reproach, e.g. अ पचसि त्वं जाल्म.	111
-00002	001-01	<p> अ	<p> अ	<p> अ	#-(II) ind.	$--A prefix implying- (1) negation arising from similarity, (e.g. अब्राह्मणः one who is not a Brāhmaṇa though like him); (2) privation, (e.g. अघटः absence of घट); (3) difference, (e.g. अपटः other than a पट); (4) dimunition, (e.g. अनुदरा having a very slender waist); (5) badness, (e.g. अनाचारः bad conduct); (6) contrariety, (e.g. असित the contrary of white, i.e. black).These meanings are put together in the following stanza- तत्सादृश्य मभावश्च तदन्यत्वं तदल्पता । अप्राशस्त्यं विरोधश्च नञर्थाः षट् प्रकीर्तिताः ॥//If the noun to which अ is to be prefixed begins with a vowel, the अ assumes the form अन्, (e.g. अनाचार); but if the vowel following the अ happens to be a ऋ, this rule is sometimes neglected, (e.g. अनृणिन् or अऋणिन्).	733
-00003	001-01	<p> अ	<p> अ	<p> अ	#-(III) m.	$--A name of Vishṇu; it is the first word in the mystic syllable ओम्, the other two being उ and म्. अकारो विष्णुरुद्दिष्ट उकारस्तु महेश्वरः । मकारस्तु स्मृतो ब्रह्मा प्रणवस्तु त्रयात्मकः ॥	188
-00004	001-01	<p> अ	<p> अ	<p> अ	#-(IV) n.	$--A name of Brahman (n.).	26
+00002					#-(II) ind.	$--A prefix implying- (1) negation arising from similarity, (e.g. अब्राह्मणः one who is not a Brāhmaṇa though like him); (2) privation, (e.g. अघटः absence of घट); (3) difference, (e.g. अपटः other than a पट); (4) dimunition, (e.g. अनुदरा having a very slender waist); (5) badness, (e.g. अनाचारः bad conduct); (6) contrariety, (e.g. असित the contrary of white, i.e. black).These meanings are put together in the following stanza- तत्सादृश्य मभावश्च तदन्यत्वं तदल्पता । अप्राशस्त्यं विरोधश्च नञर्थाः षट् प्रकीर्तिताः ॥//If the noun to which अ is to be prefixed begins with a vowel, the अ assumes the form अन्, (e.g. अनाचार); but if the vowel following the अ happens to be a ऋ, this rule is sometimes neglected, (e.g. अनृणिन् or अऋणिन्).	733
+00003					#-(III) m.	$--A name of Vishṇu; it is the first word in the mystic syllable ओम्, the other two being उ and म्. अकारो विष्णुरुद्दिष्ट उकारस्तु महेश्वरः । मकारस्तु स्मृतो ब्रह्मा प्रणवस्तु त्रयात्मकः ॥	188
+00004					#-(IV) n.	$--A name of Brahman (n.).	26
 00005	001-02	<p> अऋणिन्	<p> अऋणिन्	<p> अऋणिन्	#-a. (f. नी)	$--Free from debt.	18
 00006	001-03	<p> अंश्	<p> अंश्	<p> अंश्	#-vt. 10U (pp. अंशित)	$--To divide, to distribute.//With वि-, 1. to break asunder; 2. to deceive.	75
 00007	001-04	<p> अंश	<p> अंश	<p> अंश	#-m.	$--1. A share, portion; 2. inheritance, सकृदंशो निपतति /M./ix.47; 3. a shoulder; 4. the numerator of a fraction (in math.).	123
-00008	001-04	<b> अंश-अंशि	<b> अंश-अंशि	<+> अंशांशि	#-ind.	$--share by share.	18
-00009	001-04	<b> अंश-करण	<b> अंश-करण	<+> अंशकरण	#-n.	$--the dividing into shares.	28
-00010	001-04	<b> अंश-भाज्	<b> अंश-भाज्	<+> अंशभाज्	#-a.	$--an heir, a co-heir.	22
-00011	001-04	<b> अंश-हर	<b> अंश-हर	<+> अंशहर	#-a.	$--a sharer, पिंडदोंशहरश्चैषां पूर्वाभावे परः परः /Yaj./ii.132.	63
-00011.1	001-04	<b> अंश-हारिन्	<b> अंश-हारिन्	<+> अंशहारिन्	#-a.	$--a sharer, पिंडदोंशहरश्चैषां पूर्वाभावे परः परः /Yaj./ii.132.	63
+00008		<b> -अंशि	<b> अंश-अंशि	<+> अंशांशि	#-ind.	$--share by share.	18
+00009		<b> -करण	<b> अंश-करण	<+> अंशकरण	#-n.	$--the dividing into shares.	28
+00010		<b> -भाज्	<b> अंश-भाज्	<+> अंशभाज्	#-a.	$--an heir, a co-heir.	22
+00011		<b> -हर	<b> अंश-हर	<+> अंशहर	#-a.	$--a sharer, पिंडदोंशहरश्चैषां पूर्वाभावे परः परः /Yaj./ii.132.	63
+00011.1		<b> -हारिन्	<b> अंश-हारिन्	<+> अंशहारिन्	#-a.	$--a sharer, पिंडदोंशहरश्चैषां पूर्वाभावे परः परः /Yaj./ii.132.	63
 00012	001-05	<p> अंशक	<p> अंशक	<p> अंशक	#-(I) m.	$--1. A part; 2. an heir, a kinsman.	36
-00013	001-05	<p> अंशक	<p> अंशक	<p> अंशक	#-(II) n.	$--A day.	9
+00013					#-(II) n.	$--A day.	9
 00014	001-06	<p> अंशन	<p> अंशन	<p> अंशन	#-n.	$--Dividing, sharing.	21
 00015	001-07	<p> अंशल	<p> अंशल	<p> अंशल	#-a. (f. ला)	$--1. Strong, stout; 2. sharing, dividing.	42
 00016	001-08	<p> अंशिन्	<p> अंशिन्	<p> अंशिन्	#-a. (f. नी)	$--A sharer, a co-heir, सर्वे वा स्युः समांशिनः /Yaj./ii.114.	61
 00017	001-09	<p> अंशु	<p> अंशु	<p> अंशु	#-m.	$--1. A ray of light, सूर्योंशुभिर्मित्रमिवारविन्दम् /K.S./i.32; 2. light, refulgence, अंगुष्ठनखांशुभिन्नया /Sis./i.9; 3. dress; 4. a minute particle, an atom.	159
-00018	001-09	<b> अंशु-जाल	<b> अंशु-जाल	<+> अंशुजाल	#-n.	$--a collection of rays.	24
-00019	001-09	<b> अंशु-धर	<b> अंशु-धर	<+> अंशुधर	#-m.	$--the sun.	11
-00019.1	001-09	<b> अंशु-पति	<b> अंशु-पति	<+> अंशुपति	#-m.	$--the sun.	11
-00019.2	001-09	<b> अंशु-बाण	<b> अंशु-बाण	<+> अंशुबाण	#-m.	$--the sun.	11
-00019.3	001-09	<b> अंशु-भर्तृ	<b> अंशु-भर्तृ	<+> अंशुभर्तृ	#-m.	$--the sun.	11
-00019.4	001-09	<b> अंशु-मत्	<b> अंशु-मत्	<+> अंशुमत्	#-m.	$--the sun.	11
-00019.5	001-09	<b> अंशु-मालिन्	<b> अंशु-मालिन्	<+> अंशुमालिन्	#-m.	$--the sun.	11
-00019.6	001-09	<b> अंशु-हस्त	<b> अंशु-हस्त	<+> अंशुहस्त	#-m.	$--the sun.	11
+00018		<b> -जाल	<b> अंशु-जाल	<+> अंशुजाल	#-n.	$--a collection of rays.	24
+00019		<b> -धर	<b> अंशु-धर	<+> अंशुधर	#-m.	$--the sun.	11
+00019.1		<b> -पति	<b> अंशु-पति	<+> अंशुपति	#-m.	$--the sun.	11
+00019.2		<b> -बाण	<b> अंशु-बाण	<+> अंशुबाण	#-m.	$--the sun.	11
+00019.3		<b> -भर्तृ	<b> अंशु-भर्तृ	<+> अंशुभर्तृ	#-m.	$--the sun.	11
+00019.4		<b> -मत्	<b> अंशु-मत्	<+> अंशुमत्	#-m.	$--the sun.	11
+00019.5		<b> -मालिन्	<b> अंशु-मालिन्	<+> अंशुमालिन्	#-m.	$--the sun.	11
+00019.6		<b> -हस्त	<b> अंशु-हस्त	<+> अंशुहस्त	#-m.	$--the sun.	11
 00020	001-10	<p> अंशुक	<p> अंशुक	<p> अंशुक	#-n.	$--1. Cloth, यत्रांशुकाक्षेपविलज्जितानाम् /K.S./i.14; 2. mantle; 3. a leaf.	75
 00021	001-11	<p> अंशुमत्फला	<p> अंशुमत्फला	<p> अंशुमत्फला	#-f.	$--A plantain.	14
 00022	001-12	<p> अंशुल	<p> अंशुल	<p> अंशुल	#-(I) a. (f. ला)	$--Radiant, splendid.	21
-00023	001-12	<p> अंशुल	<p> अंशुल	<p> अंशुल	#-(II) m.	$--A name of Chāṇakya.	22
+00023					#-(II) m.	$--A name of Chāṇakya.	22
 00024	001-13	<p> अंस्	<p> अंस्	<p> अंस्	#-vt. 10U	$--See अंश्.	12
 00025	001-14	<p> अंस	<p> अंस	<p> अंस	#-m.	$--Used in all the senses of अंश.	33
-00026	001-14	<b> अंस-कूट	<b> अंस-कूट	<+> अंसकूट	#-m.	$--A bull’s hump.	17
-00027	001-14	<b> अंस-त्र	<b> अंस-त्र	<+> अंसत्र	#-n.	$--1. an armour to protect the shoulder; 2. a bow.	50
-00028	001-14	<p> अंसभार	<p> अंसभार	<p> अंसभार	#-m.	$--a yoke or burden put upon the shoulder.	42
-00028.1	001-14	<p> अंसेभार	<p> अंसेभार	<p> अंसेभार	#-m.	$--a yoke or burden put upon the shoulder.	42
-00029	001-14	<p> अंसभारिक	<p> अंसभारिक	<p> अंसभारिक	#-m.	$--one who carries burdens or a yoke on his shoulder.	53
-00029.1	001-14	<p> अंसेभारिक	<p> अंसेभारिक	<p> अंसेभारिक	#-m.	$--one who carries burdens or a yoke on his shoulder.	53
+00026		<b> -कूट	<b> अंस-कूट	<+> अंसकूट	#-m.	$--A bull’s hump.	17
+00027		<b> -त्र	<b> अंस-त्र	<+> अंसत्र	#-n.	$--1. an armour to protect the shoulder; 2. a bow.	50
+00028		<p> अंसभार	<p> अंसभार	<p> अंसभार	#-m.	$--a yoke or burden put upon the shoulder.	42
+00028.1		<p> अंसेभार	<p> अंसेभार	<p> अंसेभार	#-m.	$--a yoke or burden put upon the shoulder.	42
+00029		<p> अंसभारिक	<p> अंसभारिक	<p> अंसभारिक	#-m.	$--one who carries burdens or a yoke on his shoulder.	53
+00029.1		<p> अंसेभारिक	<p> अंसेभारिक	<p> अंसेभारिक	#-m.	$--one who carries burdens or a yoke on his shoulder.	53
 00030	001-15	<p> अंसल	<p> अंसल	<p> अंसल	#-a. (f. ला)	$--See अंशल.	12
 00031	001-16	<p> अंह्	<p> अंह्	<p> अंह्	#-vt. 10U (pp. अंहित)	$--To shine.	12
 00032	001-17	<p> अंहति	<p> अंहति	<p> अंहति	#-f.	$--1. A donation, gift; 2. sickness; 3. pain, distress.	55
 00033	001-18	<p> अंहती	<p> अंहती	<p> अंहती	#-f.	$--A gift, donation.	20
 00034	001-19	<p> अंहस्	<p> अंहस्	<p> अंहस्	#-n.	$--Sin, e.g. अनार्यमंहो ज्येष्ठा च माया.	40
-00035	001-19	<b> अंहस्-वत्	<b> अंहस्-वत्	<+> अंहस्वत्	#-a.	$--sinful.	10
+00035		<b> -वत्	<b> अंहस्-वत्	<+> अंहस्वत्	#-a.	$--sinful.	10
 00036	001-20	<p> अंहिति	<p> अंहिति	<p> अंहिति	#-f.	$--A gift, a donation.	22
 00037	002-01	<p> अंह्रि	<p> अंह्रि	<p> अंह्रि	#-m.	$--1. The foot; 2. the root of a tree.//Note. All words meaning ‘foot’ have also the meaning of ‘root of a tree’; Cf. अंघ्रि.	125
-00038	002-01	<b> अंह्रि-प	<b> अंह्रि-प	<+> अंह्रिप	#-m.	$--a tree.	10
-00039	002-01	<b> अंह्रि-स्कंध	<b> अंह्रि-स्कंध	<+> अंह्रिस्कंध	#-m.	$--the part under the ankle-joint on either side of the foot.	61
+00038		<b> -प	<b> अंह्रि-प	<+> अंह्रिप	#-m.	$--a tree.	10
+00039		<b> -स्कंध	<b> अंह्रि-स्कंध	<+> अंह्रिस्कंध	#-m.	$--the part under the ankle-joint on either side of the foot.	61
 00040	002-02	<p> अक्	<p> अक्	<p> अक्	#-vi. 1P (pp. अकित)	$--To move tortuously.	22
 00041	002-03	<p> अक	<p> अक	<p> अक	#-n.	$--1. Sin; 2. sorrow.	21
 00042	002-04	<p> अकच	<p> अकच	<p> अकच	#-(I) m.	$--A name of Ketu.	18
-00043	002-04	<p> अकच	<p> अकच	<p> अकच	#-(II) a. (f. चा)	$--Bald, destitute of hair.	27
+00043					#-(II) a. (f. चा)	$--Bald, destitute of hair.	27
 00044	002-05	<p> अकण्टक	<p> अकण्टक	<p> अकण्टक	#-a. (f. का)	$--Free from thorns (lit.); free from enemies (fig.).	53
 00045	002-06	<p> अकनिष्ठ	<p> अकनिष्ठ	<p> अकनिष्ठ	#-(I) a. (f. ष्ठा)	$--1. Not the smallest; 2. not the youngest.	44
-00046	002-06	<p> अकनिष्ठ	<p> अकनिष्ठ	<p> अकनिष्ठ	#-(II) m.	$--A name of Buddha.	20
+00046					#-(II) m.	$--A name of Buddha.	20
 00047	002-07	<p> अकरणि	<p> अकरणि	<p> अकरणि	#-f.	$--Failure, disappointment (used in imprecations only, e.g. तस्याकरणिरेवास्तु).	79
 00048	002-08	<p> अकर्ण	<p> अकर्ण	<p> अकर्ण	#-m.	$--A snake.	11
 00049	002-09	<p> अकर्मन्	<p> अकर्मन्	<p> अकर्मन्	#-(I) a.	$--1. Idle, inefficient; 2. intransitive (as a verb).	53
-00050	002-09	<p> अकर्मन्	<p> अकर्मन्	<p> अकर्मन्	#-(II) n.	$--1. Absence of occupation; 2. an improper act.	48
-00051	002-09	<b> अकर्मन्-कृत्	<b> अकर्मन्-कृत्	<+> अकर्मकृत्	#-a.	$--committing improper acts.	28
-00052	002-09	<b> अकर्मन्-भोग	<b> अकर्मन्-भोग	<+> अकर्मभोग	#-m.	$--the liberation of the soul from the fruits of action.	56
+00050					#-(II) n.	$--1. Absence of occupation; 2. an improper act.	48
+00051		<b> -कृत्	<b> अकर्मन्-कृत्	<+> अकर्मकृत्	#-a.	$--committing improper acts.	28
+00052		<b> -भोग	<b> अकर्मन्-भोग	<+> अकर्मभोग	#-m.	$--the liberation of the soul from the fruits of action.	56
 00053	002-10	<p> अकर्मक	<p> अकर्मक	<p> अकर्मक	#-a. (f. र्मिका)	$--Intransitive (as a verb).	28
 00054	002-11	<p> अकल	<p> अकल	<p> अकल	#-(I) a. (f. ला)	$--Entire, whole.	17
-00055	002-11	<p> अकल	<p> अकल	<p> अकल	#-(II) n.	$--The supreme soul.	20
+00055					#-(II) n.	$--The supreme soul.	20
 00056	002-12	<p> अकलित	<p> अकलित	<p> अकलित	#-a. (f. ता)	$--Incomprehensible, /M.M./i.	29
 00057	002-13	<p> अकल्क	<p> अकल्क	<p> अकल्क	#-a. (f. ल्का)	$--1. Clear; 2. pure, sinless, honest.	38
 00058	002-14	<p> अकल्का	<p> अकल्का	<p> अकल्का	#-f.	$--Moon-light.	14
 00059	002-15	<p> अकल्प	<p> अकल्प	<p> अकल्प	#-a. (f. ल्पा)	$--1. Uncontrolled; 2. unable or weak.	38
 00060	002-16	<p> अकल्य	<p> अकल्य	<p> अकल्य	#-a. (f. ल्या)	$--1. Unwell, sick; 2. true.	28
-00061	002-16	<b> अकल्य-सन्ध	<b> अकल्य-सन्ध	<+> अकल्यसन्ध	#-a.	$--one whose promise is not void.	33
+00061		<b> -सन्ध	<b> अकल्य-सन्ध	<+> अकल्यसन्ध	#-a.	$--one whose promise is not void.	33
 00062	002-17	<p> अकस्मात्	<p> अकस्मात्	<p> अकस्मात्	#-ind.	$--1. Suddenly, accidentally, अकस्मान्नगरोपान्ते कथं धूमायिता चिता /Has./; 2. without any cause, सामान्यलक्षणा कस्मादकस्मात् परिलुप्यते /Pakshadhara./	150
 00063	002-18	<p> अकाण्ड	<p> अकाण्ड	<p> अकाण्ड	#-a. (f. ण्डा)	$--Sudden, unexpected.	22
 00064	002-19	<p> अकाण्डे	<p> अकाण्डे	<p> अकाण्डे	#-ind.	$--Suddenly, unexpectedly, causelessly, अकाण्डे दत्वा कियन्त्यापि दिनानि महेन्द्रभोगान् /Bh.V./iii.8.	101
 00065	002-20	<p> अकामतस्	<p> अकामतस्	<p> अकामतस्	#-ind.	$--1. Reluctantly, unwillingly; 2. unintentionally.	51
 00066	002-21	<p> अकाय	<p> अकाय	<p> अकाय	#-(I) m.	$--1. A name of Rāhu; 2. the supreme soul.	42
-00067	002-21	<p> अकाय	<p> अकाय	<p> अकाय	#-(II) a. (f. या)	$--Bodiless.	12
+00067					#-(II) a. (f. या)	$--Bodiless.	12
 00068	002-22	<p> अकारणम्	<p> अकारणम्	<p> अकारणम्	#-ind.	$--Causelessly, किमकारणमेव दर्शनं विलपन्त्यै रतये न दीयते /K.S./iv.7.	69
 00069	002-23	<p> अकार्य	<p> अकार्य	<p> अकार्य	#-n.	$--Wicked act.	14
-00070	002-23	<b> अकार्य-कारिन्	<b> अकार्य-कारिन्	<+> अकार्यकारिन्	#-a.	$--one who does what ought not to be done.	42
+00070		<b> -कारिन्	<b> अकार्य-कारिन्	<+> अकार्यकारिन्	#-a.	$--one who does what ought not to be done.	42
 00071	002-24	<p> अकाल	<p> अकाल	<p> अकाल	#-m.	$--1. Improper time; 2. unfavourable time.	42
-00072	002-24	<b> अकाल-कुसुम	<b> अकाल-कुसुम	<+> अकालकुसुम	#-n.	$--a flower blossoming out of season.	37
-00073	002-24	<b> अकाल-ज	<b> अकाल-ज	<+> अकालज	#-a.	$--unseasonable.	16
-00074	002-24	<b> अकाल-जलदोदय	<b> अकाल-जलदोदय	<+> अकालजलदोदय	#-m.	$--1. unseasonable gathering of clouds; 2. a fog or mist.	57
-00075	002-24	<b> अकाल-सह	<b> अकाल-सह	<+> अकालसह	#-a.	$--impatient.	13
+00072		<b> -कुसुम	<b> अकाल-कुसुम	<+> अकालकुसुम	#-n.	$--a flower blossoming out of season.	37
+00073		<b> -ज	<b> अकाल-ज	<+> अकालज	#-a.	$--unseasonable.	16
+00074		<b> -जलदोदय	<b> अकाल-जलदोदय	<+> अकालजलदोदय	#-m.	$--1. unseasonable gathering of clouds; 2. a fog or mist.	57
+00075		<b> -सह	<b> अकाल-सह	<+> अकालसह	#-a.	$--impatient.	13
 00076	002-25	<p> अकाल्य	<p> अकाल्य	<p> अकाल्य	#-a. (f. ल्या)	$--Unseasonable, produced out of season.	40
 00077	002-26	<p> अकिंचन	<p> अकिंचन	<p> अकिंचन	#-a. (f. ना)	$--Poor, destitute, अकिंचनः सन् प्रभवः स संपदाम् /K.S./v.77.	60
 00078	002-27	<p> अकिंचित्कर	<p> अकिंचित्कर	<p> अकिंचित्कर	#-a. (f. रा)	$--1. Innocent; 2. useless, अकिंचित्करमेतत् /Ve./iii.	53
 00079	002-28	<p> अकुण्ठ	<p> अकुण्ठ	<p> अकुण्ठ	#-a. (f. ण्ठा)	$--1. Not blunted, sharp, unimpeded, आ शस्त्रग्रहणादकुण्ठपरशोस्तस्यापि जेता /Ve./ii.; 2. excessive, अकुण्ठोत्कण्ठया /K.Pr./vii.	127
 00080	002-29	<p> अकुतस्	<p> अकुतस्	<p> अकुतस्	#-ind.	$--1. Not from any where; 2. not from any cause.	48
-00081	002-29	<b> अकुतस्-भय	<b> अकुतस्-भय	<+> अकुतोभय	#-a.	$--secure, free from all dangers, अकुतोभयः संचारः संवृत्तः /Ut./ii., यानि त्रीण्यकुतोभयान्यपि पदास्यामन् खरायोधने v.	116
+00081		<b> -भय	<b> अकुतस्-भय	<+> अकुतोभय	#-a.	$--secure, free from all dangers, अकुतोभयः संचारः संवृत्तः /Ut./ii., यानि त्रीण्यकुतोभयान्यपि पदास्यामन् खरायोधने v.	116
 00082	002-30	<p> अकुप्य	<p> अकुप्य	<p> अकुप्य	#-n.	$--1. Gold or silver; 2. any metal except gold or silver.	57
 00083	002-31	<p> अकुशल	<p> अकुशल	<p> अकुशल	#-(I) a. (f. ला)	$--1. Unlucky; 2. clumsy.	25
-00084	002-31	<p> अकुशल	<p> अकुशल	<p> अकुशल	#-(II) n.	$--1. Evil; 2. misfortune.	26
+00084					#-(II) n.	$--1. Evil; 2. misfortune.	26
 00085	002-32	<p> अकूपा(वा)र	<p> अकूपा(वा)र	<p> अकूपा(वा)र	#-m.	$--1. The sea; 2. a tortoise; 3. the tortoise supposed to uphold the world.	75
 00086	002-33	<p> अकृच्छ्र	<p> अकृच्छ्र	<p> अकृच्छ्र	#-m.n.	$--Freedom from difficulty.	27
 00087	002-34	<p> अकृत	<p> अकृत	<p> अकृत	#-(I) a. (f. ता)	$--1. Not prepared; 2. not accomplished; 3. not made or created.	64
-00088	002-34	<p> अकृत	<p> अकृत	<p> अकृत	#-(II) n.	$--An unheard of action.	24
-00089	002-34	<b> अकृत-अस्त्र	<b> अकृत-अस्त्र	<+> अकृतास्त्र	#-a.	$--unpractised in arms.	23
-00090	002-34	<b> अकृत-आत्मन्	<b> अकृत-आत्मन्	<+> अकृतात्मन्	#-a.	$--1. who has not subdued his senses; 2. who has not attained union with God.	77
-00091	002-34	<b> अकृत-ज्ञ	<b> अकृत-ज्ञ	<+> अकृतज्ञ	#-a.	$--ungrateful.	14
-00092	002-34	<b> अकृत-बुद्धि	<b> अकृत-बुद्धि	<+> अकृतबुद्धि	#-a.	$--having an unformed mind.	27
+00088					#-(II) n.	$--An unheard of action.	24
+00089		<b> -अस्त्र	<b> अकृत-अस्त्र	<+> अकृतास्त्र	#-a.	$--unpractised in arms.	23
+00090		<b> -आत्मन्	<b> अकृत-आत्मन्	<+> अकृतात्मन्	#-a.	$--1. who has not subdued his senses; 2. who has not attained union with God.	77
+00091		<b> -ज्ञ	<b> अकृत-ज्ञ	<+> अकृतज्ञ	#-a.	$--ungrateful.	14
+00092		<b> -बुद्धि	<b> अकृत-बुद्धि	<+> अकृतबुद्धि	#-a.	$--having an unformed mind.	27
 00093	002-35	<p> अकृता	<p> अकृता	<p> अकृता	#-f.	$--A daughter not placed on a level with sons.	46
 00094	002-36	<p> अकृष्ट	<p> अकृष्ट	<p> अकृष्ट	#-a. (f. ष्टा)	$--Unploughed, untilled.	24
-00095	002-36	<b> अकृष्ट-पच्य	<b> अकृष्ट-पच्य	<+> अकृष्टपच्य	#-a.	$--ripening or growing in unploughed land, growing wild, अकृष्टपच्या इव शस्यसंपदः /Kir./i.17, /R./xiv.77.	105
-00095.1	002-36	<b> अकृष्ट-रोहिन्	<b> अकृष्ट-रोहिन्	<+> अकृष्टरोहिन्	#-a.	$--ripening or growing in unploughed land, growing wild, अकृष्टपच्या इव शस्यसंपदः /Kir./i.17, /R./xiv.77.	105
+00095		<b> -पच्य	<b> अकृष्ट-पच्य	<+> अकृष्टपच्य	#-a.	$--ripening or growing in unploughed land, growing wild, अकृष्टपच्या इव शस्यसंपदः /Kir./i.17, /R./xiv.77.	105
+00095.1		<b> -रोहिन्	<b> अकृष्ट-रोहिन्	<+> अकृष्टरोहिन्	#-a.	$--ripening or growing in unploughed land, growing wild, अकृष्टपच्या इव शस्यसंपदः /Kir./i.17, /R./xiv.77.	105
 00096	002-37	<p> अकेतन	<p> अकेतन	<p> अकेतन	#-a. (f. ना)	$--Houseless.	13
 00097	002-38	<p> अक्का	<p> अक्का	<p> अक्का	#-f.	$--A mother.	12
 00098	002-39	<p> अक्त	<p> अक्त	<p> अक्त	#-n.	$--1. Oil; 2. ointment.	23
@@ -110,16 +110,16 @@
 00100	002-41	<p> अक्रिया	<p> अक्रिया	<p> अक्रिया	#-f.	$--Inactivity, neglect of duty.	31
 00101	002-42	<p> अक्ष्	<p> अक्ष्	<p> अक्ष्	#-vt. 1P (pp. अक्षित)	$--1. To reach; 2. to pervade; 3. to accumulate.	48
 00102	002-43	<p> अक्ष	<p> अक्ष	<p> अक्ष	#-(I) m.	$--1. A die for playing with; 2. part of a car; 3. a wheel; 4. a car; 5. a snake; 6. legal proceedings; 7. a seed of which rosaries are made; 8. the soul; 9. sacred lore; 10. a weight of 16 <i>māshas</i>; 11. a person born blind; 12. terrestrial latitude.	255
-00103	002-43	<p> अक्ष	<p> अक्ष	<p> अक्ष	#-(II) n.	$--1. An organ of sense; 2. sea-salt.	37
-00104	002-43	<b> अक्ष-आवपन	<b> अक्ष-आवपन	<+> अक्षावपन	#-n.	$--a dice-board.	16
-00105	002-43	<b> अक्ष-आवली	<b> अक्ष-आवली	<+> अक्षावली	#-f.	$--a rosary.	12
-00106	002-43	<b> अक्ष-आवाप	<b> अक्ष-आवाप	<+> अक्षावाप	#-m.	$--a gambler.	13
-00107	002-43	<b> अक्ष-कर्ण	<b> अक्ष-कर्ण	<+> अक्षकर्ण	#-m.	$--hypotenuse.	14
-00108	002-43	<b> अक्ष-कुशल	<b> अक्ष-कुशल	<+> अक्षकुशल	#-a.	$--skilled in dice.	19
-00109	002-43	<b> अक्ष-कूट	<b> अक्ष-कूट	<+> अक्षकूट	#-m.	$--the pupil of the eye.	24
-00110	002-43	<b> अक्ष-ग्लह	<b> अक्ष-ग्लह	<+> अक्षग्लह	#-m.	$--gambling, playing at dice.	29
-00111	002-43	<b> अक्ष-ज	<b> अक्ष-ज	<+> अक्षज	#-m.	$--a diamond.	13
-00112	002-43	<b> अक्ष-ज्ञ	<b> अक्ष-ज्ञ	<+> अक्षज्ञ	#-a.	$--skilled in gambling.	23
-00113	002-43	<b> अक्ष-तत्व	<b> अक्ष-तत्व	<+> अक्षतत्व	#-n.	$--science of dice.	19
-00114	002-43	<b> अक्ष-दर्शक	<b> अक्ष-दर्शक	<+> अक्षदर्शक	#-m.	$--a judge.	11
-00115	002-43	<b> अक्ष-देवन	<b> अक्ष-देवन	<+> अक्षदेवन	#-n.	$--gambling, playing with dice.	31
+00103					#-(II) n.	$--1. An organ of sense; 2. sea-salt.	37
+00104		<b> -आवपन	<b> अक्ष-आवपन	<+> अक्षावपन	#-n.	$--a dice-board.	16
+00105		<b> -आवली	<b> अक्ष-आवली	<+> अक्षावली	#-f.	$--a rosary.	12
+00106		<b> -आवाप	<b> अक्ष-आवाप	<+> अक्षावाप	#-m.	$--a gambler.	13
+00107		<b> -कर्ण	<b> अक्ष-कर्ण	<+> अक्षकर्ण	#-m.	$--hypotenuse.	14
+00108		<b> -कुशल	<b> अक्ष-कुशल	<+> अक्षकुशल	#-a.	$--skilled in dice.	19
+00109		<b> -कूट	<b> अक्ष-कूट	<+> अक्षकूट	#-m.	$--the pupil of the eye.	24
+00110		<b> -ग्लह	<b> अक्ष-ग्लह	<+> अक्षग्लह	#-m.	$--gambling, playing at dice.	29
+00111		<b> -ज	<b> अक्ष-ज	<+> अक्षज	#-m.	$--a diamond.	13
+00112		<b> -ज्ञ	<b> अक्ष-ज्ञ	<+> अक्षज्ञ	#-a.	$--skilled in gambling.	23
+00113		<b> -तत्व	<b> अक्ष-तत्व	<+> अक्षतत्व	#-n.	$--science of dice.	19
+00114		<b> -दर्शक	<b> अक्ष-दर्शक	<+> अक्षदर्शक	#-m.	$--a judge.	11
+00115		<b> -देवन	<b> अक्ष-देवन	<+> अक्षदेवन	#-n.	$--gambling, playing with dice.	31

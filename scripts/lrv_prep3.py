@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Extract literary sources and mark with <ls></ls> markup
+"""Extract literary sources and mark with <ls></ls> markup.
+	Extract the paragraph breaks and mark with <P> markup.
 
 Usage - python3 lrv_prep3.py ../interim/lrv_2.txt ../interim/lrv_3.txt
 """

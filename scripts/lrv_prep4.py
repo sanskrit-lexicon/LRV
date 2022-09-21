@@ -16,14 +16,24 @@ if __name__ == "__main__":
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	ls_list = []
 	for lin in fin:
-		# https://stackoverflow.com/questions/41356013/how-to-detect-if-a-string-contains-hindi-devnagri-in-it-with-character-and-wor
-		# [\u0900-\u097F]+ matches Devanagari text
 		if lin.startswith('<L>') or lin.startswith('<LEND>') or lin == '\n':
 			lin = sanscript.transliterate(lin, 'devanagari', 'slp1')
 			fout.write(lin)
 		else:
 			(key2, grammar, entry) = lin.split('\t')
+			# Prepare key2
 			key2 = sanscript.transliterate(key2, 'devanagari', 'slp1')
+			# Prepare grammar
+			# https://stackoverflow.com/questions/41356013/how-to-detect-if-a-string-contains-hindi-devnagri-in-it-with-character-and-wor
+			# [\u0900-\u097F]+ matches Devanagari text
+			n = re.split('([\u0900-\u097F]+)', grammar)
+			gram = ''
+			for j in range(len(n)):
+				if j % 2 == 0:
+					gram += n[j]
+				else:
+					gram += '<s>' + sanscript.transliterate(n[j], 'devanagari', 'slp1') + '</s>'
+			# Prepare entry
 			m = re.split('([\u0900-\u097F]+)', entry)
 			ent = ''
 			for i in range(len(m)):
@@ -31,6 +41,7 @@ if __name__ == "__main__":
 					ent += m[i]
 				else:
 					ent += '<s>' + sanscript.transliterate(m[i], 'devanagari', 'slp1') + '</s>'
-			fout.write(key2 + '\t' + grammar + '\t' + ent)
+			# Write to file
+			fout.write(key2 + '\t' + gram + '\t' + ent)
 
 

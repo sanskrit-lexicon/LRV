@@ -54,8 +54,6 @@ if __name__ == "__main__":
 			clean_k1 = remove_markup(k1)
 		clean_grammar = remove_markup(grammar)
 		clean_entry = remove_markup(entry)
-		# ईदृक्ष a. (f. क्षी), ईदृश a. (f. शी)
-		# This parsing is pending.
 		if ',' in clean_k2:
 			cnt = 0
 			split2 = clean_k2.split(', ')

@@ -1,6 +1,7 @@
 # lrv_0.txt
 
-Copy of `glacier/LR_Vaidya_Main_proofed_20220920.txt` made on 20 September 2022
+1. Copy of `glacier/LR_Vaidya_Main_proofed_20220920.txt` made on 20 September 2022
+Three cases of extra spaces after `<b>` tag were corrected. See https://github.com/sanskrit-lexicon/LRV/issues/4 for details.
 
 # lrv_1.txt
 

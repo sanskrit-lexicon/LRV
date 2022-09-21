@@ -28,6 +28,10 @@ if __name__ == "__main__":
 			k2 = p.group(2)
 			k1_dev = sanscript.transliterate(k1, 'slp1', 'devanagari')
 			k2_dev = sanscript.transliterate(k2, 'slp1', 'devanagari')
+			# Hack till this issue gets resolved
+			# https://github.com/indic-transliteration/indic_transliteration_py/issues/75
+			k1_dev = k1_dev.replace('रृ', 'र्ऋ')
+			k2_dev = k2_dev.replace('रृ', 'र्ऋ')
 			lin = lin.replace('<k1>'+k1+'<k2>'+k2, '<k1>'+k1_dev+'<k2>'+k2_dev)
 			fout.write(lin)
 		elif  lin.startswith('<LEND>') or lin == '\n':
@@ -57,6 +61,13 @@ if __name__ == "__main__":
 					ent_dev += n[j]
 				else:
 					ent_dev += sanscript.transliterate(n[j], 'slp1', 'devanagari')
+			# Hack till this issue gets resolved
+			# https://github.com/indic-transliteration/indic_transliteration_py/issues/75
+			k2_dev = k2_dev.replace('रृ', 'र्ऋ')
+			gram_dev = gram_dev.replace('रृ', 'र्ऋ')
+			ent_dev = ent_dev.replace('रृ', 'र्ऋ')
+
+
 			# Write to file
 			fout.write(k2_dev + '\t' + gram_dev + '\t' + ent_dev)
 

@@ -18,6 +18,10 @@ if __name__ == "__main__":
 	for lin in fin:
 		if lin.startswith('<L>') or lin.startswith('<LEND>') or lin == '\n':
 			lin = sanscript.transliterate(lin, 'devanagari', 'slp1')
+			# Hack till this issue gets resolved
+			# https://github.com/indic-transliteration/indic_transliteration_py/issues/75
+			lin = lin.replace('र्ऋ', 'रृ')
+
 			fout.write(lin)
 		else:
 			(key2, grammar, entry) = lin.split('\t')
@@ -43,6 +47,13 @@ if __name__ == "__main__":
 				else:
 					ent += '{#' + sanscript.transliterate(m[i], 'devanagari', 'slp1') + '#}'
 			ent = re.sub('#}([ ]+){#', '\g<1>', ent)
+
+			# Hack till this issue gets resolved
+			# https://github.com/indic-transliteration/indic_transliteration_py/issues/75
+			key2 = key2.replace('र्ऋ', 'रृ')
+			gram = gram.replace('र्ऋ', 'रृ')
+			ent = ent.replace('र्ऋ', 'रृ')
+
 			# Write to file
 			fout.write(key2 + '¦ {%' + gram + '%} ' + ent)
 

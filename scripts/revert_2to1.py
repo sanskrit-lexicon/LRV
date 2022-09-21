@@ -37,6 +37,9 @@ def first_run(filein, fileout):
 				# अंश-अंशि -> -अंशि
 				k2secondpart = k2.split('-')[1]
 				tabclass = ('<b> -', '<b> ', '<+> ')
+			elif pc == prevpc:
+				k2secondpart = k2
+				tabclass = ('<b> ', '<b> ', '<+> ')
 			else:
 				k2secondpart = k2
 				tabclass = ('<p> ', '<p> ', '<p> ')
@@ -92,19 +95,18 @@ def second_run(fileout1, fileout2):
 		pc = value[0][1]
 		k2secondpart = ', '.join([x[2] for x in value])
 		k2secondpart = k2secondpart.replace(', <b>', ',')
+		k2secondpart = k2secondpart.replace(', <p>', ',')
 		k2 = ', '.join([x[3] for x in value])
 		k2 = k2.replace(', <b>', ',')
+		k2 = k2.replace(', <p>', ',')
 		k1 = ', '.join([x[4] for x in value])
 		k1 = k1.replace(', <+>', ',')
+		k1 = k1.replace(', <p>', ',')
 		gram = value[0][5]
 		entry = value[0][6]
 		enlen = value[0][7]
-		if len(value) == 1:
-			fout.write(lnum + '\t' + pc + '\t' + k2secondpart + '\t' + k2 + '\t' + k1 + '\t' + gram + '\t' + entry + '\t' + enlen + '\n')
-		else:
-			fout.write(lnum + '\t' + pc + '\t' + '<b> ' + k2secondpart + '\t' + '<b> ' + k2 + '\t' + '<+> ' + k1 + '\t' + gram + '\t' + entry + '\t' + enlen + '\n')
+		fout.write(lnum + '\t' + pc + '\t' + k2secondpart + '\t' + k2 + '\t' + k1 + '\t' + gram + '\t' + entry + '\t' + enlen + '\n')
 		print(key, len(result[key]))
-	#print(result['00011'])
 
 		
 	fout.close()

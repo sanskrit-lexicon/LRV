@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 """Extract L-id, page-column, key1, key2 and put in metaline
 	Extract key2, lexinfo and entry and put in the next line
-
+	
 	e.g. 
 	<L>00017<pc>001-09<k1>अंशु<k2>अंशु
 	अंशु	m.	1. A ray of light, सूर्योंशुभिर्मित्रमिवारविन्दम् /K.S./i.32; 2. light, refulgence, अंगुष्ठनखांशुभिन्नया /Sis./i.9; 3. dress; 4. a minute particle, an atom.
 	<LEND>
+
+	Also separate out the entries with multiple headword information in them.
+	e.g. aMSa-hara, aMSa-hArin
 
 Usage - python3 lrv_prep2.py ../interim/lrv_1.txt ../interim/lrv_2.txt
 """
@@ -51,8 +54,34 @@ if __name__ == "__main__":
 			clean_k1 = remove_markup(k1)
 		clean_grammar = remove_markup(grammar)
 		clean_entry = remove_markup(entry)
-		fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
-		fout.write(clean_k2 + '\t' + clean_grammar + '\t' + clean_entry  + '\n')
-		fout.write('<LEND>\n\n')
+		# ईदृक्ष a. (f. क्षी), ईदृश a. (f. शी)
+		# This parsing is pending.
+		if ',' in clean_k2:
+			cnt = 0
+			split2 = clean_k2.split(', ')
+			split1 = clean_k1.split(', ')
+			for i in range(len(split2)):
+				if ' ' in split2[i]:
+					mp = re.search('^([^ ]*?)[ ]+(.*)$', split2[i])
+					clean_k2 = mp.group(1)
+					clean_grammar = mp.group(2)
+
+					# print(mp.groups())
+					np = re.search('^(.*?)[ ]+([^ ]*)$', split1[i])
+					# print(np.groups())
+					clean_k1 = np.group(1)
+				else:
+					clean_k2 = split2[i]
+					clean_k1 = split1[i]
+				if cnt > 0:
+					lnum = lnum + '.' + str(cnt)
+				fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
+				fout.write(clean_k2 + '\t' + clean_grammar + '\t' + clean_entry  + '\n')
+				fout.write('<LEND>\n\n')
+				cnt += 1
+		else:
+			fout.write('<L>' + lnum + '<pc>' + clean_pc + '<k1>' + clean_k1 + '<k2>' + clean_k2 + '\n')
+			fout.write(clean_k2 + '\t' + clean_grammar + '\t' + clean_entry  + '\n')
+			fout.write('<LEND>\n\n')
 	fin.close()
 	fout.close()

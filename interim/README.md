@@ -21,7 +21,3 @@ Three cases of extra spaces after `<b>` tag were corrected. See https://github.c
 
 1. Converted Devanagari data to SLP1.
 
-
-
-
-

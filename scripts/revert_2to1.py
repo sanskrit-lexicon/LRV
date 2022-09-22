@@ -134,4 +134,4 @@ if __name__ == "__main__":
 	filein = sys.argv[1]
 	fileout = sys.argv[2]
 	first_run(filein, fileout)
-	second_run(fileout, 'temp.txt')
+	second_run(fileout, fileout)

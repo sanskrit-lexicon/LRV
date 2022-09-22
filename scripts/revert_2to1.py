@@ -79,6 +79,9 @@ def second_run(fileout1, fileout2):
 		lnum = split[0]
 		pc = split[1]
 		k2secondpart = split[2]
+		# https://github.com/sanskrit-lexicon/LRV/issues/7#issue-1381321064 Case 2
+		if '˚' in k2secondpart:
+			k2secondpart = '<b> ˚' + k2secondpart.split('˚')[-1]
 		k2 = split[3]
 		k1 = split[4]
 		gram = split[5]

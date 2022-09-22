@@ -102,13 +102,28 @@ def second_run(fileout1, fileout2):
 		k1 = ', '.join([x[4] for x in value])
 		k1 = k1.replace(', <+>', ',')
 		k1 = k1.replace(', <p>', ',')
-		gram = value[0][5]
+		# As is
+		# <b> -कर्मन्, -क्रिया	<b> अग्नि-कर्मन्, अग्नि-क्रिया	<+> अग्निकर्मन्, अग्निक्रिया	#-n.	$--any religious act performed by means of fire.	48
+		# Shoud be
+		# <b> -कर्मन् n., -क्रिया f.	<b> अग्नि-कर्मन् n., अग्नि-क्रिया f.	<+> अग्निकर्मन् n., अग्निक्रिया f.	#-xxx	$--any religious act performed by means of fire.	48
+		grams = [x[5].replace('#-','') for x in value]
+		if len(set(grams)) == 1:
+			gram = '#-' + grams[0]
+		else:
+			gram = '#-' + ', '.join(grams)
+			k2secondpart_list = k2secondpart.split(', ')
+			k2_list = k2.split(', ')
+			k1_list = k1.split(', ')
+			k2secondpart_list1 = [k2secondpart_list[i] + ' ' + grams[i] for i in range(len(grams))]
+			k2_list1 = [k2_list[i] + ' ' + grams[i] for i in range(len(grams))]
+			k1_list1 = [k1_list[i] + ' ' + grams[i] for i in range(len(grams))]
+			k2secondpart = ', '.join(k2secondpart_list1)
+			k2 = ', '.join(k2_list1)
+			k1 = ', '.join(k1_list1)
+			gram = '#-xxx'
 		entry = value[0][6]
 		enlen = value[0][7]
-		fout.write(lnum + '\t' + pc + '\t' + k2secondpart + '\t' + k2 + '\t' + k1 + '\t' + gram + '\t' + entry + '\t' + enlen + '\n')
-		print(key, len(result[key]))
-
-		
+		fout.write(lnum + '\t' + pc + '\t' + k2secondpart + '\t' + k2 + '\t' + k1 + '\t' + gram + '\t' + entry + '\t' + enlen + '\n')		
 	fout.close()
 
 

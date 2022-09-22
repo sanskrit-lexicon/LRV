@@ -48,9 +48,9 @@ def first_run(filein, fileout):
 		elif lin.startswith('<LEND>'):
 			# 00005	001-02	<p> अऋणिन्	<p> अऋणिन्	<p> अऋणिन्	#-a. (f. नी)	$--Free from debt.	18
 			# lnum	pc	k2secondpart	k2	k1	gram	entry	enlen
-			if pc == prevpc and k2 == prevk2:
+			if pc == prevpc and (k2 == prevk2 and k1 == prevk1):
 				fout.write(lnum + '\t' + '' + '\t' + '' + '\t' + '' + '\t' + '' + '\t#-' + gram + '\t$--' + entry + '\t' + enlen + '\n')             
-			elif pc == prevpc and k2 != prevk2:
+			elif pc == prevpc and (k2 != prevk2 or k1 != prevk1):
 				fout.write(lnum + '\t' + '' + '\t' + tabclass[0] + k2secondpart + '\t' + tabclass[1] + k2 + '\t' + tabclass[2] + k1 + '\t#-' + gram + '\t$--' + entry + '\t' + enlen + '\n')             
 			else:
 				fout.write(lnum + '\t' + pc + '\t' + tabclass[0] + k2secondpart + '\t' + tabclass[1] + k2 + '\t' + tabclass[2] + k1 + '\t#-' + gram + '\t$--' + entry + '\t' + enlen + '\n')             

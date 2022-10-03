@@ -129,7 +129,11 @@ def second_run(fileout1, fileout2):
 			k1 = ', '.join(k1_list1)
 			gram = '#-xxx'
 		entry = value[0][6]
-		enlen = value[0][7]
+		# $--//With
+		# should be
+		# $//With
+		entry = entry.replace('$--//', '$//')
+		enlen = str(len(entry))
 		fout.write(lnum + '\t' + pc + '\t' + k2secondpart + '\t' + k2 + '\t' + k1 + '\t' + gram + '\t' + entry + '\t' + enlen + '\n')		
 	fout.close()
 

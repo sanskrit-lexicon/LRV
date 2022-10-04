@@ -48,7 +48,7 @@ def first_run(filein, fileout):
 		elif lin.startswith('<LEND>'):
 			# 00005	001-02	<p> अऋणिन्	<p> अऋणिन्	<p> अऋणिन्	#-a. (f. नी)	$--Free from debt.	18
 			# lnum	pc	k2secondpart	k2	k1	gram	entry	enlen
-			if pc == prevpc and (k2 == prevk2 and k1 == prevk1):
+			if pc == prevpc and (k2 == prevk2 and k1 == prevk1) and lnum not in ['08882', '08950']:
 				fout.write(lnum + '\t' + '' + '\t' + '' + '\t' + '' + '\t' + '' + '\t#-' + gram + '\t$--' + entry + '\t' + enlen + '\n')
 			elif pc == prevpc and (k2 != prevk2 or k1 != prevk1):
 				fout.write(lnum + '\t' + '' + '\t' + tabclass[0] + k2secondpart + '\t' + tabclass[1] + k2 + '\t' + tabclass[2] + k1 + '\t#-' + gram + '\t$--' + entry + '\t' + enlen + '\n')
@@ -57,6 +57,7 @@ def first_run(filein, fileout):
 			prevpc = pc
 			prevk2 = k2
 			prevk1 = k1
+			prevlnum = lnum
 		else:
 			(k2, gram, entry) = lin.split('\t')
 			entry = entry.rstrip()
@@ -138,26 +139,8 @@ def second_run(fileout1, fileout2):
 	fout.close()
 
 
-def third_run(filein2, fileout3):
-	fin2 = codecs.open(filein2, 'r', 'utf-8')
-	data = fin2.readlines()
-	fin2.close()
-	#fout3 = codecs.open(fileout3, 'w', 'utf-8')
-	for lin in data:
-		lin = lin.rstrip()
-		split = lin.split('\t')
-		k2secondpart = split[2]
-		k2secondpart = k2secondpart.replace('<b> ', '')
-		k2parts = k2secondpart.split(', ')
-		if len(k2parts) > 1 and len(set(k2parts)) == 1:
-			print(k2secondpart)
-			print(lin)
-	#fout3.close()
-
-
 if __name__ == "__main__":
 	filein = sys.argv[1]
 	fileout = sys.argv[2]
 	first_run(filein, fileout)
 	second_run(fileout, fileout)
-	third_run(fileout, fileout)

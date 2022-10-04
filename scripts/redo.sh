@@ -1,8 +1,9 @@
-echo "Step1."
+echo "Step1. Convert to Unix line-endings and store in lrv_1.txt."
 python3 lrv_prep1.py ../interim/lrv_0.txt ../interim/lrv_1.txt
-echo "Step2."
+echo "Step2. Add metaline to lrv_1.txt and store in lrv_2.txt."
 python3 lrv_prep2.py ../interim/lrv_1.txt ../interim/lrv_2.txt
-echo "Step3."
+echo "Step3. Add literary source and paragraph markups and store in lrv_3.txt."
 python3 lrv_prep3.py ../interim/lrv_2.txt ../interim/lrv_3.txt
-echo "Step4."
+echo "Step4. Convert Devanagari to SLP1 and store in lrv_4.txt."
 python3 lrv_prep4.py ../interim/lrv_3.txt ../interim/lrv_4.txt
+

@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""Find duplicate page-sequence numbers, if any.
+
+Usage - python3 duplicate_pc.py
+"""
+
 import codecs
 import csv
 

@@ -51,7 +51,7 @@ if __name__ == "__main__":
 					bracket_counter += 1
 				else:
 					bad_counter += 1
-					print(bad_counter, k1)
+					#print(bad_counter, k1)
 					k1_deva = sanscript.transliterate(k1, 'slp1', 'devanagari')
 					fout.write(k1_deva + '\t' + pc + '\n')
 

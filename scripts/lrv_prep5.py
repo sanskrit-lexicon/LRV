@@ -18,7 +18,7 @@ def prepare_metaline(meta):
 if __name__ == "__main__":
 	filein = sys.argv[1]
 	fileout = sys.argv[2]
-	changefile = '../interim/change_metalines.txt'
+	changefile = '../interim/change_metalines.json'
 	cfout = codecs.open(changefile, 'w', 'utf-8')
 	fin = codecs.open(filein, 'r', 'utf-8')
 	fout = codecs.open(fileout, 'w', 'utf-8')

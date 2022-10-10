@@ -19,7 +19,7 @@ if __name__ == "__main__":
 			k1 = splt[3]
 			k2 = splt[4]
 			if hw.startswith('<p>'):
-				if hw != k1 or hw != k2 or k1 != k2:
+				if k1 != k2:
 					print(counter, lnum, pc, hw, k1, k2)
 					counter += 1
 			

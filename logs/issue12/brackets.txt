@@ -1,0 +1,490 @@
+00085	002-32	<p> अकूपा(वा)र	<p> अकूपार, अकूवार	<p> अकूपार, अकूवार	#-m.	$--1. The sea; 2. a tortoise; 3. the tortoise supposed to uphold the world.	75
+00163	003-10	<p> अक्षि(क्षी)व	<p> अक्षिव, अक्षीव	<p> अक्षिव, अक्षीव	#-n.	$--Seasalt.	11
+00186	003-26	<p> अगति(ती)क	<p> अगतिक, अगतीक	<p> अगतिक, अगतीक	#-a. (f. का)	$--Destitute of resort, destitute of resources, मामगतिकम् /Śankara./	68
+00344	005-19	<p> अंकु(कू)र	<p> अंकुर, अंकूर	<p> अंकुर, अंकूर	#-m.	$--1. A sprout, /R./vi.47, /K.S./iii.32; 2. hair; 3. blood.	59
+00350	006-02	<p> अंकोट(ठ)	<p> अंकोट, अंकोठ	<p> अंकोट, अंकोठ	#-m.	$--The name of a tree.	22
+00387	006-08	<p> अंगण(न)	<p> अंगण, अंगन	<p> अंगण, अंगन	#-n.	$--A yard, a court, प्रकटांगनोपभोगाऽप्यखंडचरित्रा /Kad./	56
+00411	006-24	<p> अंगुरी(ली)य	<p> अंगुरीय, अंगुलीय	<p> अंगुरीय, अंगुलीय	#-n.	$--A finger-ring.	17
+00412	006-25	<p> अंगुरी(ली)यक	<p> अंगुरीयक, अंगुलीयक	<p> अंगुरीयक, अंगुलीयक	#-n.	$--A finger-ring.	17
+00414	006-27	<p> अंगुलि(ली)	<p> अंगुलि, अंगुली	<p> अंगुलि, अंगुली	#-f.	$--1. A finger, /R./i.28; 2. the thumb.	39
+00485	007-24	<p> अजक(का)व	<p> अजक(का)व	<p> अजक(का)व	#-n.	$--Śiva’s bow.	14
+00486	007-25	<p> अजग(गा)व	<p> अजग(गा)व	<p> अजग(गा)व	#-n.	$--See the preceding word.	26
+00557	009-09	<p> अटनि(नी)	<p> अटनि(नी)	<p> अटनि(नी)	#-f.	$--The notched extremity of a bow, /R./xi.14.	45
+00558	009-10	<p> अटवि(वी)	<p> अटवि(वी)	<p> अटवि(वी)	#-f.	$--A wood, a forest.	20
+00561	009-13	<p> अटाटा(ट्या)	<p> अटाटा(ट्या)	<p> अटाटा(ट्या)	#-f.	$--Roaming about as a religious mendicant.	42
+00578	009-22	<p> अणि(णी)	<p> अणि(णी)	<p> अणि(णी)	#-m.	$--1. A pin of the axle; 2. a limit, a boundary.	48
+00709	011-11	<p> अति(ती)रेक	<p> अति(ती)रेक	<p> अति(ती)रेक	#-m.	$--1. Surplus, excess, redundancy; 2. difference; 3. pre-eminence.	66
+00718	011-18	<p> अतिश(शा)यिन्	<p> अतिश(शा)यिन्	<p> अतिश(शा)यिन्	#-a. (f. नी)	$--1. abounding; 2. Excelling, इदमुत्तममतिशयिनि व्यंग्ये वाच्याद्ध्वनिर्बुधैः कथितः /K.Pr./i.	93
+00724	011-24	<p> अति(ती)सार	<p> अति(ती)सार	<p> अति(ती)सार	#-m.	$--Dysentery.	13
+00725	011-25	<p> अति(ती)सारकिन्	<p> अति(ती)सारकिन्	<p> अति(ती)सारकिन्	#-a. (f. णी)	$--Afflicted with dysentery.	28
+00726	011-26	<p> अति(ती)सारिन्	<p> अति(ती)सारिन्	<p> अति(ती)सारिन्	#-a. (f. णी)	$--See the preceding word.	26
+00929		<b> -पुरु(रू)ष	<b> अधि-पुरु(रू)ष	<+> अधिपुरु(रू)ष	#-m.	$--the supreme spirit.	22
+00957	015-05	<p> अधि(धी)कार	<p> अधि(धी)कार	<p> अधि(धी)कार	#-m.	$--1. Government, royalty; 2. prerogative; 3. ownership, e.g. सर्वे स्युरधिकारिणः; 4. title, privilege, e.g. अध्ययने शूद्राणां नाधिकारः; 5. a paragraph or section, नैमित्तिकोऽयं प्रायश्चित्ताधिकारः /Mit./; 6. a heading rule (in gram.); 7. charge, ताम्बूलाधिकारो दत्तः /Hit./i.; 8. duty, office, स्वाधिकारात्प्रमत्तः /Megh./i.1.	327
+00974	016-08	<p> अधिरोह(हि)णी	<p> अधिरोह(हि)णी	<p> अधिरोह(हि)णी	#-f.	$--A ladder, a flight of steps.	31
+00975	016-09	<p> अधि(धी)वास	<p> अधि(धी)वास	<p> अधि(धी)वास	#-m.	$--1. Habitation, abode, श्रीः कैटभारिहृदयैककृताधिवासा; 2. an upper garment, mantle; 3. application of perfumes or fragrant cosmetics, ककुद्मिकन्यावक्त्रान्तर्वासलब्धाधिवासया /Sis./ii.20; 4. scent, fragrance, अधिवासस्पृहयैव /R./viii.34.	236
+01085	018-14	<p> अनप(पा)करण	<p> अनप(पा)करण	<p> अनप(पा)करण	#-n.	$--1. Not injuring; 2. non-payment (as of a debt); 3. non-delivery, as of a pledge (in law).	92
+01086	018-15	<p> अनप(पा)कर्मन्	<p> अनप(पा)कर्मन्	<p> अनप(पा)कर्मन्	#-n.	$--See अनपकरण.	14
+01299	022-18	<p> अनुक्रमणी(णिका)	<p> अनुक्रमणी(णिका)	<p> अनुक्रमणी(णिका)	#-f.	$--A table of contents.	23
+01473	025-33	<p> अनु(नू)राधा	<p> अनु(नू)राधा	<p> अनु(नू)राधा	#-f.	$--The seventeenth Nakshatra or lunar mansion consisting of three stars.	72
+01719		<b> -वेश्मि(शि)क	<b> अन्तर्-वेश्मि(शि)क	<+> अन्तर्वेश्मि(शि)क	#-m.	$--superintendent of the women’s appartment.	44
+01749		<b> -वेदि(दी)	<b> अन्तरा-वेदि(दी)	<+> अन्तरावेदि(दी)	#-f.	$--1. a kind of open portico; 2. a kind of wall, जयश्रीरन्तरावेदिर्मत्तवारणयोरिव /R./xii.93.	92
+01753	031-07	<p> अन्तरि(री)क्ष	<p> अन्तरि(री)क्ष	<p> अन्तरि(री)क्ष	#-n.	$--1. The intermediate region between earth and heaven; 2. the atmosphere, sky.	79
+01798	032-04	<p> अन्दु(न्दू)	<p> अन्दु(न्दू)	<p> अन्दु(न्दू)	#-f.	$--1. A chain, a fetter; 2. the chain for an elephant’s feet; 3. an ornament worn round the ankles.	99
+01841		<b> -मयकोश(ष)	<b> अन्न-मयकोश(ष)	<+> अन्नमयकोश(ष)	#-m.	$--the material creation, being the lowest form in which Brahman (n.) is considered as manifesting itself in its worldly existence.	131
+01948	034-32	<p> अन्वि(न्वी)त	<p> अन्वि(न्वी)त	<p> अन्वि(न्वी)त	#-a. (f. ता)	$--1. Joined or connected with; 2. possessed of; 3. understood; 4. connected grammatically.	91
+02201	039-35	<p> अपष्ठुर(ल)	<p> अपष्ठुर(ल)	<p> अपष्ठुर(ल)	#-a. (f. रा)	$--Contrary, opposite, adverse.	31
+02475	046-14	<p> अभि(भी)क	<p> अभि(भी)क	<p> अभि(भी)क	#-a. (f. का)	$--Lustful, libidinous, सोऽधिकारमभिकः कुलोचितं काश्चन स्वयमवर्तयत् समाः /R./xix.4 or अपि सिञ्चेः कृशानौ त्वं दर्पं मथ्यापि योऽभिकः.	131
+02591	049-19	<p> अभिमर्श(र्ष)	<p> अभिमर्श(र्ष)	<p> अभिमर्श(र्ष)	#-m.	$--1. Touch, contact; 2. sexual intercourse, कृताभिमर्शामनुमन्य्मानः सुतां त्वया /Sak./v. or त्वत्कलत्राभिमर्र्शी वैरास्पदं धनमित्रः /D.K./; 3. insult, offence, /K.S./v.43.	172
+02592	049-20	<p> अभिमर्श(र्ष)न	<p> अभिमर्श(र्ष)न	<p> अभिमर्श(र्ष)न	#-n.	$--The same as अभिमर्ष q.v.	27
+02652	051-06	<p> अभिश(ष)स्ति	<p> अभिश(ष)स्ति	<p> अभिश(ष)स्ति	#-f.	$--1. Abuse, calumny, scandal, defamation; 2. asking, begging.	62
+02672	051-23	<p> अभिष्य(स्य)न्द	<p> अभिष्य(स्य)न्द	<p> अभिष्य(स्य)न्द	#-m.	$--1. Oozing, flowing; 2. great increase, excess, स्वर्गाभिष्यन्दवमनं कृत्वेवोपनिवेशिता /R./xv.29 (here अभिष्यन्दवमन means ‘letting out the excess, i.e. emigration’); 3. running at the eyes.	190
+02819	055-04	<p> अभ्यु(यू)ष	<p> अभ्यु(यू)ष	<p> अभ्यु(यू)ष	#-m.	$--A kind of bread.	19
+02838	055-10	<p> अभ्रि(भ्री)	<p> अभ्रि(भ्री)	<p> अभ्रि(भ्री)	#-f.	$--A sharp-pointed stick.	25
+02935	057-02	<p> अमाम(मा)सी	<p> अमाम(मा)सी	<p> अमाम(मा)सी	#-f.	$--The same as अमावास्या q.v.	29
+02939	057-05	<p> अमाव(वा)सी	<p> अमाव(वा)सी	<p> अमाव(वा)सी	#-f.	$--The same as अमावस्या q.v.	28
+02940	057-06	<p> अमाव(वा)स्या	<p> अमाव(वा)स्या	<p> अमाव(वा)स्या	#-f.	$--The day of the conjunction of the sun and the moon, the newmoon-day, the fifteenth day of the dark half of lunar month. (सूर्याचन्द्रमसोर्यः परः सन्निकर्षः साऽमावस्या.)	171
+02968	057-21	<p> अमूदृश(क्ष)	<p> अमूदृश(क्ष)	<p> अमूदृश(क्ष)	#-a. (f. शी, क्षी)	$--the same as अमूदृस् q.v.	27
+03029	058-12	<p> अम्बरि(री)ष	<p> अम्बरि(री)ष	<p> अम्बरि(री)ष	#-(I) m.n.	$--1. A frying-pan; 2. one of the hells.	40
+03035	058-16	<p> अम्बाला(डा)	<p> अम्बाला(डा)	<p> अम्बाला(डा)	#-f.	$--A mother.	12
+03113	059-11	<p> अम्लि(म्ली)का	<p> अम्लि(म्ली)का	<p> अम्लि(म्ली)का	#-f.	$--1. A sour taste in the mouth; 2. the tamarind tree.	54
+03234	062-02	<p> अरण्यानी(नि)	<p> अरण्यानी(नि)	<p> अरण्यानी(नि)	#-f.	$--A large forest.	18
+03561	069-03	<p> अलगर्द(र्द्ध)	<p> अलगर्द(र्द्ध)	<p> अलगर्द(र्द्ध)	#-m.	$--A water-serpent.	19
+03594	069-24	<p> अलाबु(बू)	<p> अलाबु(बू)	<p> अलाबु(बू)	#-(I) f.	$--A kind of gourd.	19
+03724	072-20	<p> अवच(चा)य	<p> अवच(चा)य	<p> अवच(चा)य	#-m.	$--Gathering, especially flowers &c., ततः प्रविशतः कुसुमावचमभिनयन्त्यौ सख्यौ /Sak./iv., or अविरतकुसुमावचायखेदात् /Sis./viii.71.	127
+03744	072-35	<p> अवटि(टी)	<p> अवटि(टी)	<p> अवटि(टी)	#-f.	$--1. hole, cavity; 2. a well.	30
+03791	074-09	<p> अवन(ना)य	<p> अवन(ना)य	<p> अवन(ना)य	#-m.	$--1. Causing to descend; 2. throwing down.	43
+03795	074-13	<p> अवनि(नी)	<p> अवनि(नी)	<p> अवनि(नी)	#-f.	$--1. The earth; 2. a river.	28
+03855	075-11	<p> अवरोध(धि)क	<p> अवरोध(धि)क	<p> अवरोध(धि)क	#-(I) m.	$--A guard.	11
+03901	076-14	<p> अवसथ(थ्य)	<p> अवसथ(थ्य)	<p> अवसथ(थ्य)	#-m.	$--1. Habitation; 2. a village; 3. a school. (See आवसथ.)	56
+04061	079-13	<p> अव्यभि(भी)चार	<p> अव्यभि(भी)चार	<p> अव्यभि(भी)चार	#-m.	$--1. Non-separation, /M./ix.10; 2. fidelity.	45
+04162	081-21	<p> अश्रि(श्री)	<p> अश्रि(श्री)	<p> अश्रि(श्री)	#-f.	$--1. The sharp side of anything; 2. an angle of a room or house; 3. the edge of a weapon, वृत्रस्य हन्तुः कुलिशं कुण्ठिताश्रीव लक्ष्यते /K.S./ii.20. (This word is changed into अश्र when it follows चतुर्, त्रि, षट् and some other words in a compound, e.g. चतुरश्रशोभि /K.S./i.32, where is explained by /Mall./ to mean (fig.) ‘free from defects,’ ‘symmetrical.’)	361
+04163	081-22	<p> अश्रीक(ल)	<p> अश्रीक(ल)	<p> अश्रीक(ल)	#-a. (f. का, ला)	$--1. Unlucky, unprosperous; 2. without beauty, pale, अश्रीकाः काश्चिदन्तार्दिश इव दधिरे दाहम् /Sis./xv.96.	107
+04384	086-25	<p> असंभ(भा)व्य	<p> असंभ(भा)व्य	<p> असंभ(भा)व्य	#-a. (f. व्या)	$--1. Impossible; 2. incomprehesible.	37
+04681	092-06	<p> आकिंचन(न्य)	<p> आकिंचन(न्य)	<p> आकिंचन(न्य)	#-n.	$--Want of any possession, poverty.	35
+04723	093-29	<p> आक्षोट(ड)	<p> आक्षोट(ड)	<p> आक्षोट(ड)	#-m.n.	$--The name of a tree.	22
+04899	097-14	<p> आतापि(यि)न्	<p> आतापि(यि)न्	<p> आतापि(यि)न्	#-m.	$--A kite.	10
+05096	101-34	<p> आनुपूर्व्य(र्व)	<p> आनुपूर्व्य(र्व)	<p> आनुपूर्व्य(र्व)	#-n.	$--The same as आनुपूर्वी q.v., वर्णानुपूर्व्येण /Yaj./i.57.	59
+05110	102-06	<p> आन्तरि(री)क्ष	<p> आन्तरि(री)क्ष	<p> आन्तरि(री)क्ष	#-(I) a. (f. क्षी)	$--Atmospherical, heavenly, celestial.	38
+05251	104-34	<p> आमि(मी)क्षा	<p> आमि(मी)क्षा	<p> आमि(मी)क्षा	#-f.	$--Curd of milk and whey.	25
+05277	105-14	<p> आम्लि(म्ली)का	<p> आम्लि(म्ली)का	<p> आम्लि(म्ली)का	#-f.	$--1. the tamarind tree; 2. acidity of stomach.	47
+05292	105-22	<p> आय(या)थातथ्य	<p> आय(या)थातथ्य	<p> आय(या)थातथ्य	#-n.	$--Unfitness, unsuitableness.	29
+05343	106-21	<p> आर(रा)व	<p> आर(रा)व	<p> आर(रा)व	#-m.	$--1. Sound; 2. howling.	24
+05434	108-25	<p> आलाबु(बू)	<p> आलाबु(बू)	<p> आलाबु(बू)	#-f.	$--The same as अलाबु q.v.	25
+05456	109-13	<p> आलोच(क)न	<p> आलोच(क)न	<p> आलोच(क)न	#-n.	$--1. Seeing; 2. considering, reflecting.	41
+05466	109-23	<p> आवलि(ली)	<p> आवलि(ली)	<p> आवलि(ली)	#-f.	$--1. A row, a continuous line, अन्तर्गता मदनवह्निशिखावली या /Am.S./13; 2. a series.	84
+05547	111-06	<p> आशौच(च्य)	<p> आशौच(च्य)	<p> आशौच(च्य)	#-n.	$--The same as अशौच q.v., दशाहं शावमाशौचम् /M./v.59, 61, 62.	60
+05742	116-17	<p> इडा(ला)	<p> इडा(ला)	<p> इडा(ला)	#-f.	$--1. The earth; 2. speech; 3. a cow; 4. name of the wife of Budha.	67
+05782	117-17	<p> इंदि(दी)वर	<p> इंदि(दी)वर	<p> इंदि(दी)वर	#-n.	$--The blue lotus.	18
+05874	119-01	<p> इशी(षी)का	<p> इशी(षी)का	<p> इशी(षी)का	#-f.	$--An elephant’s eyeball.	25
+05944	120-25	<p> ईर्ष्या(र्षा)	<p> ईर्ष्या(र्षा)	<p> ईर्ष्या(र्षा)	#-f.	$--Envy of another’s success.	29
+05945	120-26	<p> ईर्ष्या(र्षा)लु	<p> ईर्ष्या(र्षा)लु	<p> ईर्ष्या(र्षा)लु	#-a.	$--Envious.	11
+05946	120-27	<p> ईलि(ली)	<p> ईलि(ली)	<p> ईलि(ली)	#-f.	$--A cudgel. (Also इली.)	24
+05963	121-03	<p> ईश्वरा(री)	<p> ईश्वरा(री)	<p> ईश्वरा(री)	#-f.	$--An epithet of Durgā.	23
+05973	121-08	<p> ईषि(षी)का	<p> ईषि(षी)का	<p> ईषि(षी)का	#-f.	$--1. A painter’s brush; 2. an elephant’s eye ball; 3. an arrow.	64
+06054	122-34	<p> उच्छ्र(च्छ्रा)य	<p> उच्छ्र(च्छ्रा)य	<p> उच्छ्र(च्छ्रा)य	#-m.	$--1. Height (physical and moral), शृंगोच्छ्रायैः कुमुदविशदैर्यो वितस्य स्थितः खम् /Megh./i.58; 2. growth, increase, /Kir./v.31; 3. pride.	138
+06064	123-08	<p> उज्जयि(य)नी	<p> उज्जयि(य)नी	<p> उज्जयि(य)नी	#-f.	$--The name of a city, the capital of the Avantis, सौधोत्संगप्रनयविमुखो मास्म भूरुज्जयिन्याः /Megh./i.27. (See अवन्ति.)	119
+06345	129-03	<p> उदक(कि)ल	<p> उदक(कि)ल	<p> उदक(कि)ल	#-a. (f. ला)	$--Watery.	10
+06603	134-26	<p> उन्न(न्ना)य	<p> उन्न(न्ना)य	<p> उन्न(न्ना)य	#-m.	$--1. Raising, elevating; 2. analogy, resemblance; 3. inference.	64
+06672	136-12	<p> उपक्व(क्वा)ण	<p> उपक्व(क्वा)ण	<p> उपक्व(क्वा)ण	#-m.	$--The sound of a lute.	23
+06797	139-27	<p> उपब(व)र्ह	<p> उपब(व)र्ह	<p> उपब(व)र्ह	#-m.	$--A pillow.	12
+06819	140-14	<p> उपय(या)म	<p> उपय(या)म	<p> उपय(या)म	#-m.	$--1. Marriage, e.g. कन्या त्वजातोपयमा सलज्जा नवयौवना; 2. restraint.	68
+06836	141-03	<p> उपर(रा)म	<p> उपर(रा)म	<p> उपर(रा)म	#-m.	$--1. Ceasing, stopping; 2. abstaining from; 3. death.	54
+07039	146-10	<p> उभये(य)द्युस्	<p> उभये(य)द्युस्	<p> उभये(य)द्युस्	#-ind.	$--1. On both days; 2. on two subsequent days.	46
+07107	147-24	<p> उल्व(ल्ब)ण	<p> उल्व(ल्ब)ण	<p> उल्व(ल्ब)ण	#-a. (f. णा)	$--1. Thick, abundant; 2. much, excessive, superfluous, /K.S./vii.84; 3. manifest, clear, तस्यासीदुल्बणो मार्गः /R./iv.33.	122
+07126	148-02	<p> उशी(षी)र m.n., उशी(षी)रक n.	<p> उशी(षी)र m.n., उशी(षी)रक n.	<p> उशी(षी)र m.n., उशी(षी)रक n.	#-xxx	$--The fragrant root of a certain plant, स्तनन्यस्तोशीरं प्रशिथिलमृणालैकवलयम् /Sak./iii.	88
+07207	149-21	<p> ऊर्ध्व(र्द्ध्व)	<p> ऊर्ध्व(र्द्ध्व)	<p> ऊर्ध्व(र्द्ध्व)	#-(I) a. (f. र्ध्वा)	$--1. Rising upwards, elevated; 2. high, superior; 3. not sitting; 4. torn (as hair).	85
+07532	154-37	<p> ऐडविड(ल)	<p> ऐडविड(ल)	<p> ऐडविड(ल)	#-m.	$--An epithet of Kubera.	24
+07603	156-08	<p> ओषधि(धी)	<p> ओषधि(धी)	<p> ओषधि(धी)	#-f.	$--1. A herb; 2. a medical plant; 3. an annual plant or herb which dies after becoming ripe.	92
+07733	158-12	<p> औषधि(धी)	<p> औषधि(धी)	<p> औषधि(धी)	#-f.	$--1. A herb; 2. a medicinal herb, e.g. मणिमंत्रौषधीनां प्रभावः; 3. an herb which emits fire, /Kir./v.24; 4. an annual plant.	125
+07825	160-10	<p> कच्छु(च्छू)	<p> कच्छु(च्छू)	<p> कच्छु(च्छू)	#-f.	$--Itch, scab.	14
+07844	160-22	<p> कंज(जा)र	<p> कंज(जा)र	<p> कंज(जा)र	#-m.	$--1. The belly; 2. an elephant; 3. the sun; 4. an epithet of Brahman (m.).	75
+07863	161-04	<p> कटि(टी)	<p> कटि(टी)	<p> कटि(टी)	#-f.	$--1. The hip, /M./viii.281; 2. the buttocks; (the word is considered as vulgar and colloquial in these senses; the /S.D./ for instance, says that कटि is ग्राम्य in ‘कटिस्ते हरते मनः’); 3. an elephant’s cheek.	209
+07907	161-25	<p> कडंग(क)र	<p> कडंग(क)र	<p> कडंग(क)र	#-m.	$--Straw.	9
+07908	161-26	<p> कडंग(क)रीय	<p> कडंग(क)रीय	<p> कडंग(क)रीय	#-a. (f. या)	$--To be fed with straw (as a cow or buffalo), /R./v.9.	55
+07911	161-29	<p> कडं(लं)ब	<p> कडं(लं)ब	<p> कडं(लं)ब	#-m.	$--Stem.	8
+07928	162-06	<p> कणेरा(रु)	<p> कणेरा(रु)	<p> कणेरा(रु)	#-f.	$--1. A she-elephant; 2. a courtezan.	37
+08113	165-25	<p> कंदोट(ट्ट)	<p> कंदोट(ट्ट)	<p> कंदोट(ट्ट)	#-m.	$--1. The white lotus; 2. the blue lotus, मोहमुकुलायमाननेत्रकंदोट्टयुगलः /M.M./viii.	84
+08220	167-15	<p> कफोणि(णी)	<p> कफोणि(णी)	<p> कफोणि(णी)	#-m.f.	$--The elbow. (Also कफणि.)	26
+08263	168-08	<p> कं(कां)पिल्ल	<p> कं(कां)पिल्ल	<p> कं(कां)पिल्ल	#-m.	$--The name of a tree; (also कांपिल्लक), कांपिल्लकप्रसवपाटलगंडपालीपाकारुणस्फुटितदाडिमकांति वक्त्रम् /M.M./ix.	109
+08273	168-15	<p> कंबी(वी)	<p> कंबी(वी)	<p> कंबी(वी)	#-f.	$--A ladle.	11
+08339	169-08	<p> कर(रे)टु	<p> कर(रे)टु	<p> कर(रे)टु	#-m.	$--A kind of bird.	18
+08352	169-16	<p> करंभ(ब)	<p> करंभ(ब)	<p> करंभ(ब)	#-m.	$--1. Mud (See Medhātithi’s explanation of the word as occurring at /M./xii.76); 2. mixture of fried flour and curds.	117
+08396	170-11	<p> कर्कटि(टी)	<p> कर्कटि(टी)	<p> कर्कटि(टी)	#-f.	$--A sort of cucumber.	22
+08397	170-12	<p> कर्कंधु(धू)	<p> कर्कंधु(धू)	<p> कर्कंधु(धू)	#-f.	$--1. The jujube tree, कर्कंधूनामुपरि तुहिनं रंजत्यग्रसंध्या /Sak./iv.; 2. fruit of this tree, /Yaj./i.250.	107
+08601	174-07	<p> कलविंक(ग)	<p> कलविंक(ग)	<p> कलविंक(ग)	#-m. (fem. ˚का)	$--A sparrow, /M./v.12, /Yaj./i.174.	36
+08602	174-08	<p> कलश(स)	<p> कलश(स)	<p> कलश(स)	#-m.n.	$--A pitcher, a jar, a dish, /Am.S./54, /Bhartr./i.97, /Yaj./i.208.	67
+08603	174-09	<p> कलशी(सी)	<p> कलशी(सी)	<p> कलशी(सी)	#-f.	$--A pitcher, a jar.	20
+08696	176-16	<p> कव(ब)र	<p> कव(ब)र	<p> कव(ब)र	#-(I) a. (f. रा or री)	$--1. Mixed, intermingled; 2. set, inlaid; 3. variegated.	57
+08699	176-17	<p> कव(ब)री	<p> कव(ब)री	<p> कव(ब)री	#-f.	$--A braid or fillet of hair, अंतःपुष्पसुगंधिरार्द्रकवरी /Am.S./59, /Sis./ix.28.	80
+08715	176-25	<p> कवि(वी)य	<p> कवि(वी)य	<p> कवि(वी)य	#-n.	$--The bit of a bridle.	23
+08723	177-01	<p> कशे(से)रु	<p> कशे(से)रु	<p> कशे(से)रु	#-m.n.	$--1. The back bone; 2. a kind of grass.	40
+08741	177-13	<p> कषे(से)रुका	<p> कषे(से)रुका	<p> कषे(से)रुका	#-f.	$--The backbone, the spine.	27
+08790	178-01	<p> काकरु(रू)क	<p> काकरु(रू)क	<p> काकरु(रू)क	#-(I) a. (f. का)	$--1. Timid, cowardly; 2. naked; 3. poor, indigent.	51
+08792	178-02	<p> काक(का)ल	<p> काक(का)ल	<p> काक(का)ल	#-m.	$--A raven.	11
+08793	178-03	<p> काकलि(ली)	<p> काकलि(ली)	<p> काकलि(ली)	#-f.	$--1. A low and sweet tone, मधुरकलकंठानां आकलीकलकलेन /D.K./, /Rt./i.8; 2. a musical instrument with a low tone played by theives to ascertain whether a person is asleep or not, फणिमुखकाकलीसंदशक … प्रभृत्यनेकोपकरणयुक्तः /D.K./; 3. the <i>gunjā</i> plant.	253
+08824	179-06	<p> कांचनार(ल)	<p> कांचनार(ल)	<p> कांचनार(ल)	#-m.	$--The <i>Kovidāra</i> tree.	28
+08825	179-07	<p> कांची(चि)	<p> कांची(चि)	<p> कांची(चि)	#-f.	$--1. A girdle, a woman’s zone furnished with small bells, स्वलरावलंबनविमुक्तगलत्कलकांचि कांचिदरुणत्तरुणः /Sis./ix.82, /K.S./i.37, iii.55, /R./vi.43, /Am.S./18, 28; 2. name of an ancient city in the south of India, one of the sacred cities of the Hindus; (the seven cities are- अयोध्या मथुरा माया काशि कांचिरवंतिका । पुरी द्वारावती चैव सप्तैता मोक्षदायिकाः).	358
+08833	179-13	<p> काणेय(र)	<p> काणेय(र)	<p> काणेय(र)	#-m.	$--Son of a one-eyed woman.	27
+09142	185-02	<p> कार्षापण(र्षक)	<p> कार्षापण(र्षक)	<p> कार्षापण(र्षक)	#-m.n.	$--A coin or weight of different values, /M./viii.136, 336, ix.282.	67
+09282	187-03	<p> काश(स)	<p> काश(स)	<p> काश(स)	#-(I) m.n.	$--A species of grass used for mats, roofs &c., /Rt./iii.1, 26.	63
+09334	188-08	<p> कासू(शू)	<p> कासू(शू)	<p> कासू(शू)	#-f.	$--1. A sort of lance; 2. indistinct speech; 3. light, lustre.	62
+09452	190-15	<p> किष्किंध(ध्य)	<p> किष्किंध(ध्य)	<p> किष्किंध(ध्य)	#-m.	$--1. Name of a country; 2. name of a mountain situated in that country.	72
+09453	190-16	<p> किष्किंधा(ध्या)	<p> किष्किंधा(ध्या)	<p> किष्किंधा(ध्या)	#-f.	$--Name of a city, the capital of <i>Kishkindha</i>.	52
+09553	191-13	<p> कुकु(कू)द	<p> कुकु(कू)द	<p> कुकु(कू)द	#-m.	$--One who gives away a girl in marriage with due ceremony and suitable decorations.	84
+09554	191-14	<p> कुकुंद(दु)र	<p> कुकुंद(दु)र	<p> कुकुंद(दु)र	#-n.	$--The cavity of the loins just above the hips. (See ककुंदर.)	61
+09559	191-18	<p> कुक्कुटि(टी)	<p> कुक्कुटि(टी)	<p> कुक्कुटि(टी)	#-f.	$--Hypocricy, interested observance of religious duty.	54
+09630	193-10	<p> कुट्ट(ट्टि)नी	<p> कुट्ट(ट्टि)नी	<p> कुट्ट(ट्टि)नी	#-f.	$--A bawd, a procuress, a go-between.	37
+09647	193-26	<p> कुडव(प)	<p> कुडव(प)	<p> कुडव(प)	#-m.	$--A measure of grain equal to a quarter of a प्रस्थ and containing twelve handfuls.	84
+09720	195-08	<p> कुबे(वे)र	<p> कुबे(वे)र	<p> कुबे(वे)र	#-m.	$--The god of riches and the regent of the northern quarter, कुबेरगुप्तां दिशमुष्णरश्मौ गंतुं प्रवृत्ते समयं विलंब्य /K.S./iii.25.	130
+09789	196-18	<p> कुरर(ल)	<p> कुरर(ल)	<p> कुरर(ल)	#-m.	$--An osprey, /Yaj./i.174.	26
+09792	196-20	<p> कुरव(ब), कुरव(ब)क	<p> कुरव(ब), कुरव(ब)क	<p> कुरव(ब), कुरव(ब)क	#-(I) m.	$--1. A species of amarant, कुरवका रवकारणतां ययुः /R./ix.29.	60
+09812	196-32	<p> कु(कू)र्पर	<p> कु(कू)र्पर	<p> कु(कू)र्पर	#-m.	$--1. The knee; 2. the elbow.	29
+09813	196-33	<p> कु(कू)र्पास, कु(कू)र्पासक	<p> कु(कू)र्पास, कु(कू)र्पासक	<p> कु(कू)र्पास, कु(कू)र्पासक	#-m.n.	$--A sort of bodice worn by women, मनोज्ञकुर्पासक पीडितस्तनाः /Rt./v.9.	71
+09905	198-08	<p> कुलि(ली)र	<p> कुलि(ली)र	<p> कुलि(ली)र	#-m.n.	$--1. A crab; 2. <i>Cancer</i>, the fourth sign of the zodiac.	62
+09906	198-09	<p> कुलि(ली)श	<p> कुलि(ली)श	<p> कुलि(ली)श	#-m.n.	$--The thunderbolt of Indra, वृत्रस्य हंतुः कुलिशं कुंठिताश्रीव लक्ष्यते /K.S./ii.20, अवेदनाज्ञं कुलिशक्षतानाम् i.20, /R./iii.68.	129
+09930	198-26	<p> कुविं(पिं)द	<p> कुविं(पिं)द	<p> कुविं(पिं)द	#-m.	$--1. A weaver, कुविंदस्त्वं तावत्पटयसि गुणग्राममभितः /K.Pr./vii.; 2. a name of the weaver caste.	97
+09966	199-10	<p> कुसी(सि)द	<p> कुसी(सि)द	<p> कुसी(सि)द	#-[Also written as कुशीद or ˚षीद] (I) m.	$--A money-lender, a usurer.	28
+10059	200-12	<p> कूपा(वा)र	<p> कूपा(वा)र	<p> कूपा(वा)र	#-m.	$--The ocean.	13
+10061	200-14	<p> कूब(व)र	<p> कूब(व)र	<p> कूब(व)र	#-(I) a. (f. री)	$--1. Beautiful, agreeable; 2. hump-backed.	43
+10064	200-15	<p> कूब(व)री	<p> कूब(व)री	<p> कूब(व)री	#-f.	$--1. A carriage covered with a cloth; 2. the pole of a carriage to which the yoke is fixed.	92
+10095	203-02	<p> कृकण(र)	<p> कृकण(र)	<p> कृकण(र)	#-m.	$--A kind of partridge.	23
+10096	203-03	<p> कृक(कु)लास	<p> कृक(कु)लास	<p> कृक(कु)लास	#-m.	$--A lizard, a chameleon.	25
+10397	209-05	<p> केस(श)र	<p> केस(श)र	<p> केस(श)र	#-(I) m.n.	$--1. The mane (of a lion), e.g. मृगपतिरिव स्कंधावलंबितकेशरमालः /Kad./; 2. the filament of a flower, नीपं दृष्ट्वा हरित्तकपिशं केसरैरर्धरूढैः /Megh./i.21, /R./iv.67, /Sis./ix.47; 3. the <i>bakula</i> tree, रक्ताशोकश्चलकिसलयः केसरश्चात्र कांतः /Megh./ii.15, /K.S./ii.55; 4. the <i>punnāga</i> tree.	297
+10401	209-06	<p> केस(श)रिन्	<p> केस(श)रिन्	<p> केस(श)रिन्	#-m.	$--1. A lion, धनुर्धरः केसरिणं ददर्श /R./ii.29, पुरुषकेसरिणश्च पुरा नखैः /Sak./vii. (fig. used as the last member of a compound, it means ‘best, excellent’); 2. a horse; 3. the citron plant; 4. the <i>punnāga</i> tree; 5. name of the father of Hanūmat.	252
+10417	209-16	<p> कैमुतिक(न्याय)	<p> कैमुतिक(न्याय)	<p> कैमुतिक(न्याय)	#-m.	$--A maxim denoting <i>a fortiori</i> argument (from किमुत, how much more).	75
+10448	210-05	<p> कोटि(टी)	<p> कोटि(टी)	<p> कोटि(टी)	#-f.	$--1. The curved end of a bow, भूमिनिहतैककोटि कार्मुकम् /R./xi.31; 2. the end or extremity in general, अंगदकोटिलग्नम् /R./vi.14, vii.46, viii.36; 3. the edge or point of a weapon; 4. the highest point, excess, eminence, excellence, e.g. आनंदस्य परां कोटिमगमत्; 5. the horns of the moon, /K.S./ii.26; 6. ten millions, a crore, /M./i.63, /R./xii.82; 7. the complement of an arc to 90° (in math.); 8. the side of a right-angled triangle (in math.); 9. a class, a department; 10. one side of a debatable question.	509
+10459	210-08	<p> कोटि(टी)श	<p> कोटि(टी)श	<p> कोटि(टी)श	#-m.	$--A harrow.	12
+10493	211-05	<p> कोला(लि, ली)	<p> कोला(लि, ली)	<p> कोला(लि, ली)	#-f.	$--See बदरी.	12
+10497	211-09	<p> कोश(ष)	<p> कोश(ष)	<p> कोश(ष)	#-m.n.	$--1. A vessel for holding liquids, a pail, a bucket, a cup; 2. a vessel in general; 3. a box, a cupboard, a trunk; 4. a sheath, a scabbard; 5. a case, a cover; 6. store, mass, provisions, /M./i.99; 7. a store-room; 8. a treasury, an apartment where money is kept, /M./viii.419; 9. gold or silver wrought or un-wrought, wealth, treasure, निःशेषविश्राणितकोशजातम् /R./v.1; 10. a dictionary, a lexicon, a vocabulary; 11. a closed flower, a bud, इत्थं विचिंतयति कोशगते द्विरेफे or विभिन्नकोशैः नवकंदलैः /R./xiii.29, iii.8; 12. the stone of a fruit; 13. a nut-meg, a nut-shell; 14. the cocoon of a silk-worm, /Yaj./iii.147; 15. vulva, the womb; 16. an egg; 17. a testicle or the scrotum; 18. the penis; 19. a ball, a globe; 20. a term for the five sheaths or cases which successively make up the body enveloping the soul (in Vedānta phil.); 21. a kind of ordeal (in law), /Yaj./ii.114.	880
+10514	211-12	<p> कोशि(षि)न्	<p> कोशि(षि)न्	<p> कोशि(षि)न्	#-m.	$--The mango tree.	18
+10525	211-16	<p> कोस(श)ल	<p> कोस(श)ल	<p> कोस(श)ल	#-m. pl.	$--The name of a country and its people, पितुरनंतरमुत्तरकोसलान् /R./ix.9, मगधकोसलकेकयशासिनां दुहितरः ix.17, iii.5, vi.71.	121
+10526	211-17	<p> कोस(श)ला	<p> कोस(श)ला	<p> कोस(श)ला	#-f.	$--The city of Ayodhyā.	23
+10553	212-08	<p> कौतूहल(ल्य)	<p> कौतूहल(ल्य)	<p> कौतूहल(ल्य)	#-n.	$--1. Desire, curiosity, interest, विषयव्यावृतकौतूहाः /Vikr./i.; 2. eagerness, vehemence; 3. anything causing curiosity.	120
+10589	213-07	<p> कौबे(वे)र	<p> कौबे(वे)र	<p> कौबे(वे)र	#-a. (f. री)	$--Belonging to or coming from Kubera, यानं सस्मार कौबेरम् /R./xv.45.	69
+10590	213-08	<p> कौबे(वे)री	<p> कौबे(वे)री	<p> कौबे(वे)री	#-f.	$--The north, the quarter presided over by Kubera, ततः प्रतस्थे कौबेरिं भास्वानिव रघुर्दिशम् /R./iv.66.	103
+10592	213-10	<p> कौशल(ल्य)	<p> कौशल(ल्य)	<p> कौशल(ल्य)	#-n.	$--1. Well-being, happiness, prosperity; 2. skilfulness, cleverness, e.g. हावहारि हसितं वचनानां कौशलं दृशि विकारविशेषाः /Sis./x.13.	131
+10605	213-19	<p> कौशे(षे)य	<p> कौशे(षे)य	<p> कौशे(षे)य	#-n.	$--1. Silk cloth; 2. a woman’s lower garment of silk, निर्नाभुकौशेयमुपात्तबाणमभ्यंगनेपथ्यमलंचकार /K.S./vii.9, सरागकौशेयविभूषितोरवः /Rt./v.9.	140
+10668	215-14	<p> क्राय(यि)क	<p> क्राय(यि)क	<p> क्राय(यि)क	#-m.	$--1. A purchaser; 2. a trader, a dealer.	41
+10767	217-21	<p> क्लीब(व)	<p> क्लीब(व)	<p> क्लीब(व)	#-(I) a. (f. बा)	$--1. Impotent, emasculated, /M./iii.150; 2. unmanly, timid, weak-minded, /R./viii.84; 3. base, idle; 4. of the neuter gender.	126
+10772	217-24	<p> क्लैब्य(व्य)	<p> क्लैब्य(व्य)	<p> क्लैब्य(व्य)	#-n.	$--1. Impotence, e.g. वरं क्लैब्यं पुंसां न च परकलत्राभिगमनम्; 2. unmanliness, cowardice, क्लैब्यं मा स्म गमः पार्थ /Bg./ii.3; 3. uselessness, powerlessness, /R./xii.86.	169
+10782	218-07	<p> क्षण्(न्)	<p> क्षण्(न्)	<p> क्षण्(न्)	#-vt. 8U (pp. क्षत)	$--1. To hurt, to injure, इमां हृदि व्यायतपातमक्षणोत् /K.S./v.54; 2. to break, (धनुः) त्वं किलानमितपूर्वाक्षणोः /R./xi.72.	122
+10923	221-03	<p> क्षिपणी(णि)	<p> क्षिपणी(णि)	<p> क्षिपणी(णि)	#-f.	$--1. An oar; 2. a net; 3. a weapon.	36
+10945	221-13	<p> क्षीव(ब)	<p> क्षीव(ब)	<p> क्षीव(ब)	#-a. (f. वा)	$--Excited, drunk, intoxicated, क्षीवो दुःशासनासृजा /Ve./v.	59
+11173	225-02	<p> खट(ड)क्किका	<p> खट(ड)क्किका	<p> खट(ड)क्किका	#-f.	$--A side-door.	15
+11247	226-08	<p> खनि(नी)	<p> खनि(नी)	<p> खनि(नी)	#-f.	$--1. A mine, /R./xvii.66, xviii.22; 2. a cave.	47
+11289	226-27	<p> खर्व(र्ब)	<p> खर्व(र्ब)	<p> खर्व(र्ब)	#-(I) a. (f. र्वा)	$--1. Mutilated, crippled, imperfect; 2. dwarfish, low, sharp.	62
+11306	226-34	<p> खलि(ली)	<p> खलि(ली)	<p> खलि(ली)	#-f.	$--Sediment of oil or oil-cake, e.g. स्थाल्यां वैदूर्यमय्यां पचति तिलखलीमिंधनैश्चंदनाद्यैः /Bhartr./ii.100.	107
+11307	227-01	<p> खलि(ली)न	<p> खलि(ली)न	<p> खलि(ली)न	#-m.n.	$--The bit of a bridle.	23
+11316	227-10	<p> खल्लि(ल्ली)ट	<p> खल्लि(ल्ली)ट	<p> खल्लि(ल्ली)ट	#-a. (f. टा)	$--Bald-headed.	15
+11326	227-19	<p> खाद्(त्)	<p> खाद्(त्)	<p> खाद्(त्)	#-ind.	$--The sound made in clearing the throat.	41
+11355	227-40	<p> खारि(री)	<p> खारि(री)	<p> खारि(री)	#-f.	$--See खार.	11
+11388	228-19	<p> खोर(ल)	<p> खोर(ल)	<p> खोर(ल)	#-a. (f. ला)	$--Limping, lame.	17
+11401	229-02	<p> गगन(ण)	<p> गगन(ण)	<p> गगन(ण)	#-n. (according to some authorities, गगण is a wrong form- फाल्गुने गगने फेने णत्वमिच्छंति बर्बराः)	$--1. The atmosphere, the sky, गगममिव नष्टतारम् /Panch./v., /R./iii.43, /Sis./ix.27; 2. a cypher (in math.).	108
+11500	230-14	<p> गड्डर(ल)	<p> गड्डर(ल)	<p> गड्डर(ल)	#-m.	$--A sheep.	11
+12154	243-08	<p> गिलि(रि)त	<p> गिलि(रि)त	<p> गिलि(रि)त	#-a. (f. ता)	$--Eaten, swallowed.	20
+12155	243-09	<p> गि(गे)ष्णु	<p> गि(गे)ष्णु	<p> गि(गे)ष्णु	#-m.	$--1. A singer; 2. a <i>Brāhmaṇa</i> who chants the hymns of the <i>Sāmaveda</i>.	81
+12329	247-02	<p> गु(गू)र्जर	<p> गु(गू)र्जर	<p> गु(गू)र्जर	#-m.	$--1. The district of Gujarāth; 2. a native of Gujarāth, तेषां मार्गे परिचयवशादर्जितं गुर्जराणां यः संतापं शिथिलमकरोत्सोनमाथं विलोक्य /Vikr.Ch./xviii.97.	153
+12337	247-10	<p> गु(गू)वाक	<p> गु(गू)वाक	<p> गु(गू)वाक	#-m.	$--The betel-nut tree.	22
+12976	259-23	<p> घुट m., घुटि(टी) f., घुटिका m.	<p> घुट m., घुटि(टी) f., घुटिका m.	<p> घुट m., घुटि(टी) f., घुटिका m.	#-xxx	$--The ankle.	13
+13024	260-16	<p> घोण(न)स	<p> घोण(न)स	<p> घोण(न)स	#-m.	$--A sort of reptile.	21
+13777	274-18	<p> चिबु(वु)क	<p> चिबु(वु)क	<p> चिबु(वु)क	#-n.	$--The chin, चिबुकं सुदृशः स्पृशामि यावत् /Bh.V./ii.34.	55
+13811	275-08	<p> चिलमी(मि)लिका	<p> चिलमी(मि)लिका	<p> चिलमी(मि)लिका	#-f.	$--1. A kind of necklace; 2. a fire-fly; 3. lightning.	54
+13903	277-06	<p> चेट(ड)	<p> चेट(ड)	<p> चेट(ड)	#-m.	$--A servant, a slave, e.g. शृंगारस्य सहाया विटचेटविदूषकाद्याः स्युः.	69
+13904	277-07	<p> चेट(ड)क	<p> चेट(ड)क	<p> चेट(ड)क	#-m.	$--1. A servant; 2. a paramour.	31
+13905	277-08	<p> चेटि(डि)का, चेटी(डी)	<p> चेटि(डि)का, चेटी(डी)	<p> चेटि(डि)का, चेटी(डी)	#-f.	$--A female slave or servant.	29
+13939	277-26	<p> चैत्ररथ(थ्य)	<p> चैत्ररथ(थ्य)	<p> चैत्ररथ(थ्य)	#-n.	$--Name of the garden of Kubera, एको ययौ चैत्ररथप्रदेशान् सौराज्यरम्यानपरो विदर्भान् /R./v.60.	94
+13953	278-06	<p> चो(चौ)र	<p> चो(चौ)र	<p> चो(चौ)र	#-m.	$--A thief, a robber, गोपवधूटीदुकूलचोराय /Bh.P./	48
+13954	278-07	<p> चो(चौ)रिका	<p> चो(चौ)रिका	<p> चो(चौ)रिका	#-f.	$--Theft, robbery.	18
+14137	282-07	<p> जगनु(न्नु)	<p> जगनु(न्नु)	<p> जगनु(न्नु)	#-m.	$--1. Fire; 2. an insect.	25
+14173	282-28	<p> जटि(टी)	<p> जटि(टी)	<p> जटि(टी)	#-f.	$--1. The Indian figtree; 2. matted hair; 3. assemblage, multitude.	67
+14249	284-13	<p> जनु(नू)	<p> जनु(नू)	<p> जनु(नू)	#-f.	$--Birth, production.	21
+14619	289-19	<p> जांबीर(ल)	<p> जांबीर(ल)	<p> जांबीर(ल)	#-n.	$--A citron.	12
+14950	296-12	<p> झण(न)त्कार	<p> झण(न)त्कार	<p> झण(न)त्कार	#-m.	$--Jingling or clinking as of metallic ornaments, उद्वेल्लद्बुजवल्लिकंकणझणत्कारः क्षणं वार्यताम् /Kālidāsa/, उद्वेजयति दरिद्रं परमुद्रागणनझणत्कारः /Ud./	152
+14985	297-04	<p> टंकण(न)	<p> टंकण(न)	<p> टंकण(न)	#-(I) n.	$--Borax.	9
+14988	297-05	<p> टंका(गा)	<p> टंका(गा)	<p> टंका(गा)	#-f.	$--The leg.	11
+14997	297-14	<p> टिप्पणी(नी)	<p> टिप्पणी(नी)	<p> टिप्पणी(नी)	#-f.	$--A gloss, a comment; (the word is often but not necessarily applied to a gloss on a gloss), e.g. टिप्पणी दायभागस्य श्रीनाथेन विधीयते.	135
+15021	298-09	<p> डिंडी(डि)र	<p> डिंडी(डि)र	<p> डिंडी(डि)र	#-m.	$--1. Cuttle-fish-bone considered to be the foam of the sea; 2. foam in general, चंदनस्यंदडिंडीरच्छलेन मलयाचलः /Vikr.Ch./iv.4, 64.	130
+15069	299-20	<p> तडाग(क)	<p> तडाग(क)	<p> तडाग(क)	#-m.	$--A pond, a deep pool, तडागारामविक्रयः /R./iii.237.	52
+15730	312-22	<p> तुंबु(वु)रु	<p> तुंबु(वु)रु	<p> तुंबु(वु)रु	#-m.	$--The name of a <i>Gandharva</i>.	34
+16501	325-16	<p> दमु(मू)नस्	<p> दमु(मू)नस्	<p> दमु(मू)नस्	#-m.	$--Fire.	8
+16536	326-16	<p> दर्द्रु(द्रु)	<p> दर्द्रु(द्रु)	<p> दर्द्रु(द्रु)	#-m.	$--A kind of leprosy (in medicine).	35
+16553	326-27	<p> दर्वी(र्वि)	<p> दर्वी(र्वि)	<p> दर्वी(र्वि)	#-f.	$--1. A ladle, a spoon; 2. the expanded hood of a snake.	56
+16654	328-06	<p> दशे(से)रक	<p> दशे(से)रक	<p> दशे(से)रक	#-m.	$--A young camel.	17
+16694	329-12	<p> दाडि(लि)म	<p> दाडि(लि)म	<p> दाडि(लि)म	#-(I) m.f.	$--1. The pomegranate tree, करोति दाडिमफलव्याजेन वाग्बंधनम् /Am.S./13; 2. small cardamoms.	90
+16832	331-27	<p> दिधि(धी)षू	<p> दिधि(धी)षू	<p> दिधि(धी)षू	#-f.	$--1. A woman twice married; 2. an unmarried elder sister having a married younger sister, ज्येष्ठायां यद्यनूढायां कन्यायामुह्यतेऽनुजा । सा चाग्रेदिधिषूर्ज्ञेया पूर्वा तु दिधिषूः स्मृता /Devala/).	196
+17322	340-01	<p> दूषि(षी)	<p> दूषि(षी)	<p> दूषि(षी)	#-f.	$--The rheum of the eyes. (Also दूषि(षी)का.)	44
+17634	345-04	<p> दैर्घ्य(र्घ)	<p> दैर्घ्य(र्घ)	<p> दैर्घ्य(र्घ)	#-n.	$--Length, longness.	20
+17635	345-05	<p> दैन्य(न)	<p> दैन्य(न)	<p> दैन्य(न)	#-n.	$--1. Poverty, poor and pitiable condition, miserable state, इंदोर्दैत्यं त्वदनुसरणक्लिष्टकांतेर्बिभर्ति /Megh./ii.21; 2. affliction, sorrow, grief, low-spiritedness; 3. meanness.	179
+17732	346-18	<p> दौकू(गू)ल	<p> दौकू(गू)ल	<p> दौकू(गू)ल	#-m.	$--A car covered with silk cloth.	33
+17739	346-25	<p> दौर्बल्य(ल)	<p> दौर्बल्य(ल)	<p> दौर्बल्य(ल)	#-m.	$--Impotency, weakness, feebleness, /M./viii.171.	49
+17753	347-09	<p> दौष्यं(ष्मं)ति	<p> दौष्यं(ष्मं)ति	<p> दौष्यं(ष्मं)ति	#-m.	$--A son of Dushyanta, दौष्यंतिमप्रतिरथं तनयं निवेश्य /Sak./iv.	63
+17932	350-04	<p> द्वार(रि)का	<p> द्वार(रि)का	<p> द्वार(रि)का	#-f.	$--Name of the capital of Kṛishṇa (on the western point of Gujarāt).	68
+18473	360-13	<p> धीलटि(टी)	<p> धीलटि(टी)	<p> धीलटि(टी)	#-f.	$--A daughter.	14
+18481	361-02	<p> धुनी(नि)	<p> धुनी(नि)	<p> धुनी(नि)	#-f.	$--A river, कतमया पुराणां संहर्तुः सुरधुनि कपर्दोऽधिरुरुहे /G.L./22.	68
+18495	361-07	<p> धुस्तु(स्तू)र	<p> धुस्तु(स्तू)र	<p> धुस्तु(स्तू)र	#-m.	$--Name of a plant, (the same as धत्तूर).	41
+18586	363-20	<p> धोरणि(णी)	<p> धोरणि(णी)	<p> धोरणि(णी)	#-f.	$--1. An uninterrupted series, यैर्माकंदवने मनोज्ञपवने सद्यः स्खलन्माधुरीधाराधोरणिधौतधामनि धराधीशत्वमालंब्यते /Ud./; 2. tradition.	130
+19259	375-16	<p> नारिकेर(ल) m., नारिकेलि(ली) f., नारीकेर(ल) m., नारीकेलि(ली) f.	<p> नारिकेर(ल) m., नारिकेलि(ली) f., नारीकेर(ल) m., नारीकेलि(ली) f.	<p> नारिकेर(ल) m., नारिकेलि(ली) f., नारीकेर(ल) m., नारीकेलि(ली) f.	#-xxx	$--The same as नालिकेर q.v. (Also नाडिकेर and नाडीकेर.)	55
+19275	376-07	<p> नालिकेर m., नालिकेलि(ली) f.	<p> नालिकेर m., नालिकेलि(ली) f.	<p> नालिकेर m., नालिकेलि(ली) f.	#-xxx	$--The cocoanut, अंभोधेर्नालिकेलीरसमिव चुलुकैरुच्चुलुंपंत्यपो ये /Mv./v.	72
+19326	377-04	<p> निकष(स)	<p> निकष(स)	<p> निकष(स)	#-m.	$--1. The touchstone, /R./xvii.40; 2. a streak of gold made on it, कनकनिकषस्निग्धा विद्युत्प्रिया मम नोर्वशी /Vikr./iv., /Megh./i.37; 3. a whet-stone.	150
+19336	377-13	<p> निकाश(स)	<p> निकाश(स)	<p> निकाश(स)	#-m.	$--1. Appearance, sight; 2. proximity; 3. (in composition with other words) similarity, likeness.	97
+19341	377-18	<p> निकुरं(रुं)ब	<p> निकुरं(रुं)ब	<p> निकुरं(रुं)ब	#-n.	$--A flock, a mass, a multitude, अनिलतरलकिसलयनिकरेण करेण लतानिकुरुंबम् /Git.G./xi.	82
+19374	378-10	<p> निग(गा)ल	<p> निग(गा)ल	<p> निग(गा)ल	#-m.	$--1. Swallowing, devouring; 2. the neck of a horse.	52
+19465	380-13	<p> निन(ना)द	<p> निन(ना)द	<p> निन(ना)द	#-m.	$--1. Sound, noise, उचचार निनदोऽंभसि तस्याः /R./ix.73, xi.15; 2. buzzing, humming.	82
+19477	380-23	<p> निप(पा)ठ	<p> निप(पा)ठ	<p> निप(पा)ठ	#-m.	$--Reading, reciting, study.	28
+19489	381-02	<p> निब(व)र्हण	<p> निब(व)र्हण	<p> निब(व)र्हण	#-n.	$--Killing, destruction, annihilation, /Na./i.131.	50
+19834	386-19	<p> निरीश(ष)	<p> निरीश(ष)	<p> निरीश(ष)	#-n.	$--A plough-share.	18
+19971	390-07	<p> निवि(बि)ड	<p> निवि(बि)ड	<p> निवि(बि)ड	#-a. (f. डा)	$--1. Without space or interstices, close; 2. firm, fast, /R./ix.58, xix.44; 3. thick, impervious, dense, /R./xi.15; 4. crooked-nosed.	134
+19998	390-24	<p> निश(शा)रण	<p> निश(शा)रण	<p> निश(शा)रण	#-n.	$--Killing, slaughter.	22
+20080	392-07	<p> निष्कास(श)	<p> निष्कास(श)	<p> निष्कास(श)	#-m.	$--1. Exit, egress; 2. a portico; 3. daybreak.	46
+20084	392-11	<p> निष्कुटि(टी)	<p> निष्कुटि(टी)	<p> निष्कुटि(टी)	#-f.	$--A cardamom plant.	20
+20102	392-29	<p> निष्ठी(ष्ठे)व m.n., निष्ठी(ष्ठे)वन n., निष्ठीवित n.	<p> निष्ठी(ष्ठे)व m.n., निष्ठी(ष्ठे)वन n., निष्ठीवित n.	<p> निष्ठी(ष्ठे)व m.n., निष्ठी(ष्ठे)वन n., निष्ठीवित n.	#-xxx	$--1. Spitting out, spitting, चारभटचौरचेटकनटविटनिष्ठीवनशरावं (वेश्याधरपल्लवम्) /Bhartr./i.92.	93
+20116	393-03	<p> निष्प्रवाण(णि)	<p> निष्प्रवाण(णि)	<p> निष्प्रवाण(णि)	#-n.	$--New unbleached cloth.	24
+20247	394-12	<p> निस्पं(ष्यं)द	<p> निस्पं(ष्यं)द	<p> निस्पं(ष्यं)द	#-m.	$--1. Flowing, trickling down, dropping, streaming, oozing; 2. a discharge, a flux; 3. stream, a fluid that trickles down, /R./iii.41.	134
+20270	396-06	<p> नीच(चि)का	<p> नीच(चि)का	<p> नीच(चि)का	#-f.	$--An excellent cow. (Also नीचिकी.)	35
+20291	396-15	<p> नीध्र(व्र)	<p> नीध्र(व्र)	<p> नीध्र(व्र)	#-n.	$--1. The edge of a roof; 2. a wood; 3. the circumference of a wheel; 4. the moon.	82
+20329	397-02	<p> नीलं(लां)गु	<p> नीलं(लां)गु	<p> नीलं(लां)गु	#-m.	$--kind of insect.	18
+20425	398-18	<p> नेमि(मी)	<p> नेमि(मी)	<p> नेमि(मी)	#-f.	$--1. the circumference or felly of a wheel, /R./i.17, 39; 2. edge, rim; 3. a windlass; 4. a circle or circumference in general, /R./ix.10; 5. a thunderbolt; 6. the earth.	171
+20445	399-11	<p> नैपुण(ण्य)	<p> नैपुण(ण्य)	<p> नैपुण(ण्य)	#-n.	$--1. Dexterity, skill, proficiency, /Sis./xvi. 80; 2. anything that requires skill, a delicate matter; 3. totality, completeness, /M./x.85.	140
+20474	399-36	<p> नैवि(बि)ड्य	<p> नैवि(बि)ड्य	<p> नैवि(बि)ड्य	#-n.	$--Compactness, thickness.	26
+20533	400-17	<p> न्युं(न्यूं)ख	<p> न्युं(न्यूं)ख	<p> न्युं(न्यूं)ख	#-a. (f. खा)	$--Charming, beautiful.	23
+20805	405-16	<p> पट्टिश(स), पट्टीश(स)	<p> पट्टिश(स), पट्टीश(स)	<p> पट्टिश(स), पट्टीश(स)	#-m.	$--A spear with a sharp edge, भुजभ्रमितपट्टिशोद्दलितदृप्तदंतावलं भवंतमरिमंडलक्रथन पश्यतः संगरे /Pr.B./20.	105
+21207	413-08	<p> परश्व(स्व)ध	<p> परश्व(स्व)ध	<p> परश्व(स्व)ध	#-m.	$--A battle-axe, a hatchet, धारां शितां रामपरश्वधस्य संभावयत्युत्पलपत्रसाराम् /R./vi.42.	88
+21225	414-10	<p> परान(ण)सा	<p> परान(ण)सा	<p> परान(ण)सा	#-f.	$--Medical treatment, practice of medicine.	43
+21312	416-33	<p> परि(री)णाम	<p> परि(री)णाम	<p> परि(री)णाम	#-m.	$--1. Alteration, transformation; 2. digestion, e.g. भुक्तस्य परिणामहेतुरौदर्यः /T.S./; 3. result, consequence, issue, परिणामसुखे गरीयसि (वचसि or भेषजे) /Kir./ii.4, /Bg./xviii.37, 38; 4. end, termination, conclusion, दिवसाः परिणामरमणीयाः /Sak./i.; 5. old age, /R./viii.11; 6. ripening, maturing, फलभरपरिणामश्याम˚ /M.M./ix., /Ut./ii.; 7. a figure of speech closely resembling रूपक and minutely distinguished from it; it consists in transferring the properties of any object to that with which it is compared. (For further information, See /R.G./ under परिणाम.)	559
+21316	417-01	<p> परि(री)णाय	<p> परि(री)णाय	<p> परि(री)णाय	#-m.	$--Moving a piece at chess, draughts &c.	40
+21318	417-03	<p> परि(री)णाह	<p> परि(री)णाह	<p> परि(री)णाह	#-m.	$--Circumference, extent, breadth, width, स्तनयुगपरिणाहाच्छादिना वल्कलेन /Sak./i., श्वसितपवनमनुपमपरिणाहम् । मदनदहनमिव वहति सदाहम् /Git.G./iv., /Yaj./ii.167.	156
+21327	417-11	<p> परि(री)ताप	<p> परि(री)ताप	<p> परि(री)ताप	#-m.	$--1. Extreme heat, दिनकरपरितापात्क्षीणतोयाः समंतात् /Rt./i.22; 2. pain, anguish, grief; 3. lamentation, विरचितविविधविलापं सा परितापं चकारोच्चैः /Git.G./vii.	157
+21338	417-22	<p> परि(री)दाह	<p> परि(री)दाह	<p> परि(री)दाह	#-m.	$--1. Burning; 2. pain, sorrow.	31
+21343	417-27	<p> परि(री)धान	<p> परि(री)धान	<p> परि(री)धान	#-n.	$--1. Putting on (a garment), dressing; 2. a garment, especially an under-garment.	82
+21359	418-01	<p> परिपण(न)	<p> परिपण(न)	<p> परिपण(न)	#-n.	$--Capital, principal.	22
+21363	418-04	<p> परि(री)पाक	<p> परि(री)पाक	<p> परि(री)पाक	#-m.	$--1. Ripening, maturing, perfection, /Sis./iv.68; 2. the being completely cooked; 3. digestion; 4. fruit, result, consequence; 5. shrewdness, skilfulness.	155
+21365	418-06	<p> परिपाटि(टी)	<p> परिपाटि(टी)	<p> परिपाटि(टी)	#-f.	$--1. Method, course, /Bh.V./i.12; 2. order, succession.	56
+21389	418-28	<p> परिब(व)र्ह	<p> परिब(व)र्ह	<p> परिब(व)र्ह	#-m.	$--1. Retinue, train, attendants; 2. royal insignia; 3. furniture; 4. wealth, property.	87
+21390	418-29	<p> परिब(व)र्हण	<p> परिब(व)र्हण	<p> परिब(व)र्हण	#-n.	$--1. Retinue, train; 2. fatigue, hardship.	43
+21391	418-30	<p> परिबृं(वृं)हण	<p> परिबृं(वृं)हण	<p> परिबृं(वृं)हण	#-n.	$--1. Prosperity, welfare; 2. appendix, supplement.	51
+21392	418-31	<p> परिबृं(वृं)हित	<p> परिबृं(वृं)हित	<p> परिबृं(वृं)हित	#-(I) a. (f. ता)	$--1. Increased, augmented; 2. furnished with.	46
+21396	418-34	<p> परि(री)भव	<p> परि(री)भव	<p> परि(री)भव	#-m.	$--1. Insult, injury, humiliation, disrespect, disgrace, प्रायो मूर्खः परिभवविधौ नाभिमानं तनोति /Sr.T./16, /R./xii.37; 2. defeat, discomfiture.	143
+21422	419-11	<p> परि(री)माण	<p> परि(री)माण	<p> परि(री)माण	#-m.	$--1. Measuring, measure, /K.S./ii.8, /M./viii.133; 2. weight, number, value.	77
+21445	419-30	<p> परि(री)रंभ m., परिरंभण n.	<p> परि(री)रंभ m., परिरंभण n.	<p> परि(री)रंभ m., परिरंभण n.	#-xxx	$--Embracing, embrace, व्रतमिव तव परिरंभसुखाय करोति कुसुमशयनीयम् /Git.G./iv., किं पुरेव ससंभ्रमं परिरंभणं न ददासि ibid.	119
+21453	419-38	<p> परि(री)वर्त	<p> परि(री)वर्त	<p> परि(री)वर्त	#-m.	$--1. Revolving, revolution (as of a planet); 2. repetition, recurrence; 3. the expiration of a <i>Yuga</i>; 4. change, कथं स्वरपरिवर्तः कृतः /Mrich./i.; 5. barter, exchange; 6. desertion, flight, retreat; 7. repeated birth; 8. a year; 9. a chapter of a book; 10. Vishṇu in his second or <i>Kūrma</i> incarnation.	313
+21460	419-45	<p> परि(री)वाद	<p> परि(री)वाद	<p> परि(री)वाद	#-m.	$--1. Reproach, censure, detraction, /Yaj./i.133; 2. stain, stigma, scandal, /R./v.24, xiv.86; 3. charge, accusation; 4. an instrument with which the lute is played.	165
+21464	420-03	<p> परि(री)वाप	<p> परि(री)वाप	<p> परि(री)वाप	#-m.	$--1. A reservoir, a pool, a piece of water; 2. shaving, shearing; 3. sowing; 4. furniture; 5. train, retinue.	110
+21466	420-05	<p> परि(री)वार	<p> परि(री)वार	<p> परि(री)वार	#-m.	$--1. Train, suite, retinue, dependants, अनुगतमुनिमनुजसुरासुरवरपरिवारम् /Git.G./ii., /R./vi.10, xii.16; 2. a sheath, a scabbard.	128
+21468	420-07	<p> परि(री)वाह	<p> परि(री)वाह	<p> परि(री)वाह	#-m.	$--1. Inundation, overflow (natural or artificial), /R./viii.74; 2. a drain to carry off excess of water, पूरोत्पीडे तडागस्य परीवाहः प्रतिक्रिया /Ut./iii.	154
+21469	420-08	<p> परिविण्ण(न्न), परिवित्त, परिवित्ति	<p> परिविण्ण(न्न), परिवित्त, परिवित्ति	<p> परिविण्ण(न्न), परिवित्त, परिवित्ति	#-m.	$--An unmarried elder brother whose younger brother is married, See /M./iii.171.	80
+21485	420-21	<p> परि(री)वेतृ, परिवेदक	<p> परि(री)वेतृ, परिवेदक	<p> परि(री)वेतृ, परिवेदक	#-m.	$--A younger brother married before the elder, /R./xii.16.	58
+21489	420-25	<p> परि(री)वेश(ष)	<p> परि(री)वेश(ष)	<p> परि(री)वेश(ष)	#-m.	$--1. A circle, a circlet, /R./v.74, vi.13; 2. the circumference of a circle; 3. a halo round the sun or moon, लक्ष्यते स्म तदनंतरं रविर्बद्धभीमपरिवेशमंडलः /R./xi.59; 4. the disc of the sun or moon; 5. waiting at meals, serving up meals.	237
+21505	420-39	<p> परि(री)शेष	<p> परि(री)शेष	<p> परि(री)शेष	#-m.	$--1. Remainder, residue; 2. supplement; 3. conclusion, completion.	67
+21515	421-09	<p> परिष्कण्ण(न्न)	<p> परिष्कण्ण(न्न)	<p> परिष्कण्ण(न्न)	#-(I) a. (f. ण्णा)	$--Reared by another.	21
+21517	421-10	<p> परिष्कं(स्कं)द	<p> परिष्कं(स्कं)द	<p> परिष्कं(स्कं)द	#-(I) a. (f. दा)	$--See परिष्कण्ण I.	19
+21523	421-15	<p> परिष्टो(स्तो)म	<p> परिष्टो(स्तो)म	<p> परिष्टो(स्तो)म	#-m.	$--The coloured housings of an elephant.	40
+21524	421-16	<p> परिष्पं(स्पं)द	<p> परिष्पं(स्पं)द	<p> परिष्पं(स्पं)द	#-m.	$--1. Decoration of the hair with flowers &c.; (in this sense, परिस्यंद is the reading of several editions of Amara); 2. ornament, decoration; 3. train, retinue; 4. throbbing, vibration; 5. provision, maintenance.	213
+21538	421-30	<p> परि(री)सर्या f., परि(री)सार m.	<p> परि(री)सर्या f., परि(री)सार m.	<p> परि(री)सर्या f., परि(री)सार m.	#-xxx	$--Wandering about, perambulation.	34
+21549	421-41	<p> परि(री)हार	<p> परि(री)हार	<p> परि(री)हार	#-m.	$--1. Leaving, abandoning; 2. removing, (e.g. विरोधपरिहार); 3. refuting, repelling; 4. omitting to mention, omission; 5. contempt, disrespect; 6. objection; 7. common land round a village or town, /M./viii.237; 8. a grant, a privilege, a donation, /M./vii.201.	260
+21550	422-01	<p> परिहाणि(नि)	<p> परिहाणि(नि)	<p> परिहाणि(नि)	#-f.	$--1. Decrease, loss; 2. waste, decay, decline, /R./xix.50.	59
+21553	422-03	<p> परि(री)हास	<p> परि(री)हास	<p> परि(री)हास	#-m.	$--1. joking, jest, mirth, merriment, परीहासाश्रित्राः सततमभवन् येन भवतः /Ve./iii., परिहासविजल्पितम् /Sak./ii., /R./ix.8, /Sis./x.12; 2. deriding, ridiculing.	158
+21621	423-11	<p> पर्यं(ल्यं)क	<p> पर्यं(ल्यं)क	<p> पर्यं(ल्यं)क	#-m.	$--1. A bed, a sofa; 2. a cloth thrown over the back, loins and kneels, while seated on the hams; 3. sitting upon the hams (a particular posture thus described by Vasishṭha- एकं पादमथैकस्मिन् विन्यस्योरौ तु संस्थितम् । इतरस्मिंस्तथैवोरुं वीरासनमुदाहृतम्), /K.S./iii.45, 59.	273
+21744	425-20	<p> पल्लि(ल्ली)	<p> पल्लि(ल्ली)	<p> पल्लि(ल्ली)	#-f.	$--1. A small village; 2. a hut, a house; 3. a city (at the end of a compound); 4. a house-lizard.	98
+21808	427-02	<p> पांस(श)न	<p> पांस(श)न	<p> पांस(श)न	#-a. (f. ना or नी) (generally used at the end of a compound)	$--1. Disgracing, dishonouring, e.g. कुलपांसन; 2. vitiating, spoiling; 3. wicked, contemptible.	95
+21809	427-03	<p> पांस(श)व	<p> पांस(श)व	<p> पांस(श)व	#-a. (f. वा)	$--Consisting of dust.	22
+21810	427-04	<p> पांसु(शु)	<p> पांसु(शु)	<p> पांसु(शु)	#-m.	$--1. Dust, soil, /R./ii.2, /Am.S./48, /Rt./i.13; 2. dung, manure; 3. a kind of camphor; 4. a particle of dust.	111
+21822	427-05	<p> पांसु(शु)र	<p> पांसु(शु)र	<p> पांसु(शु)र	#-m.	$--1. A gadfly; 2. a cripple carried about in a chair.	54
+21823	427-06	<p> पांसु(शु)ल	<p> पांसु(शु)ल	<p> पांसु(शु)ल	#-(I) a. (f. ला)	$--1. Covered with dust; 2. sullied, defiled, दारत्यागी भवाम्याहो परस्त्रीस्पर्शपांसुलः /Sak./v.; 3. disgracing, defiling, e.g. कुलपांसुल.	138
+21825	427-07	<p> पांसु(शु)ला	<p> पांसु(शु)ला	<p> पांसु(शु)ला	#-f.	$--1. A menstruous woman; 2. a licentious woman, /R./ii.2; 3. the earth.	72
+22216	433-12	<p> पारिया(पा)त्र	<p> पारिया(पा)त्र	<p> पारिया(पा)त्र	#-m.	$--Name of one of the seven principal mountains, /R./xviii.16.	62
+22217	433-13	<p> पारिया(पा)त्रिक	<p> पारिया(पा)त्रिक	<p> पारिया(पा)त्रिक	#-m.	$--1. An inhabitant of the Pāriyātra mountain; 2. the Pāriyātra mountain.	73
+22315	434-20	<p> पालि(ली)	<p> पालि(ली)	<p> पालि(ली)	#-f.	$--1. The tip of the ear, गुणः श्रवणपालिरिति स्मरेण /Git.G./iii.; 2. an edge, a margin; 3. a row, a line; 4. a spot, a mark; 5. maintenance of a scholar by his teacher; 6. a louse; 7. a woman with a beard; 8. praise, eulogium; 9. a particular measure of capacity; 10. the lap, the bosom; 11. the sharp side of anything, /Bh.V./ii.3, 10.	336
+22583	438-24	<p> पिप्पलि(ली)	<p> पिप्पलि(ली)	<p> पिप्पलि(ली)	#-f.	$--Long pepper.	15
+22762	441-08	<p> पुच्छटि(टी)	<p> पुच्छटि(टी)	<p> पुच्छटि(टी)	#-f.	$--Cracking the fingers.	24
+22935	444-05	<p> पुरंध्रि(ध्री)	<p> पुरंध्रि(ध्री)	<p> पुरंध्रि(ध्री)	#-f.	$--1. An elderly married woman, /K.S./vi.32, vii.2; 2. a woman whose husband and children are living, /R./vii.28.	113
+23235	448-22	<p> पूपला(ली), पूपालिका, पूपाली, पूपिका	<p> पूपला(ली), पूपालिका, पूपाली, पूपिका	<p> पूपला(ली), पूपालिका, पूपाली, पूपिका	#-f.	$--A sort of cake.	18
+23437	452-06	<p> पृश्नि(ष्णि)	<p> पृश्नि(ष्णि)	<p> पृश्नि(ष्णि)	#-(I) a.	$--1. Short, dwarfish; 2. delicate.	35
+23441	452-07	<p> पृश्नि(ष्णि)का, पृश्नी(ष्णी)	<p> पृश्नि(ष्णि)का, पृश्नी(ष्णी)	<p> पृश्नि(ष्णि)का, पृश्नी(ष्णी)	#-f.	$--Name of an aquatic plant.	28
+23502	453-15	<p> पेशि(शी)	<p> पेशि(शी)	<p> पेशि(शी)	#-f.	$--1. Indra’s thunderbolt; 2. a ball of flesh; 3. an egg; 4. a bud on the point of blowing; 5. a sheath, a scabbard; 6. the fetus shortly after conception; 7. a kind of musical instrument; 8. a muscle, /Yaj./iii.100.	216
+23616	455-11	<p> पौर्वदे(दै)हिक	<p> पौर्वदे(दै)हिक	<p> पौर्वदे(दै)हिक	#-a. (f. की)	$--Relating to a former existence, /Bg./vi.43.	46
+23767	458-35	<p> प्रघण(न), प्रघाण(न)	<p> प्रघण(न), प्रघाण(न)	<p> प्रघण(न), प्रघाण(न)	#-m.	$--1. A porch before the door of a house; 2. a copper pot; 3. an iron mace.	75
+23779	458-44	<p> प्रच(चा)य	<p> प्रच(चा)य	<p> प्रच(चा)य	#-m.	$--1. Collectings gathering (as flowers); 2. multitude, a quantity, a number, /Rt./iii.5; 3. growth, increase; 4. slight union.	127
+24119	464-07	<p> प्रति(ती)कार	<p> प्रति(ती)कार	<p> प्रति(ती)कार	#-m.	$--1. Requital, retaliation, retribution; 2. remedy, prevention, प्रतिकारो व्याधेः सुखमिति विपर्यस्यति जनः /Bhartr./iii.92; 3. opposition.	138
+24121	464-08	<p> प्रति(ती)काश	<p> प्रति(ती)काश	<p> प्रति(ती)काश	#-(I) a. (f. शा) (at the end of a compound)	$--Like, resembling, पुटपाकप्रतीकाशः /Ut./iii.	46
+24144	464-30	<p> प्रति(ती)घात	<p> प्रति(ती)घात	<p> प्रति(ती)घात	#-m.	$--1. Opposition, resistance; 2. a blow in return; 3. rebound.	62
+24145	464-31	<p> प्रति(ती)घातन	<p> प्रति(ती)घातन	<p> प्रति(ती)घातन	#-n.	$--1. Repulsing; 2. killing, slaughter.	39
+24172	465-17	<p> प्रति(ती)नाह	<p> प्रति(ती)नाह	<p> प्रति(ती)नाह	#-m.	$--A flag, a banner.	20
+24318	468-20	<p> प्रति(ती)हार	<p> प्रति(ती)हार	<p> प्रति(ती)हार	#-m. (fem. ˚री)	$--1. A doorkeeper, a porter; 2. a door, a gate, /R./vi.20, /K.S./iii.58; 3. a juggler; 4. a juggling trick.	108
+24427	470-24	<p> प्रत्यास(सा)र	<p> प्रत्यास(सा)र	<p> प्रत्यास(सा)र	#-m.	$--1. The rear of an army; 2. an array behind an array.	55
+24518	472-14	<p> प्रदेश(शि)नी	<p> प्रदेश(शि)नी	<p> प्रदेश(शि)नी	#-f.	$--The fore-finger, the index finger.	37
+24591	473-30	<p> प्रपीत(न)	<p> प्रपीत(न)	<p> प्रपीत(न)	#-a. (f. ता)	$--Swollen, extended.	21
+24592	473-31	<p> प्रपुना(न्ना)ट, प्रपुना(न्ना)ड	<p> प्रपुना(न्ना)ट, प्रपुना(न्ना)ड	<p> प्रपुना(न्ना)ट, प्रपुना(न्ना)ड	#-m.	$--The <i>chakramarda</i> tree.	31
+24609	473-45	<p> प्रब(व)र्ह	<p> प्रब(व)र्ह	<p> प्रब(व)र्ह	#-a. (f. र्हा)	$--Most excellent.	18
+24611	474-01	<p> प्रब(व)ह्लिका	<p> प्रब(व)ह्लिका	<p> प्रब(व)ह्लिका	#-f.	$--The same as प्रहेलिका q.v.	29
+24613	474-03	<p> प्रबा(वा)ल	<p> प्रबा(वा)ल	<p> प्रबा(वा)ल	#-(I) m.n.	$--1. A sprout, a new leaf, /R./vi.12, xiii.49, /K.S./i.44; 2. coral; 3. the neck of the Indian lute.	101
+24623	474-09	<p> प्रबोध(धि)नी	<p> प्रबोध(धि)नी	<p> प्रबोध(धि)नी	#-f.	$--The eleventh day of the bright fortnight of <i>Kārtīka</i>, the day on which Vishṇu awakes from his sleep.	109
+24842	478-24	<p> प्रवह्लि(ह्ली)	<p> प्रवह्लि(ह्ली)	<p> प्रवह्लि(ह्ली)	#-f.	$--The same as प्रहेलिका q.v.	29
+24846	478-28	<p> प्रवाणि(णी)	<p> प्रवाणि(णी)	<p> प्रवाणि(णी)	#-f.	$--A wearer’s shuttle.	22
+24884	479-27	<p> प्रविस्त(स्ता)र	<p> प्रविस्त(स्ता)र	<p> प्रविस्त(स्ता)र	#-m.	$--Expanse, extent, compass, circumference.	43
+24901	479-39	<p> प्रवेणि(णी)	<p> प्रवेणि(णी)	<p> प्रवेणि(णी)	#-f.	$--1. A braid of hair in general, /R./xv.30; 2. the hair twisted and unadorned, (worn by wives in the absence of their husbands); 3. the housings of an elephant; 4. the current of a river.	188
+24990	481-28	<p> प्रसरणि(णी)	<p> प्रसरणि(णी)	<p> प्रसरणि(णी)	#-f.	$--Surrounding an enemy.	24
+24992	482-01	<p> प्रस(श)ल	<p> प्रस(श)ल	<p> प्रस(श)ल	#-m.	$--The cold season (हेमंत).	27
+25085	483-28	<p> प्रस्तीत(म)	<p> प्रस्तीत(म)	<p> प्रस्तीत(म)	#-a. (f. ता)	$--1. Sounded; 2. crowded together.	35
+25116	484-22	<p> प्रस्व(स्वा)न	<p> प्रस्व(स्वा)न	<p> प्रस्व(स्वा)न	#-m.	$--A loud noise.	16
+25133	484-38	<p> प्रहर्ष(र्षि)णी	<p> प्रहर्ष(र्षि)णी	<p> प्रहर्ष(र्षि)णी	#-f.	$--1. Turmeric; 2. name of a metre. (See App. I.)	49
+25161	485-21	<p> प्रह्रा(ह्ला)द	<p> प्रह्रा(ह्ला)द	<p> प्रह्रा(ह्ला)द	#-m.	$--1. Joy, pleasure, happiness; 2. noise, sound; 3. name of a son of Hiraṇyakaśipu. (See App. II.)	98
+25162	485-22	<p> प्रह्रा(ह्ला)दन	<p> प्रह्रा(ह्ला)दन	<p> प्रह्रा(ह्ला)दन	#-(I) a. (f. ना)	$--Causing joy, gladdening, /R./xiii.4.	39
+25202	486-11	<p> प्रांगण(न)	<p> प्रांगण(न)	<p> प्रांगण(न)	#-n.	$--1. A court, a courtyard; 2. a hall, a floor; 3. a kind of drum.	66
+25454	490-02	<p> प्राबा(वा)लिक	<p> प्राबा(वा)लिक	<p> प्राबा(वा)लिक	#-m.	$--A dealer in coral.	21
+25809	495-32	<p> प्रो(प्रौ)ष्ठ	<p> प्रो(प्रौ)ष्ठ	<p> प्रो(प्रौ)ष्ठ	#-m.	$--1. A bull, an ox; 2. a kind of fish; 3. a bench, a stool.	60
+25812	495-33	<p> प्रो(प्रौ)ह	<p> प्रो(प्रौ)ह	<p> प्रो(प्रौ)ह	#-m.	$--1. Logic, reasoning; 2. an elephant’s foot; 3. a knot, a joint.	66
+25813	495-34	<p> प्रो(प्रौ)ढ	<p> प्रो(प्रौ)ढ	<p> प्रो(प्रौ)ढ	#-a. (f. ढा)	$--1. Full-grown, fully developed, perfected, प्रौढपुष्पैः कदंबैः /Megh./i.25; 2. adult, old, matured; 3. thick, dense, प्रौढध्वांतं दिनमिह जलदाः /Sis./iv.62; 4. confident, bold, audacious; 5. great, strong, mighty, impetuous, violent.	235
+25818	495-35	<p> प्रो(प्रौ)ढा	<p> प्रो(प्रौ)ढा	<p> प्रो(प्रौ)ढा	#-f.	$--A bold woman advanced in youth who is no longer bashful; the third of the four female characters in poetic composition, (the other three being बाला, तरुणी and वृद्धा).	170
+25819	495-36	<p> प्रो(प्रौ)ढि	<p> प्रो(प्रौ)ढि	<p> प्रो(प्रौ)ढि	#-f.	$--1. Full development, perfection; 2. growth, increase; 3. elevation, greatness; 4. audacity, boldness; 5. enterprize, zeal.	125
+25842	496-11	<p> प्ली(प्लि)हन्	<p> प्ली(प्लि)हन्	<p> प्ली(प्लि)हन्	#-m.	$--1. The spleen; 2. enlargement of the spleen.	47
+25857	496-19	<p> प्लो(प्रो)ष	<p> प्लो(प्रो)ष	<p> प्लो(प्रो)ष	#-m.	$--Burning, combustion.	23
+25858	496-20	<p> प्लो(प्रो)षण	<p> प्लो(प्रो)षण	<p> प्लो(प्रो)षण	#-(I) a. (f. णी)	$--Burning, reducing to ashes, पुरारेस्तद्वतु मदनप्लोषणं लोचनं वः /M.M./i.	74
+25968	498-19	<p> फु(फू)त्	<p> फु(फू)त्	<p> फु(फू)त्	#-ind. (used only in composition with the root कृ)	$--An onomatopoetic word imitative of the sound made by blowing into liquids &c.; (sometimes it expresses disregard or contempt).	129
+25975	499-05	<p> फेन(ण)	<p> फेन(ण)	<p> फेन(ण)	#-m.	$--1. Foam, froth, भिन्नान्द्विधा पश्य समुद्रफेनान् /R./xiii.11; 2. foam of the mouth, /Rt./i.21.	97
+25977	499-06	<p> फेन(ण)क	<p> फेन(ण)क	<p> फेन(ण)क	#-m.	$--The same as फेन q.v.	23
+25996	499-21	<p> बडि(लि)श	<p> बडि(लि)श	<p> बडि(लि)श	#-n.	$--A fish-hook.	15
+26040	500-07	<p> बंदी(दि)	<p> बंदी(दि)	<p> बंदी(दि)	#-f.	$--1. Confinement; 2. a captive, a prisoner.	44
+26071	501-08	<p> बंधुका(की), बंधुदा(रा)	<p> बंधुका(की), बंधुदा(रा)	<p> बंधुका(की), बंधुदा(रा)	#-f.	$--An unchaste woman.	21
+26209	504-04	<p> बली(री)वर्द	<p> बली(री)वर्द	<p> बली(री)वर्द	#-m.	$--A bull, an ox, इहापि … … तैलाभ्यक्तविषाणा बद्धाः प्रवहनबलीवर्दाः Mrich./iv.	78
+26218	504-10	<p> बष्कयणी(नी), बष्कयिणी(नी)	<p> बष्कयणी(नी), बष्कयिणी(नी)	<p> बष्कयणी(नी), बष्कयिणी(नी)	#-f.	$--1. A cow whose calf is full-grown; 2. a prolific cow.	56
+26696	511-17	<p> बुस(ष)	<p> बुस(ष)	<p> बुस(ष)	#-n.	$--1. Chaff; 2. rubbish, refuse; 3. dry cow-dung; 4. wealth.	60
+26700	511-21	<p> बृशी, बृषी(सी)	<p> बृशी, बृषी(सी)	<p> बृशी, बृषी(सी)	#-f.	$--The seat of a holy sage.	27
+27095	519-11	<p> भंडि(डी)	<p> भंडि(डी)	<p> भंडि(डी)	#-f.	$--A wave.	10
+27405	524-25	<p> भालु(लू)क, भाल्लु(ल्लू)क	<p> भालु(लू)क, भाल्लु(ल्लू)क	<p> भालु(लू)क, भाल्लु(ल्लू)क	#-m.	$--A bear.	10
+27531	528-07	<p> भिंद(दि)पाल	<p> भिंद(दि)पाल	<p> भिंद(दि)पाल	#-m.	$--1. A small javeline thrown from the hand; 2. sling. string-instrument for throwing stones.	93
+27599	529-08	<p> भीरु(लु)क	<p> भीरु(लु)क	<p> भीरु(लु)क	#-(I) a. (f. का)	$--1. Timid, timorous; 2. shy.	30
+27602	529-09	<p> भीरू(लू)	<p> भीरू(लू)	<p> भीरू(लू)	#-f.	$--A timid woman, गतं भयं भीरु सुरारिसंभवम् /Vikr./i.	53
+27603	529-10	<p> भीलु(लू)क	<p> भीलु(लू)क	<p> भीलु(लू)क	#-m.	$--A bear.	10
+27670	530-12	<p> भुशुंडि(डी)	<p> भुशुंडि(डी)	<p> भुशुंडि(डी)	#-f.	$--A kind of weapon.	20
+27893	535-04	<p> भृकुंश(स)	<p> भृकुंश(स)	<p> भृकुंश(स)	#-m.	$--A male actor in female attire.	33
+27894	535-05	<p> भृकुटि(टी)	<p> भृकुटि(टी)	<p> भृकुटि(टी)	#-f.	$--Knitting of the eyebrows.	28
+27922	535-13	<p> भृंगिरि(री)टि	<p> भृंगिरि(री)टि	<p> भृंगिरि(री)टि	#-m.	$--The same as भृंगरिटि q.v.	28
+27977	536-20	<p> भेरि(री)	<p> भेरि(री)	<p> भेरि(री)	#-f.	$--A kettle-drum, ततः शंखाश्च भेर्यश्च पणवानकगोमुखाः /Bg./i.13.	63
+28097	538-20	<p> भ्रंश(स)	<p> भ्रंश(स)	<p> भ्रंश(स)	#-m.	$--1. Falling off, dropping down, कनकवलयभ्रंशरिक्तप्रकोष्ठः /Megh./i.2; 2. decay, overthrow, ruin; 3. decline, decrease; 4. disappearance; 5. loss, deprivation (as in जातिभ्रंश), स्मृतिभ्रंशाद्बुद्धिनाशः /Bg./ii.63, सेहेऽस्य न भ्रंशमतो न लोभात् /R./xvi.74; 6. Straying, deviation (as in शीलभ्रंश); 7. running away.	314
+28099	538-22	<p> भ्रंश(स)न	<p> भ्रंश(स)न	<p> भ्रंश(स)न	#-n.	$--1. The act of dropping down; 2. of being deprived of.	56
+28180	540-15	<p> भ्रु(भ्रू)कुंश, भ्रु(भ्रू)कुंस	<p> भ्रु(भ्रू)कुंश, भ्रु(भ्रू)कुंस	<p> भ्रु(भ्रू)कुंश, भ्रु(भ्रू)कुंस	#-(I) m.	$--An actor in female apparel.	30
+28181	540-16	<p> भ्रुकुटि(टी)	<p> भ्रुकुटि(टी)	<p> भ्रुकुटि(टी)	#-f.	$--The same as भ्रूकुटी q.v.	28
+28233	541-18	<p> मक्षि(क्षी)का	<p> मक्षि(क्षी)का	<p> मक्षि(क्षी)का	#-f.	$--A bee, a fly, /M./i.40.	26
+28328	543-04	<p> मंजरी(रि)	<p> मंजरी(रि)	<p> मंजरी(रि)	#-f.	$--1. A flower-bud; 2. a shoot, a sprout, a sprig, शैवलमंजरीणां जालानि कर्षन् /R./v.46, निवपेः सहकारमंजरीः /K.S./iv.38, मुखे मुक्तारुचो धत्ते घर्माभः कणमंजरीः /K.D./ii.71; 3. a cluster of blossoms, त्वं मंजरीभिः /Ghat./16; 4. a branching flower-stalk; 5. a line, a row; 6. a pearl; 7. a creeper; 8. the holy basil; 9. the <i>tilaka</i> plant.	342
+28333	543-07	<p> मंजि(जी)	<p> मंजि(जी)	<p> मंजि(जी)	#-f.	$--1. cluster of blossoms; 2. a creeper.	40
+28368	543-24	<p> मड्ड(ड्डु), मड्डुक	<p> मड्ड(ड्डु), मड्डुक	<p> मड्ड(ड्डु), मड्डुक	#-m.	$--A kind of drum.	18
+28533	546-12	<p> मथु(थू)रा	<p> मथु(थू)रा	<p> मथु(थू)रा	#-f.	$--Name of an ancient city situated on the right bank of the Yamunā; it is one of the seven sacred cities and is celebrated as being the birth-place of Kṛishṇa; it is said to have been founded by Śatrughna, निर्ममे निर्ममोऽर्थेषु मथुरां मधुराकृतिः /R./xv.28, कलिंदकन्या मथुरां गतापि गंगोर्मिसंसक्तजलेव भाति /R./vi.48.	317
+29092	556-02	<p> मय(यु)ष्टक	<p> मय(यु)ष्टक	<p> मय(यु)ष्टक	#-m.	$--A kind of bean.	18
+29123	556-14	<p> मरि(री)च	<p> मरि(री)च	<p> मरि(री)च	#-(I) m.	$--The pepper-shrub.	20
+29172	556-26	<p> मरुव(ब)क	<p> मरुव(ब)क	<p> मरुव(ब)क	#-m.	$--1. A kind of plant; 2. a species of citron; 3. a tiger; 4. Rāhu; 5. a crane.	79
+29291	558-13	<p> मल्लि(ल्ली)	<p> मल्लि(ल्ली)	<p> मल्लि(ल्ली)	#-f.	$--A kind of jasmine.	21
+29330	559-20	<p> मसु(सू)र	<p> मसु(सू)र	<p> मसु(सू)र	#-m.	$--1. A kind of pulse; 2. a pillow.	35
+29331	559-21	<p> मसु(सू)रा	<p> मसु(सू)रा	<p> मसु(सू)रा	#-f.	$--1. A lentil; 2. harlot.	26
+29782	565-15	<p> माक्षि(क्षी)क	<p> माक्षि(क्षी)क	<p> माक्षि(क्षी)क	#-(I) a. (f. की)	$--Coming from a bee.	21
+30059	571-09	<p> मार्जार(ल)	<p> मार्जार(ल)	<p> मार्जार(ल)	#-m.	$--1. A cat, /M./iv.126; 2. a pole-cat.	39
+30085	571-26	<p> मालती(ति)	<p> मालती(ति)	<p> मालती(ति)	#-f.	$--1. A kind of jasmine, सममभिनवैर्जालकैर्मालतीनाम /Megh./ii.35; 2. the flower of this creeper, ˚मालतिजातिसुगंधौ /Git.G./i., /Rt./ii.24; 3. a bud, a blossom in general; 4. a young woman; 5. night; 6. moonlight.	210
+30388	577-02	<p> मुच(चु)कुंद	<p> मुच(चु)कुंद	<p> मुच(चु)कुंद	#-m.	$--1. Name of a tree; 2. name of an ancient king, son of Māndhātṛi. (See App. II.)	82
+30473	579-03	<p> मुश(स)ली	<p> मुश(स)ली	<p> मुश(स)ली	#-f.	$--A house-lizard.	18
+30479	579-07	<p> मुषा(षी)	<p> मुषा(षी)	<p> मुषा(षी)	#-f.	$--A crucible.	14
+30576	581-02	<p> मूर्वा(र्वी), मूर्विका	<p> मूर्वा(र्वी), मूर्विका	<p> मूर्वा(र्वी), मूर्विका	#-f.	$--A kind of creeper of which bowstrings are made.	50
+31006	587-19	<p> मौक(कु)लि	<p> मौक(कु)लि	<p> मौक(कु)लि	#-m.	$--A crow.	10
+31434	597-04	<p> यामि(मी)	<p> यामि(मी)	<p> यामि(मी)	#-f.	$--1. A corruption of जामि q.v.; 2. night.	42
+31517	599-13	<p> युवति(ती)	<p> युवति(ती)	<p> युवति(ती)	#-f.	$--A young woman, युवतिजनकथामूकभावः परेषाम् /Bhartr./ii.26.	59
+32042	610-11	<p> रात्रि(त्री)	<p> रात्रि(त्री)	<p> रात्रि(त्री)	#-f.	$--Night, the darkness of night, नाता रात्रिः क्षण इव मया सार्धमिच्छारतैर्या /Megh./ii.26.	90
+32611	623-12	<p> लशु(शू)न	<p> लशु(शू)न	<p> लशु(शू)न	#-m.n.	$--Garlic, निखिलरसायनमहितो गंधेनोग्रेण लशुन इव /Bh.V./i.81, /M./v.5.	68
+32625	623-25	<p> लहरि(री)	<p> लहरि(री)	<p> लहरि(री)	#-f.	$--A wave, a large wave, करेणोत्क्षिप्तास्ते जननि विजयंतां लहरयः /G.L./40.	74
+32670	624-28	<p> लाबु(बू)	<p> लाबु(बू)	<p> लाबु(बू)	#-m.	$--A kind of gourd.	19
+32746	626-08	<p> लिपि(पी)	<p> लिपि(पी)	<p> लिपि(पी)	#-f.	$--1. Anointing, besmearing; 2. writing, transcribing; 3. painting, drawing; 4. alphabet, लिपेर्यथावद्ग्र्हणेन वाङ्मयं नदीमुखेनेव समुद्रेमाविशत् /R./iii.28, xviii.46; 5. a document, a letter, a manuscript, a writing, लिपिं ललाटेऽर्थिजनस्य जाग्रतीम् /Na./i.35, 138.	264
+32758	626-14	<p> लिबि(बी)	<p> लिबि(बी)	<p> लिबि(बी)	#-f.	$--The same as लिपि q.v.	24
+32815	628-08	<p> लुंठि(ठी)	<p> लुंठि(ठी)	<p> लुंठि(ठी)	#-f.	$--Plundering, robbing.	23
+32862	629-07	<p> लेख(खि)नी	<p> लेख(खि)नी	<p> लेख(खि)नी	#-f.	$--1. A pen, a writing-reed; 2. a spoon.	40
+33029	632-02	<p> लोलुप(भ)	<p> लोलुप(भ)	<p> लोलुप(भ)	#-a. (f. पा)	$--1. Very eager, ardently longing for, covetous, लोलुपं ननु मनो ममेति तं गोत्रस्खलितमूचुरंगनाः /R./xix.24.	107
+33620	641-03	<p> वरटा(टी)	<p> वरटा(टी)	<p> वरटा(टी)	#-f.	$--1. A kind of wasp, एते खलु दास्याःपुत्रा अर्थकल्यवर्ता वरटाभीता इव गोपालदारका अरण्ये यत्र यत्र न खाद्यंते तत्र तत्र गच्छंति /Mrich./i.; 2. a goose, नवप्रसूतिर्वरटा तपस्विनी /Na./i.135.	187
+33644	641-22	<p> वराशि(सि)	<p> वराशि(सि)	<p> वराशि(सि)	#-m.	$--A coarse cloth.	18
+33652	641-25	<p> वरिवसि(स्यि)त	<p> वरिवसि(स्यि)त	<p> वरिवसि(स्यि)त	#-a. (f. ता)	$--Honoured, adored.	20
+33660	641-31	<p> वरी(ली)वर्द	<p> वरी(ली)वर्द	<p> वरी(ली)वर्द	#-m.	$--An ox, a bull.	17
+33771	643-24	<p> वर्ति(ती)र	<p> वर्ति(ती)र	<p> वर्ति(ती)र	#-m.	$--A kind of quail.	19
+33778	643-28	<p> वर्त्मनि(नी)	<p> वर्त्मनि(नी)	<p> वर्त्मनि(नी)	#-f.	$--A road, a path.	18
+33812	644-21	<p> वर्वु(र्बु)र	<p> वर्वु(र्बु)र	<p> वर्वु(र्बु)र	#-m.	$--A kind of tree.	18
+33908	645-41	<p> वल्यु(ल्यू)ल्	<p> वल्यु(ल्यू)ल्	<p> वल्यु(ल्यू)ल्	#-vt. 10U (pres. वल्युलयति)	$--1. To cut off; 2. to purify.	31
+34014	648-01	<p> वसु(सू)क	<p> वसु(सू)क	<p> वसु(सू)क	#-(I) m.	$--The <i>Arka</i> plant.	25
+34333	653-13	<p> वापी(पि)	<p> वापी(पि)	<p> वापी(पि)	#-f.	$--A well, an oblong or round reservoir of water, वापीं स्नातुमितो गतासि न पुनस्तस्याधमस्यांतिकम् /K.Pr./i., वापी चास्मिन्मरकतशिलाबद्धसोपानमार्गा /Megh./ii.13.	159
+34571	656-24	<p> वासि(शि)ष्ठ	<p> वासि(शि)ष्ठ	<p> वासि(शि)ष्ठ	#-(I) a. (f. ष्ठी)	$--Belonging to or composed by Vasishṭha.	41
+34612	657-17	<p> वाह्लि(ह्ली)क	<p> वाह्लि(ह्ली)क	<p> वाह्लि(ह्ली)क	#-(I) m.	$--1. Name of the country now called Balkh; 2. a Balkh-bred horse.	66
+34624	657-25	<p> विकंकट(त)	<p> विकंकट(त)	<p> विकंकट(त)	#-m.	$--Name of a tree, /R./xi.25.	29
+34649	658-04	<p> विकषा(सा)	<p> विकषा(सा)	<p> विकषा(सा)	#-f.	$--Bengal madder.	17
+34652	658-07	<p> विकस्व(श्व)र	<p> विकस्व(श्व)र	<p> विकस्व(श्व)र	#-a. (f. रा)	$--Opening, expanding, कुशेशयैरत्र जलाशयोषिता मुदा रमंते कलभा विकस्वरैः /Sis./iv.33.	84
+34660	658-14	<p> विकाशि(सि)न्	<p> विकाशि(सि)न्	<p> विकाशि(सि)न्	#-a. (f. नी)	$--Opening, expanding.	22
+34679	658-30	<p> विकोश(ष)	<p> विकोश(ष)	<p> विकोश(ष)	#-a. (f. शा)	$--Uncovered, unsheathed, /R./vii.48.	37
+34711	659-21	<p> विख्र(ग्र)	<p> विख्र(ग्र)	<p> विख्र(ग्र)	#-a. (f. ख्रा)	$--Noseless.	12
+34842	661-31	<p> विजिन(ल)	<p> विजिन(ल)	<p> विजिन(ल)	#-m.n.	$--A kind of sauce.	19
+34848	661-36	<p> विज्जन(ल)	<p> विज्जन(ल)	<p> विज्जन(ल)	#-n.	$--1. A kind of sauce; 2. an arrow.	35
+35324	672-14	<p> विंबी(बा)	<p> विंबी(बा)	<p> विंबी(बा)	#-f.	$--Name of a plant.	19
+35341	672-27	<p> वियोनि(नी)	<p> वियोनि(नी)	<p> वियोनि(नी)	#-f.	$--1. Manifold birth; 2. an ignominious birth.	46
+35420	674-03	<p> विरोप(ह)ण	<p> विरोप(ह)ण	<p> विरोप(ह)ण	#-n.	$--Healing (as a wound), /Sak./iv.	34
+35942	684-25	<p> वीथि(थी)	<p> वीथि(थी)	<p> वीथि(थी)	#-f.	$--1. A row, a line; 2. a road; 3. a stall, a shop, a market, घनवीथिनीविमवतोर्णवतः /Sis./ix.32; 4. a kind of drama, (thus described in the /S.D./- वीथ्यामेको भवेदंकः कश्चिदेकोऽत्र कल्प्यते । आकाशभाषितैरुक्तैश्चित्रां प्रत्युक्तिमाश्रितः । सूचयेद् भुरि शृंगारं किंचिद्न्यान् रसानपि । मुखनिर्वहणे संधी अर्थप्रकृतयोखिलाः vi.).	323
+36147	689-17	<p> वृषी(षि)	<p> वृषी(षि)	<p> वृषी(षि)	#-f.	$--The seat of a religious student made of <i>kuśa</i> grass.	61
+36198	690-21	<p> वेतं(दं)ड	<p> वेतं(दं)ड	<p> वेतं(दं)ड	#-m.	$--An elephant.	15
+36316	692-30	<p> वेस(श)वार	<p> वेस(श)वार	<p> वेस(श)वार	#-m.	$--A particular condiment (consisting of ground coriander, mustard, ginger &c.).	80
+36517	696-04	<p> वोर(ल)क	<p> वोर(ल)क	<p> वोर(ल)क	#-m.	$--A scribe, a writer.	22
+36555	697-01	<p> व्यति(ती)हार	<p> व्यति(ती)हार	<p> व्यति(ती)हार	#-m.	$--1. Exchange, barter; 2. reciprocity, /R./xii.93.	51
+36587	697-32	<p> व्यभि(भी)चार	<p> व्यभि(भी)चार	<p> व्यभि(भी)चार	#-m.	$--1. Going away from, deviating, deviation, मां च योऽव्यभिचारेण भक्तियोगेन सेवते /Bg./xiv.26; 2. error, transgression, crime; 3. faithlessness, infidelity (of a wife or husband), वाङ्महझ्कर्मभिः पत्यौ व्यभिचारो यथा न मे । तथा विश्वंभरे देवि मामंतर्धातुमर्हसि /R./xv.81; 4. irregularity, anomaly; 5. a fallacious <i>Hetu</i>, one without the <i>Sādhya</i> (in logic).	367
+36653	699-24	<p> व्याकोश(ष)	<p> व्याकोश(ष)	<p> व्याकोश(ष)	#-a. (f. शा)	$--Blown, blossomed, व्याकोशकोकनदतां दधते नलिन्यः /Sis./iv.46.	62
+36804	702-18	<p> व्रतति(ती)	<p> व्रतति(ती)	<p> व्रतति(ती)	#-f.	$--1. A creeper, पादाकृष्टव्रततिवलयासंगसंजातपाशः /Sak./i.; 2. expansion.	72
+36892	705-01	<p> शक्न(क्ल)	<p> शक्न(क्ल)	<p> शक्न(क्ल)	#-a. (f. क्ना)	$--Speaking agreeably.	22
+36944	706-04	<p> शंखनक(ख)	<p> शंखनक(ख)	<p> शंखनक(ख)	#-m.	$--A small conch.	17
+36948	706-08	<p> शची(चि)	<p> शची(चि)	<p> शची(चि)	#-f.	$--Name of the wife of Indra, /R./iii.13, 23.	45
+37104	709-09	<p> शमी(मि)	<p> शमी(मि)	<p> शमी(मि)	#-f.	$--1. Name of a tree, अग्निगर्भो शमीमिव /Sak./iv., /Yaj./i.302; 2. a legume, a pod.	83
+37107	709-10	<p> शमी(मि)र	<p> शमी(मि)र	<p> शमी(मि)र	#-m.	$--A small variety of the <i>śamī</i> tree.	43
+37112	709-14	<p> शंब(व)र	<p> शंब(व)र	<p> शंब(व)र	#-(I) m.	$--1. Name of a demon killed by Pradyumna; 2. a mountain; 3. a sort of deer; 4. war.	84
+37145		<b> -अटि(ति)	<b> शर-अटि(ति)	<+> शराटि(ति)	#-m.	$--a kind of bird.	18
+37199	710-16	<p> शरयु(यू)	<p> शरयु(यू)	<p> शरयु(यू)	#-f.	$--Name of a river flowing by Ayodhyā. (See सरयु, सरयू.)	56
+37226	711-01	<p> श(शा)रीरक	<p> श(शा)रीरक	<p> श(शा)रीरक	#-m.	$--the soul.	12
+37340	712-17	<p> शष्प(स्प)	<p> शष्प(स्प)	<p> शष्प(स्प)	#-(I) m.	$--Loss of intellect.	21
+37498	715-09	<p> शांबु(बू)क	<p> शांबु(बू)क	<p> शांबु(बू)क	#-m.	$--A bivalve shell.	19
+37574	716-10	<p> शालु(लू)क	<p> शालु(लू)क	<p> शालु(लू)क	#-n.	$--1. The root of the water-lily; 2. nutmeg.	44
+37575	716-11	<p> शालु(लू)र	<p> शालु(लू)र	<p> शालु(लू)र	#-m.	$--A frog.	10
+37587	716-20	<p> शाव(ब)र	<p> शाव(ब)र	<p> शाव(ब)र	#-(I) a. (f. री)	$--1. Barbarous; 2. low, vile.	30
+37590	716-21	<p> शाव(ब)री	<p> शाव(ब)री	<p> शाव(ब)री	#-f.	$--A low <i>Prākṛit</i> dialect.	32
+37717	718-28	<p> शिबि(वि)	<p> शिबि(वि)	<p> शिबि(वि)	#-m.	$--1. A beast of prey; 2. the birch tree; 3. name of a king.	60
+37718	718-29	<p> शिबि(वि)का	<p> शिबि(वि)का	<p> शिबि(वि)का	#-f.	$--1. A palanquin, a litter; 2. a bier.	39
+37719	718-30	<p> शिबि(वि)र	<p> शिबि(वि)र	<p> शिबि(वि)र	#-n.	$--1. A camp, an encampment, संध्यांशुभिन्नघनकर्बुरितांतरीक्षलक्ष्मीविडंबि शिबिरं शिवकीर्तनस्य /Sis./v.68; 2. an intrenchment for the protection of an army; 3. a kind of grain.	176
+37720	718-31	<p> शिबी(वी)रथ	<p> शिबी(वी)रथ	<p> शिबी(वी)रथ	#-m.	$--A palanquin, a litter.	25
+38056	724-03	<p> शुनःशेप(फ)	<p> शुनःशेप(फ)	<p> शुनःशेप(फ)	#-m.	$--Name of a Vedic sage.	24
+38058	724-05	<p> शुनासी(शी)र	<p> शुनासी(शी)र	<p> शुनासी(शी)र	#-m.	$--1. An epithet of Indra; 2. an owl.	37
+38104	724-23	<p> शुल्व्(ल्ब्)	<p> शुल्व्(ल्ब्)	<p> शुल्व्(ल्ब्)	#-vt. 10U (pres. शुल्वयति-ते)	$--1. To measure; 2. to give, to bestow; 3. to send away, to dismiss.	69
+38105	724-24	<p> शुल्व(ल्ब)	<p> शुल्व(ल्ब)	<p> शुल्व(ल्ब)	#-n.	$--1. Copper; 2. a rope, a string; 3. place near water; 4. a law, an institute; 5. a sacrificial act.	101
+38108	725-01	<p> शुल्वा(ल्बा), शुल्वी(ल्बी)	<p> शुल्वा(ल्बा), शुल्वी(ल्बी)	<p> शुल्वा(ल्बा), शुल्वी(ल्बी)	#-f.	$--The same as शुल्व (2) q.v.	29
+38410	729-44	<p> शौल्बि(ल्वि)क	<p> शौल्बि(ल्वि)क	<p> शौल्बि(ल्वि)क	#-m.	$--A coppersmith.	17
+38420	730-07	<p> श्च्यो(श्चो)त	<p> श्च्यो(श्चो)त	<p> श्च्यो(श्चो)त	#-m.	$--Oozing, trickling out, aspersion.	36
+38421	730-08	<p> श्च्यो(श्चो)तन	<p> श्च्यो(श्चो)तन	<p> श्च्यो(श्चो)तन	#-n.	$--The act of oozing, flowing or exuding.	41
+39309	749-09	<p> संज्ञा(ज्ञ)पन	<p> संज्ञा(ज्ञ)पन	<p> संज्ञा(ज्ञ)पन	#-m.	$--1. Informing; 2. teaching; 3. killing, slaughter.	52
+39654	756-25	<p> सभि(भी)क	<p> सभि(भी)क	<p> सभि(भी)क	#-m.	$--The keeper of a gaming-house, तदर्धं सभिकाय सभ्येभ्यश्च दत्वा /D.K./	71
+39760	759-10	<p> स(सा)माजिक	<p> स(सा)माजिक	<p> स(सा)माजिक	#-m.	$--A member of an assembly, a spectator, देवि तस्याः समाजिका (v.l.) भवामः /Mal./i.	82
+39941	762-36	<p> संपराय(यि)क	<p> संपराय(यि)क	<p> संपराय(यि)क	#-n.	$--War, battle.	15
+40546	775-20	<p> सारणि(णी)	<p> सारणि(णी)	<p> सारणि(णी)	#-f.	$--1. A canal, drain, channel, water-pipe; 2. a small river.	60
+40555	775-27	<p> सारस(श)न	<p> सारस(श)न	<p> सारस(श)न	#-n.	$--A girdle, ज्वलन्मणिः सारशनं महानहिः /Kir./xviii.32.	54
+40560	776-02	<p> सारि(री)	<p> सारि(री)	<p> सारि(री)	#-f.	$--1. A chessman; 2. a kind of bird.	36
+40576	776-13	<p> सार्प(र्प्य)	<p> सार्प(र्प्य)	<p> सार्प(र्प्य)	#-m.	$--Name of the constellation <i>Āśleshā</i>.	44
+40650	778-06	<p> साश्र(स्र)	<p> साश्र(स्र)	<p> साश्र(स्र)	#-a. (f. श्रा)	$--1. Having angles or corners, angular; 2. tearful, weeping.	61
+40692	779-03	<p> सिंहाण(न)	<p> सिंहाण(न)	<p> सिंहाण(न)	#-n.	$--1. Rust of iron; 2. the mucus of the nose.	45
+40703	779-12	<p> सिंघ(घा)ण	<p> सिंघ(घा)ण	<p> सिंघ(घा)ण	#-n.	$--1. The mucus of the nose; 2. rust of iron.	45
+40769	781-10	<p> सिंदु(धु)क, सिंदु(धु)वार	<p> सिंदु(धु)क, सिंदु(धु)वार	<p> सिंदु(धु)क, सिंदु(धु)वार	#-m.	$--Name of a small tree.	24
+40843	782-10	<p> सीलंद(ध)	<p> सीलंद(ध)	<p> सीलंद(ध)	#-m.	$--A kind of fish.	18
+40845	782-12	<p> सी(से)वन	<p> सी(से)वन	<p> सी(से)वन	#-n.	$--1. Sewing, stitching; 2. a seam, a suture.	45
+41030	785-12	<p> सुनासी(शी)र	<p> सुनासी(शी)र	<p> सुनासी(शी)र	#-m.	$--An epithet of Indra.	23
+41229	788-19	<p> सुवी(बी)ज	<p> सुवी(बी)ज	<p> सुवी(बी)ज	#-(I) a. (f. जा)	$--Having good seed.	20
+41254	788-39	<p> सुषि(षी)म	<p> सुषि(षी)म	<p> सुषि(षी)म	#-(I) a. (f. मा)	$--1. Cold, frigid; 2. pleasant, agreeable.	43
+41390	791-13	<p> सू(सु)त्रामन्	<p> सू(सु)त्रामन्	<p> सू(सु)त्रामन्	#-m.	$--An epithet of Indra.	23
+41432	792-24	<p> सूर्क्ष(र्क्ष्य)ण	<p> सूर्क्ष(र्क्ष्य)ण	<p> सूर्क्ष(र्क्ष्य)ण	#-n.	$--Disrespect.	14
+41436	792-27	<p> सूर्मि(र्मी)	<p> सूर्मि(र्मी)	<p> सूर्मि(र्मी)	#-f.	$--1. An iron image of a woman, /M./xi.103; 2. tha pillar of a house; 3. brightness, radiance, flame.	101
+41497	794-12	<p> सृणि(णी)का	<p> सृणि(णी)का	<p> सृणि(णी)का	#-f.	$--Saliva.	10
+41931	803-13	<p> स्तरि(री)मन्	<p> स्तरि(री)मन्	<p> स्तरि(री)मन्	#-m.	$--A bed, a couch.	18
+42525	818-07	<p> स्यमि(मी)क	<p> स्यमि(मी)क	<p> स्यमि(मी)क	#-m.	$--1. A cloud; 2. an ant-hill; 3. a kind of tree; 4. time.	58
+42791	822-26	<p> स्वाति(ती)	<p> स्वाति(ती)	<p> स्वाति(ती)	#-f.	$--1. One of the wives of the sun; 2. the star <i>Arcturus</i> considered as the fifteenth lunar asterism, स्यात्यां सागरशुक्तिमध्यपतितं सन्मौक्तिकं जयते /Bhartr./ii.67; 3. an auspicious constellation; 4. a sword.	213
+42895	825-09	<p> हडि(ड्डि)क	<p> हडि(ड्डि)क	<p> हडि(ड्डि)क	#-m.	$--A man of the lowest cast.	28
+42924	826-05	<p> हनु(नू)	<p> हनु(नू)	<p> हनु(नू)	#-(I) m.f.	$--The chin.	12
+42935	826-10	<p> हंबा(भा)	<p> हंबा(भा)	<p> हंबा(भा)	#-f.	$--The lowing of cattle.	24
+43076	829-06	<p> हल्लीश(ष)	<p> हल्लीश(ष)	<p> हल्लीश(ष)	#-n.	$--1. One of the 18 minor dramatic entertainments; (it is described as consisting mainly of singing and dancing by one male and a number of female performers); 2. a circular dance.	180
+43153	830-04	<p> हस्तिन(ना)पुर	<p> हस्तिन(ना)पुर	<p> हस्तिन(ना)पुर	#-n.	$--Name of a city founded by king Hastina. It forms the central scene of action in the <i>Mahābhārata</i>. (It is also called गजाह्वय, नागसाह्वय, नागह्व, हस्तिन.)	162
+43193	831-19	<p> हाल(ला)हल	<p> हाल(ला)हल	<p> हाल(ला)हल	#-n.	$--1. A sort of deadly poison produced at the churning of the ocean and quaffed by Śiva, अहमेव गुरुः सुदारुणानामिति हालाहल तात मास्म दृप्यः /K.Pr./x.; 2. poison in general, /Bh.V./i.95. (Also हालहाल.)	200
+43247	833-07	<p> हिंडि(डी)र	<p> हिंडि(डी)र	<p> हिंडि(डी)र	#-m.	$--1. Cuttle-fish-bone; 2. a man, a male.	41
+43372	835-03	<p> हुहु(हू)	<p> हुहु(हू)	<p> हुहु(हू)	#-m.	$--Name of a <i>Gandharva</i>.	30
+43374	835-05	<p> हूण(न)	<p> हूण(न)	<p> हूण(न)	#-(I) m. pl.	$--1. The name of a country; 2. its people, तत्र हुणावरोधानां भ्र्तृषु व्यक्तविक्रमं … बभूव रघुचेष्टितम् /R./iv.68.	115
+43381	835-10	<p> हूहू(हु)	<p> हूहू(हु)	<p> हूहू(हु)	#-m.	$--Name of a <i>Gandharva</i>, (the same as हुहु q.v.).	55
+43385	836-02	<p> हृणी(णि)या	<p> हृणी(णि)या	<p> हृणी(णि)या	#-f.	$--1. Censure, reproach; 2. shame; 3. pity.	43

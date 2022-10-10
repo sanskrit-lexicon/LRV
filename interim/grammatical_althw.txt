@@ -58,6 +58,7 @@
 <L>00487.1<pc>007-26<k1>ajaGanyA<k2>ajaGanya(nyA)<type>fem<LP>00487<k1P>ajaGanya
 <L>00493.1<pc>007-32<k1>ajarA<k2>ajara(rA)<type>fem<LP>00493<k1P>ajara
 <L>00495.1<pc>007-34<k1>ajasrA<k2>ajasra(srA)<type>fem<LP>00495<k1P>ajasra
+<L>00496.1<pc>008-01<k1>ajahatI<k2>ajahat(tI)<type>fem<LP>00496<k1P>ajahat
 <L>00501.1<pc>008-03<k1>ajAtA<k2>ajAta(tA)<type>fem<LP>00501<k1P>ajAta
 <L>00512.1<pc>008-07<k1>ajitA<k2>ajita(tA)<type>fem<LP>00512<k1P>ajita
 <L>00521.1<pc>008-11<k1>ajihmA<k2>ajihma(hmA)<type>fem<LP>00521<k1P>ajihma
@@ -212,6 +213,7 @@
 <L>01272.1<pc>021-21<k1>anISvarA<k2>anISvara(rA)<type>fem<LP>01272<k1P>anISvara
 <L>01275.1<pc>021-22<k1>anIhA<k2>anIha(hA)<type>fem<LP>01275<k1P>anIha
 <L>01277.1<pc>021-24<k1>anukA<k2>anuka(kA)<type>fem<LP>01277<k1P>anuka
+<L>01279.1<pc>021-26<k1>anukanIyasI<k2>anukanIyas(sI)<type>fem<LP>01279<k1P>anukanIyas
 <L>01282.1<pc>022-03<k1>anukampyA<k2>anukampya(mpyA)<type>fem<LP>01282<k1P>anukampya
 <L>01287.1<pc>022-08<k1>anukAmInA<k2>anukAmIna(nA)<type>fem<LP>01287<k1P>anukAmIna
 <L>01289.1<pc>022-10<k1>anukAlA<k2>anukAla(lA)<type>fem<LP>01289<k1P>anukAla
@@ -345,6 +347,7 @@
 <L>02229.1<pc>040-25<k1>apAkzI<k2>apAkza(kzI)<type>fem<LP>02229<k1P>apAkza
 <L>02230.1<pc>040-26<k1>apAMktA<k2>apAMkta(ktA)<type>fem<LP>02230<k1P>apAMkta
 <L>02231.1<pc>040-27<k1>apAMkteyA<k2>apAMkteya(yA)<type>fem<LP>02231<k1P>apAMkteya
+<L>02235.1<pc>040-29<k1>apAcI<k2>apAc(cI)<type>fem<LP>02235<k1P>apAc
 <L>02238.1<pc>040-31<k1>apAcInA<k2>apAcIna(nA)<type>fem<LP>02238<k1P>apAcIna
 <L>02239.1<pc>040-32<k1>apARinIyA<k2>apARinIya(yA)<type>fem<LP>02239<k1P>apARinIya
 <L>02249.1<pc>040-36<k1>apApakASinI<k2>apApakASin(nI)<type>fem<LP>02249<k1P>apApakASin
@@ -597,6 +600,8 @@
 <L>03504.1<pc>067-06<k1>arDinI<k2>arDin(nI)<type>fem<LP>03504<k1P>arDin
 <L>03508.1<pc>067-10<k1>arBakA<k2>arBaka(kA)<type>fem<LP>03508<k1P>arBaka
 <L>03510.1<pc>067-11<k1>aryA<k2>arya(ryA)<type>fem<LP>03510<k1P>arya
+<L>03518.1<pc>068-04<k1>arvatI<k2>arvan(tI)<type>fem<LP>03518<k1P>arvan
+<L>03523.1<pc>068-07<k1>arvAcI<k2>arvAc(cI)<type>fem<LP>03523<k1P>arvAc
 <L>03524.1<pc>068-08<k1>arvAcInA<k2>arvAcIna(nA)<type>fem<LP>03524<k1P>arvAcIna
 <L>03527.1<pc>068-11<k1>arSasA<k2>arSasa(sA)<type>fem<LP>03527<k1P>arSasa
 <L>03531.1<pc>068-14<k1>arhA<k2>arha(rhA)<type>fem<LP>03531<k1P>arha
@@ -622,6 +627,7 @@
 <L>03664.1<pc>070-22<k1>alpikA<k2>alpaka(lpikA)<type>fem<LP>03664<k1P>alpaka
 <L>03665.1<pc>070-23<k1>alpitA<k2>alpita(tA)<type>fem<LP>03665<k1P>alpita
 <L>03666.1<pc>071-01<k1>alpizWA<k2>alpizWa(zWA)<type>fem<LP>03666<k1P>alpizWa
+<L>03667.1<pc>071-02<k1>alpIyasI<k2>alpIyas(sI)<type>fem<LP>03667<k1P>alpIyas
 <L>03670.1<pc>071-05<k1>api<k2>ava(api)<type>fem<LP>03670<k1P>ava
 <L>03671.1<pc>071-06<k1>avakawA<k2>avakawa(wA)<type>fem<LP>03671<k1P>avakawa
 <L>03675.1<pc>071-09<k1>avakalitA<k2>avakalita(tA)<type>fem<LP>03675<k1P>avakalita
@@ -667,6 +673,7 @@
 <L>03912.1<pc>076-25<k1>avasitA<k2>avasita(tA)<type>fem<LP>03912<k1P>avasita
 <L>03943.1<pc>077-15<k1>avAkzI<k2>avAkza(kzI)<type>fem<LP>03943<k1P>avAkza
 <L>03944.1<pc>077-16<k1>avAgrA<k2>avAgra(grA)<type>fem<LP>03944<k1P>avAgra
+<L>03946.1<pc>077-18<k1>avAcI<k2>avAc(cI)<type>fem<LP>03946<k1P>avAc
 <L>03951.1<pc>077-20<k1>avANmuKI<k2>avANmuKa(KI)<type>fem<LP>03951<k1P>avANmuKa
 <L>03952.1<pc>077-21<k1>avAcInA<k2>avAcIna(nA)<type>fem<LP>03952<k1P>avAcIna
 <L>03953.1<pc>077-22<k1>avAcyA<k2>avAcya(cyA)<type>fem<LP>03953<k1P>avAcya
@@ -979,6 +986,7 @@
 <L>05765.1<pc>117-07<k1>itvarI<k2>itvara(rI)<type>fem<LP>05765<k1P>itvara
 <L>05857.1<pc>118-10<k1>iByA<k2>iBya(ByA)<type>fem<LP>05857<k1P>iBya
 <L>05859.1<pc>118-11<k1>iByakA<k2>iByaka(ByakA)<type>fem<LP>05859<k1P>iByaka
+<L>05861.1<pc>118-13<k1>iyatI<k2>iyat(tI)<type>fem<LP>05861<k1P>iyat
 <L>05887.1<pc>119-07<k1>izwA<k2>izwa(zwA)<type>fem<LP>05887<k1P>izwa
 <L>05924.1<pc>120-09<k1>IqyA<k2>Iqya(qyA)<type>fem<LP>05924<k1P>Iqya
 <L>05927.1<pc>120-12<k1>IdfkSI<k2>Idfkza(SI)<type>fem<LP>05927<k1P>Idfkza
@@ -1127,6 +1135,7 @@
 <L>06744.1<pc>138-09<k1>upaDUpitA<k2>upaDUpita(tA)<type>fem<LP>06744<k1P>upaDUpita
 <L>06750.1<pc>138-13<k1>upanatA<k2>upanata(tA)<type>fem<LP>06750<k1P>upanata
 <L>06768.1<pc>138-31<k1>upaniveSitA<k2>upaniveSita(tA)<type>fem<LP>06768<k1P>upaniveSita
+<L>06773.1<pc>139-04<k1>upanetrI<k2>upanetf(trI)<type>fem<LP>06773<k1P>upanetf
 <L>06779.1<pc>139-09<k1>upapannA<k2>upapanna(nnA)<type>fem<LP>06779<k1P>upapanna
 <L>06805.1<pc>140-03<k1>upamA<k2>upama(mA)<type>fem<LP>06805<k1P>upama
 <L>06814.1<pc>140-11<k1>upameyA<k2>upameya(yA)<type>fem<LP>06814<k1P>upameya
@@ -1182,6 +1191,8 @@
 <L>07468.1<pc>153-19<k1>etA<k2>eta(tA)<type>fem<LP>07468<k1P>eta
 <L>07473.1<pc>153-21<k1>etadIyA<k2>etadIya(yA)<type>fem<LP>07473<k1P>etadIya
 <L>07476.1<pc>153-24<k1>etAdfkzI<k2>etAdfkza(kzI)<type>fem<LP>07476<k1P>etAdfkza
+<L>07477.1<pc>153-24<k1>etAvatI<k2>etAvat(tI)<type>fem<LP>07477<k1P>etAvat
+<L>07485.1<pc>153-31<k1>enasvatI<k2>enasvat(tI)<type>fem<LP>07485<k1P>enasvat
 <L>07519.1<pc>154-26<k1>EkAntikI<k2>EkAntika(kI)<type>fem<LP>07519<k1P>EkAntika
 <L>07522.1<pc>154-29<k1>EkAhikI<k2>EkAhika(kI)<type>fem<LP>07522<k1P>EkAhika
 <L>07525.1<pc>154-31<k1>EkzavI<k2>Ekzava(vI)<type>fem<LP>07525<k1P>Ekzava
@@ -1283,6 +1294,7 @@
 <L>08024.1<pc>164-03<k1>kaTitA<k2>kaTita(tA)<type>fem<LP>08024<k1P>kaTita
 <L>08080.1<pc>165-08<k1>kananA<k2>kanana(nA)<type>fem<LP>08080<k1P>kanana
 <L>08082.1<pc>165-10<k1>kanizWA<k2>kanizWa(zWA)<type>fem<LP>08082<k1P>kanizWa
+<L>08085.1<pc>165-13<k1>kanIyasI<k2>kanIyas(sI)<type>fem<LP>08085<k1P>kanIyas
 <L>08170.1<pc>166-14<k1>kapAlinI<k2>kapAlin(nI)<type>fem<LP>08170<k1P>kapAlin
 <L>08184.1<pc>167-03<k1>kapilA<k2>kapila(lA)<type>fem<LP>08184<k1P>kapila
 <L>08191.1<pc>167-05<k1>kapiSA<k2>kapiSa(SA)<type>fem<LP>08191<k1P>kapiSa
@@ -1292,6 +1304,7 @@
 <L>08233.1<pc>167-23<k1>kamanA<k2>kamana(nA)<type>fem<LP>08233<k1P>kamana
 <L>08237.1<pc>167-24<k1>kamanIyA<k2>kamanIya(yA)<type>fem<LP>08237<k1P>kamanIya
 <L>08238.1<pc>167-25<k1>kamarA<k2>kamara(rA)<type>fem<LP>08238<k1P>kamara
+<L>08255.1<pc>168-03<k1>kamitrI<k2>kamitf(trI)<type>fem<LP>08255<k1P>kamitf
 <L>08258.1<pc>168-05<k1>kaMpanA<k2>kaMpana(nA)<type>fem<LP>08258<k1P>kaMpana
 <L>08264.1<pc>168-09<k1>kaMprA<k2>kaMpra(prA)<type>fem<LP>08264<k1P>kaMpra
 <L>08266.1<pc>168-11<k1>kaMbarA<k2>kaMbara(rA)<type>fem<LP>08266<k1P>kaMbara
@@ -1479,7 +1492,9 @@
 <L>10800.1<pc>218-11<k1>kzaRikA<k2>kzaRika(kA)<type>fem<LP>10800<k1P>kzaRika
 <L>10802.1<pc>218-13<k1>kzaRinI<k2>kzaRin(nI)<type>fem<LP>10802<k1P>kzaRin
 <L>10804.1<pc>218-15<k1>kzatA<k2>kzata(tA)<type>fem<LP>10804<k1P>kzata
+<L>10827.1<pc>219-02<k1>kzaMtrI<k2>kzaMtf(trI)<type>fem<LP>10827<k1P>kzaMtf
 <L>10841.1<pc>219-10<k1>kzamA<k2>kzama(mA)<type>fem<LP>10841<k1P>kzama
+<L>10845.1<pc>219-12<k1>kzamitrI<k2>kzamitf(trI)<type>fem<LP>10845<k1P>kzamitf
 <L>10856.1<pc>219-15<k1>kzayiRI<k2>kzayin(RI)<type>fem<LP>10856<k1P>kzayin
 <L>10861.1<pc>219-18<k1>kzarA<k2>kzara(rA)<type>fem<LP>10861<k1P>kzara
 <L>10868.1<pc>219-23<k1>kzAtrI<k2>kzAtra(trI)<type>fem<LP>10868<k1P>kzAtra
@@ -1540,6 +1555,7 @@
 <L>11645.1<pc>233-07<k1>gadinI<k2>gadin(nI)<type>fem<LP>11645<k1P>gadin
 <L>11647.1<pc>233-08<k1>gadgadA<k2>gadgada(dA)<type>fem<LP>11647<k1P>gadgada
 <L>11653.1<pc>233-09<k1>gadyA<k2>gadya(dyA)<type>fem<LP>11653<k1P>gadya
+<L>11656.1<pc>233-11<k1>gaMtrI<k2>gaMtf(trI)<type>fem<LP>11656<k1P>gaMtf
 <L>11749.1<pc>235-04<k1>gaMDikA<k2>gaMDika(kA)<type>fem<LP>11749<k1P>gaMDika
 <L>11757.1<pc>235-06<k1>gaBIrA<k2>gaBIra(rA)<type>fem<LP>11757<k1P>gaBIra
 <L>11763.1<pc>236-01<k1>gamA<k2>gama(mA)<type>fem<LP>11763<k1P>gama
@@ -1550,6 +1566,7 @@
 <L>11778.1<pc>236-11<k1>garI<k2>gara(rI)<type>fem<LP>11778<k1P>gara
 <L>11793.1<pc>236-16<k1>garitA<k2>garita(tA)<type>fem<LP>11793<k1P>garita
 <L>11795.1<pc>236-18<k1>garizWA<k2>garizWa(zWA)<type>fem<LP>11795<k1P>garizWa
+<L>11796.1<pc>236-19<k1>garIyasI<k2>garIyas(sI)<type>fem<LP>11796<k1P>garIyas
 <L>11818.1<pc>237-11<k1>garjitA<k2>garjita(tA)<type>fem<LP>11818<k1P>garjita
 <L>11833.1<pc>237-18<k1>garDanA<k2>garDana(nA)<type>fem<LP>11833<k1P>garDana
 <L>11834.1<pc>237-19<k1>garDinI<k2>garDin(nI)<type>fem<LP>11834<k1P>garDin
@@ -1617,6 +1634,7 @@
 <L>12720.1<pc>254-06<k1>graMTilA<k2>graMTila(lA)<type>fem<LP>12720<k1P>graMTila
 <L>12724.1<pc>254-09<k1>grastA<k2>grasta(stA)<type>fem<LP>12724<k1P>grasta
 <L>12760.1<pc>255-04<k1>grahilA<k2>grahila(lA)<type>fem<LP>12760<k1P>grahila
+<L>12761.1<pc>255-05<k1>grahItrI<k2>grahItf(trI)<type>fem<LP>12761<k1P>grahItf
 <L>12799.1<pc>256-01<k1>grAmikI<k2>grAmika(kI)<type>fem<LP>12799<k1P>grAmika
 <L>12802.1<pc>256-03<k1>grAmeyI<k2>grAmeya(yI)<type>fem<LP>12802<k1P>grAmeya
 <L>12804.1<pc>256-05<k1>grAmyA<k2>grAmya(myA)<type>fem<LP>12804<k1P>grAmya
@@ -1726,6 +1744,7 @@
 <L>14094.1<pc>281-15<k1>CuritA<k2>Curita(tA)<type>fem<LP>14094<k1P>Curita
 <L>14098.1<pc>281-18<k1>CekA<k2>Ceka(kA)<type>fem<LP>14098<k1P>Ceka
 <L>14111.1<pc>282-01<k1>jA<k2>ja(jA)<type>fem<LP>14111<k1P>ja
+<L>14116.1<pc>282-05<k1>jagatI<k2>jagat(tI)<type>fem<LP>14116<k1P>jagat
 <L>14139.1<pc>282-09<k1>jagalA<k2>jagala(lA)<type>fem<LP>14139<k1P>jagala
 <L>14141.1<pc>282-10<k1>jagDA<k2>jagDa(gDA)<type>fem<LP>14141<k1P>jagDa
 <L>14147.1<pc>282-14<k1>jaGanyA<k2>jaGanya(nyA)<type>fem<LP>14147<k1P>jaGanya
@@ -1738,12 +1757,14 @@
 <L>14178.1<pc>283-01<k1>jaWarA<k2>jaWara(rA)<type>fem<LP>14178<k1P>jaWara
 <L>14184.1<pc>283-02<k1>jaqA<k2>jaqa(qA)<type>fem<LP>14184<k1P>jaqa
 <L>14234.1<pc>284-01<k1>janikA<k2>janaka(nikA)<type>fem<LP>14234<k1P>janaka
+<L>14240.1<pc>284-05<k1>janayitrI<k2>janayitf(trI)<type>fem<LP>14240<k1P>janayitf
 <L>14246.1<pc>284-10<k1>janitA<k2>janita(tA)<type>fem<LP>14246<k1P>janita
 <L>14285.1<pc>284-20<k1>janyA<k2>janya(nyA)<type>fem<LP>14285<k1P>janya
 <L>14334.1<pc>285-22<k1>jayinI<k2>jayin(nI)<type>fem<LP>14334<k1P>jayin
 <L>14335.1<pc>285-23<k1>jayyA<k2>jayya(yyA)<type>fem<LP>14335<k1P>jayya
 <L>14336.1<pc>285-24<k1>jaraWA<k2>jaraWa(WA)<type>fem<LP>14336<k1P>jaraWa
 <L>14338.1<pc>285-25<k1>jaraRA<k2>jaraRa(RA)<type>fem<LP>14338<k1P>jaraRa
+<L>14339.1<pc>285-26<k1>jaratI<k2>jarat(tI)<type>fem<LP>14339<k1P>jarat
 <L>14348.1<pc>286-02<k1>jaritA<k2>jarita(tA)<type>fem<LP>14348<k1P>jarita
 <L>14349.1<pc>286-03<k1>jariRI<k2>jarin(RI)<type>fem<LP>14349<k1P>jarin
 <L>14351.1<pc>286-05<k1>jarjarA<k2>jarjara(rA)<type>fem<LP>14351<k1P>jarjara
@@ -1753,7 +1774,9 @@
 <L>14516.1<pc>287-05<k1>jalpikA<k2>jalpaka(lpikA)<type>fem<LP>14516<k1P>jalpaka
 <L>14517.1<pc>287-06<k1>javA<k2>java(vA)<type>fem<LP>14517<k1P>java
 <L>14521.1<pc>287-07<k1>javanI<k2>javana(nI)<type>fem<LP>14521<k1P>javana
+<L>14531.1<pc>287-14<k1>jahatI<k2>jahat(tI)<type>fem<LP>14531<k1P>jahat
 <L>14540.1<pc>288-04<k1>jAgaritA<k2>jAgarita(tA)<type>fem<LP>14540<k1P>jAgarita
+<L>14542.1<pc>288-05<k1>jAgaritrI<k2>jAgaritf(trI)<type>fem<LP>14542<k1P>jAgaritf
 <L>14543.1<pc>288-06<k1>jAgarUkA<k2>jAgarUka(kA)<type>fem<LP>14543<k1P>jAgarUka
 <L>14548.1<pc>288-11<k1>jAMgalI<k2>jAMgala(lI)<type>fem<LP>14548<k1P>jAMgala
 <L>14555.1<pc>288-16<k1>jAWarI<k2>jAWara(rI)<type>fem<LP>14555<k1P>jAWara
@@ -1774,6 +1797,7 @@
 <L>14715.1<pc>291-08<k1>jIrRA<k2>jIrRa(rRA)<type>fem<LP>14715<k1P>jIrRa
 <L>14724.1<pc>291-09<k1>jIrRakA<k2>jIrRaka(kA)<type>fem<LP>14724<k1P>jIrRaka
 <L>14727.1<pc>291-12<k1>jIvA<k2>jIva(vA)<type>fem<LP>14727<k1P>jIva
+<L>14757.1<pc>292-02<k1>jIvntI<k2>jIvat(ntI)<type>fem<LP>14757<k1P>jIvat
 <L>14764.1<pc>292-04<k1>jIvanI<k2>jIvana(nI)<type>fem<LP>14764<k1P>jIvana
 <L>14779.1<pc>292-12<k1>jIvitA<k2>jIvita(tA)<type>fem<LP>14779<k1P>jIvita
 <L>14788.1<pc>292-13<k1>jIvinI<k2>jIvin(nI)<type>fem<LP>14788<k1P>jIvin
@@ -1786,6 +1810,7 @@
 <L>14864.1<pc>294-06<k1>jYAninI<k2>jYAnin(nI)<type>fem<LP>14864<k1P>jYAnin
 <L>14866.1<pc>294-07<k1>jYApakA<k2>jYApaka(kA)<type>fem<LP>14866<k1P>jYApaka
 <L>14870.1<pc>294-09<k1>jYApitA<k2>jYApita(tA)<type>fem<LP>14870<k1P>jYApita
+<L>14875.1<pc>294-14<k1>jyAyasI<k2>jyAyas(sI)<type>fem<LP>14875<k1P>jyAyas
 <L>14876.1<pc>295-01<k1>jyezWA<k2>jyezWa(zWA)<type>fem<LP>14876<k1P>jyezWa
 <L>14890.1<pc>295-07<k1>jyotizI<k2>jyotiza(zI)<type>fem<LP>14890<k1P>jyotiza
 <L>14924.1<pc>295-17<k1>jvaritA<k2>jvarita(tA)<type>fem<LP>14924<k1P>jvarita
@@ -1829,6 +1854,7 @@
 <L>15514.1<pc>308-18<k1>tArtIyIkA<k2>tArtIyIka(kA)<type>fem<LP>15514<k1P>tArtIyIka
 <L>15533.1<pc>308-22<k1>tAlavyA<k2>tAlavya(vyA)<type>fem<LP>15533<k1P>tAlavya
 <L>15545.1<pc>309-07<k1>tAvakI<k2>tAvaka(kI)<type>fem<LP>15545<k1P>tAvaka
+<L>15546.1<pc>309-08<k1>tAvatI<k2>tAvat(tI)<type>fem<LP>15546<k1P>tAvat
 <L>15551.1<pc>309-09<k1>tAvatikA<k2>tAvatika(kA)<type>fem<LP>15551<k1P>tAvatika
 <L>15553.1<pc>309-11<k1>tiktA<k2>tikta(ktA)<type>fem<LP>15553<k1P>tikta
 <L>15558.1<pc>309-12<k1>tigmA<k2>tigma(gmA)<type>fem<LP>15558<k1P>tigma
@@ -1868,6 +1894,7 @@
 <L>15989.1<pc>316-36<k1>tyaktA<k2>tyakta(ktA)<type>fem<LP>15989<k1P>tyakta
 <L>15996.1<pc>317-03<k1>tyAginI<k2>tyAgin(nI)<type>fem<LP>15996<k1P>tyAgin
 <L>16001.1<pc>317-06<k1>trapizWA<k2>trapizWa(zWA)<type>fem<LP>16001<k1P>trapizWa
+<L>16002.1<pc>317-07<k1>trapIyasI<k2>trapIyas(sI)<type>fem<LP>16002<k1P>trapIyas
 <L>16006.1<pc>317-11<k1>trayI<k2>traya(yI)<type>fem<LP>16006<k1P>traya
 <L>16030.1<pc>317-15<k1>trasA<k2>trasa(sA)<type>fem<LP>16030<k1P>trasa
 <L>16035.1<pc>317-17<k1>trasurA<k2>trasura(rA)<type>fem<LP>16035<k1P>trasura
@@ -1913,6 +1940,7 @@
 <L>16568.1<pc>327-03<k1>darSinI<k2>darSin(nI)<type>fem<LP>16568<k1P>darSin
 <L>16582.1<pc>327-09<k1>dalitA<k2>dalita(tA)<type>fem<LP>16582<k1P>dalita
 <L>16587.1<pc>327-13<k1>davizWA<k2>davizWa(zWA)<type>fem<LP>16587<k1P>davizWa
+<L>16588.1<pc>327-14<k1>davIyasI<k2>davIyas(sI)<type>fem<LP>16588<k1P>davIyas
 <L>16589.1<pc>327-15<k1>daSakA<k2>daSaka(kA)<type>fem<LP>16589<k1P>daSaka
 <L>16608.1<pc>327-17<k1>daSatayI<k2>daSataya(yI)<type>fem<LP>16608<k1P>daSataya
 <L>16630.1<pc>327-18<k1>daSamI<k2>daSama(mI)<type>fem<LP>16630<k1P>daSama
@@ -1928,6 +1956,7 @@
 <L>16686.1<pc>329-05<k1>dAkziRikI<k2>dAkziRika(kI)<type>fem<LP>16686<k1P>dAkziRika
 <L>16700.1<pc>329-16<k1>dAMqAjinikI<k2>dAMqAjinika(kI)<type>fem<LP>16700<k1P>dAMqAjinika
 <L>16703.1<pc>329-18<k1>dAtA<k2>dAta(tA)<type>fem<LP>16703<k1P>dAta
+<L>16705.1<pc>329-20<k1>dAtrI<k2>dAtf(trI)<type>fem<LP>16705<k1P>dAtf
 <L>16727.1<pc>330-04<k1>dAMtA<k2>dAMta(tA)<type>fem<LP>16727<k1P>dAMta
 <L>16730.1<pc>330-06<k1>dAMtikA<k2>dAMtika(kA)<type>fem<LP>16730<k1P>dAMtika
 <L>16731.1<pc>330-07<k1>dApitA<k2>dApita(tA)<type>fem<LP>16731<k1P>dApita
@@ -2002,6 +2031,7 @@
 <L>17806.1<pc>347-35<k1>dravA<k2>drava(vA)<type>fem<LP>17806<k1P>drava
 <L>17822.1<pc>348-05<k1>drazwavyA<k2>drazwavya(vyA)<type>fem<LP>17822<k1P>drazwavya
 <L>17832.1<pc>348-13<k1>drAGizWA<k2>drAGizWa(zWA)<type>fem<LP>17832<k1P>drAGizWa
+<L>17833.1<pc>348-14<k1>drAGIyasI<k2>drAGIyas(sI)<type>fem<LP>17833<k1P>drAGIyas
 <L>17834.1<pc>348-15<k1>drARA<k2>drARa(RA)<type>fem<LP>17834<k1P>drARa
 <L>17862.1<pc>349-04<k1>drutA<k2>druta(tA)<type>fem<LP>17862<k1P>druta
 <L>17911.1<pc>349-24<k1>dvayI<k2>dvaya(yI)<type>fem<LP>17911<k1P>dvaya
@@ -2224,6 +2254,7 @@
 <L>20348.1<pc>397-18<k1>nUtanA<k2>nUtana(nA)<type>fem<LP>20348<k1P>nUtana
 <L>20389.1<pc>398-04<k1>nfSaMsA<k2>nfSaMsa(sA)<type>fem<LP>20389<k1P>nfSaMsa
 <L>20415.1<pc>398-11<k1>nedizWA<k2>nedizWa(zWA)<type>fem<LP>20415<k1P>nedizWa
+<L>20416.1<pc>398-12<k1>nedIyasI<k2>nedIyas(sI)<type>fem<LP>20416<k1P>nedIyas
 <L>20428.1<pc>398-21<k1>nEHSreyasI<k2>nEHSreyasa(sI)<type>fem<LP>20428<k1P>nEHSreyasa
 <L>20430.1<pc>398-23<k1>nEkawikI<k2>nEkawika(kI)<type>fem<LP>20430<k1P>nEkawika
 <L>20433.1<pc>398-26<k1>nEkftikI<k2>nEkftika(kI)<type>fem<LP>20433<k1P>nEkftika
@@ -2259,6 +2290,7 @@
 <L>20823.1<pc>406-04<k1>paRitA<k2>paRita(tA)<type>fem<LP>20823<k1P>paRita
 <L>20827.1<pc>406-07<k1>paMqitA<k2>paMqita(tA)<type>fem<LP>20827<k1P>paMqita
 <L>20831.1<pc>406-09<k1>paRyA<k2>paRya(RyA)<type>fem<LP>20831<k1P>paRya
+<L>20850.1<pc>407-03<k1>patntI<k2>patat(ntI)<type>fem<LP>20850<k1P>patat
 <L>20865.1<pc>407-12<k1>patAkikA<k2>patAkika(kA)<type>fem<LP>20865<k1P>patAkika
 <L>20878.1<pc>407-16<k1>patitA<k2>patita(tA)<type>fem<LP>20878<k1P>patita
 <L>20919.1<pc>408-04<k1>patriRI<k2>patrin(RI)<type>fem<LP>20919<k1P>patrin
@@ -2272,6 +2304,7 @@
 <L>21175.1<pc>413-01<k1>parakIyA<k2>parakIya(yA)<type>fem<LP>21175<k1P>parakIya
 <L>21177.1<pc>413-03<k1>paramA<k2>parama(mA)<type>fem<LP>21177<k1P>parama
 <L>21204.1<pc>413-06<k1>paraSavyA<k2>paraSavya(vyA)<type>fem<LP>21204<k1P>paraSavya
+<L>21220.1<pc>414-06<k1>parAcI<k2>parAc(cI)<type>fem<LP>21220<k1P>parAc
 <L>21222.1<pc>414-07<k1>parAcInA<k2>parAcIna(nA)<type>fem<LP>21222<k1P>parAcIna
 <L>21224.1<pc>414-09<k1>parAjitA<k2>parAjita(tA)<type>fem<LP>21224<k1P>parAjita
 <L>21229.1<pc>414-14<k1>parAmfzwA<k2>parAmfzwa(zwA)<type>fem<LP>21229<k1P>parAmfzwa
@@ -2377,6 +2410,7 @@
 <L>21764.1<pc>425-29<k1>pavitrA<k2>pavitra(trA)<type>fem<LP>21764<k1P>pavitra
 <L>21770.1<pc>425-31<k1>paSavyA<k2>paSavya(vyA)<type>fem<LP>21770<k1P>paSavya
 <L>21793.1<pc>426-02<k1>paScimA<k2>paScima(mA)<type>fem<LP>21793<k1P>paScima
+<L>21798.1<pc>426-04<k1>paSyntI<k2>paSyat(ntI)<type>fem<LP>21798<k1P>paSyat
 <L>21808.1<pc>427-02<k1>pAMsanA<k2>pAMsana(nA)<type>fem<LP>21808<k1P>pAMsana
 <L>21809.1<pc>427-03<k1>pAMsavA<k2>pAMsava(vA)<type>fem<LP>21809<k1P>pAMsava
 <L>21823.1<pc>427-06<k1>pAMsulA<k2>pAMsula(lA)<type>fem<LP>21823<k1P>pAMsula
@@ -2413,6 +2447,7 @@
 <L>22074.1<pc>431-06<k1>pApA<k2>pApa(pA)<type>fem<LP>22074<k1P>pApa
 <L>22098.1<pc>431-08<k1>pApinI<k2>pApin(nI)<type>fem<LP>22098<k1P>pApin
 <L>22099.1<pc>431-09<k1>pApizWA<k2>pApizWa(zWA)<type>fem<LP>22099<k1P>pApizWa
+<L>22100.1<pc>431-10<k1>pApIyasI<k2>pApIyas(sI)<type>fem<LP>22100<k1P>pApIyas
 <L>22104.1<pc>431-13<k1>pAmanA<k2>pAmana(nA)<type>fem<LP>22104<k1P>pAmana
 <L>22105.1<pc>431-14<k1>pAmarA<k2>pAmara(rA)<type>fem<LP>22105<k1P>pAmara
 <L>22110.1<pc>431-17<k1>pAyasI<k2>pAyasa(sI)<type>fem<LP>22110<k1P>pAyasa
@@ -2706,6 +2741,7 @@
 <L>24460.1<pc>471-06<k1>praTamA<k2>praTama(mA)<type>fem<LP>24460<k1P>praTama
 <L>24479.1<pc>471-08<k1>praTitA<k2>praTita(tA)<type>fem<LP>24479<k1P>praTita
 <L>24482.1<pc>471-11<k1>praTizWA<k2>praTizWa(zWA)<type>fem<LP>24482<k1P>praTizWa
+<L>24483.1<pc>471-12<k1>praTIyasI<k2>praTIyas(sI)<type>fem<LP>24483<k1P>praTIyas
 <L>24486.1<pc>471-15<k1>pradakziRA<k2>pradakziRa(RA)<type>fem<LP>24486<k1P>pradakziRa
 <L>24491.1<pc>471-16<k1>pradagDA<k2>pradagDa(gDA)<type>fem<LP>24491<k1P>pradagDa
 <L>24492.1<pc>471-17<k1>pradattA<k2>pradatta(ttA)<type>fem<LP>24492<k1P>pradatta
@@ -2778,6 +2814,7 @@
 <L>24801.1<pc>477-24<k1>pralUnA<k2>pralUna(nA)<type>fem<LP>24801<k1P>pralUna
 <L>24809.1<pc>477-32<k1>pralolA<k2>pralola(lA)<type>fem<LP>24809<k1P>pralola
 <L>24815.1<pc>478-05<k1>pravaRA<k2>pravaRa(RA)<type>fem<LP>24815<k1P>pravaRa
+<L>24818.1<pc>478-06<k1>pravatsyatI<k2>pravatsyat(tI)<type>fem<LP>24818<k1P>pravatsyat
 <L>24822.1<pc>478-09<k1>pravarA<k2>pravara(rA)<type>fem<LP>24822<k1P>pravara
 <L>24829.1<pc>478-13<k1>pravartikA<k2>pravartaka(rtikA)<type>fem<LP>24829<k1P>pravartaka
 <L>24834.1<pc>478-16<k1>pravartitA<k2>pravartita(tA)<type>fem<LP>24834<k1P>pravartita
@@ -2860,6 +2897,7 @@
 <L>25181.1<pc>485-37<k1>prAkftA<k2>prAkfta(tA)<type>fem<LP>25181<k1P>prAkfta
 <L>25189.1<pc>486-01<k1>prAkftikA<k2>prAkftika(kA)<type>fem<LP>25189<k1P>prAkftika
 <L>25197.1<pc>486-06<k1>prAgryA<k2>prAgrya(gryA)<type>fem<LP>25197<k1P>prAgrya
+<L>25203.1<pc>486-12<k1>prAcI<k2>prAc(cI)<type>fem<LP>25203<k1P>prAc
 <L>25225.1<pc>486-12<k1>prAktanI<k2>prAktana(nI)<type>fem<LP>25225<k1P>prAktana
 <L>25252.1<pc>487-04<k1>prAcInA<k2>prAcIna(nA)<type>fem<LP>25252<k1P>prAcIna
 <L>25266.1<pc>487-08<k1>prAcyA<k2>prAcya(cyA)<type>fem<LP>25266<k1P>prAcya
@@ -2928,6 +2966,7 @@
 <L>25688.1<pc>493-25<k1>preNKitA<k2>preNKita(tA)<type>fem<LP>25688<k1P>preNKita
 <L>25691.1<pc>493-28<k1>pretA<k2>preta(tA)<type>fem<LP>25691<k1P>preta
 <L>25731.1<pc>494-07<k1>premiRI<k2>premin(RI)<type>fem<LP>25731<k1P>premin
+<L>25732.1<pc>494-08<k1>preyasI<k2>preyas(sI)<type>fem<LP>25732<k1P>preyas
 <L>25737.1<pc>494-10<k1>prerikA<k2>preraka(rikA)<type>fem<LP>25737<k1P>preraka
 <L>25739.1<pc>494-12<k1>preritA<k2>prerita(tA)<type>fem<LP>25739<k1P>prerita
 <L>25744.1<pc>494-16<k1>prezitA<k2>prezita(tA)<type>fem<LP>25744<k1P>prezita
@@ -2967,6 +3006,7 @@
 <L>25972.1<pc>499-03<k1>PullA<k2>Pulla(llA)<type>fem<LP>25972<k1P>Pulla
 <L>25978.1<pc>499-07<k1>PenilA<k2>Penila(lA)<type>fem<LP>25978<k1P>Penila
 <L>25985.1<pc>499-14<k1>baMhizWA<k2>baMhizWa(zWA)<type>fem<LP>25985<k1P>baMhizWa
+<L>25986.1<pc>499-15<k1>baMhIyasI<k2>baMhIyas(sI)<type>fem<LP>25986<k1P>baMhIyas
 <L>26008.1<pc>500-01<k1>badDA<k2>badDa(dDA)<type>fem<LP>26008<k1P>badDa
 <L>26036.1<pc>500-03<k1>baDirA<k2>baDira(rA)<type>fem<LP>26036<k1P>baDira
 <L>26037.1<pc>500-04<k1>baDiritA<k2>baDirita(tA)<type>fem<LP>26037<k1P>baDirita
@@ -2981,6 +3021,7 @@
 <L>26199.1<pc>503-12<k1>balinI<k2>balin(nI)<type>fem<LP>26199<k1P>balin
 <L>26201.1<pc>503-13<k1>balinA<k2>balina(nA)<type>fem<LP>26201<k1P>balina
 <L>26204.1<pc>503-16<k1>balizWA<k2>balizWa(zWA)<type>fem<LP>26204<k1P>balizWa
+<L>26208.1<pc>504-03<k1>balIyasI<k2>balIyas(sI)<type>fem<LP>26208<k1P>balIyas
 <L>26210.1<pc>504-05<k1>balyA<k2>balya(lyA)<type>fem<LP>26210<k1P>balya
 <L>26221.1<pc>504-12<k1>bahalA<k2>bahala(lA)<type>fem<LP>26221<k1P>bahala
 <L>26321.1<pc>505-02<k1>bahulA<k2>bahula(lA)<type>fem<LP>26321<k1P>bahula
@@ -3011,6 +3052,7 @@
 <L>26684.1<pc>511-05<k1>buDitA<k2>buDita(tA)<type>fem<LP>26684<k1P>buDita
 <L>26685.1<pc>511-06<k1>buDilA<k2>buDila(lA)<type>fem<LP>26685<k1P>buDila
 <L>26689.1<pc>511-10<k1>buBukzitA<k2>buBukzita(tA)<type>fem<LP>26689<k1P>buBukzita
+<L>26704.1<pc>511-24<k1>bfhatI<k2>bfhat(tI)<type>fem<LP>26704<k1P>bfhat
 <L>26730.1<pc>512-05<k1>bEjikI<k2>bEjika(kI)<type>fem<LP>26730<k1P>bEjika
 <L>26733.1<pc>512-06<k1>bEqAlI<k2>bEqAla(lI)<type>fem<LP>26733<k1P>bEqAla
 <L>26737.1<pc>512-07<k1>bEdalI<k2>bEdala(lI)<type>fem<LP>26737<k1P>bEdala
@@ -3045,11 +3087,15 @@
 <L>27153.1<pc>520-04<k1>BaraRI<k2>BaraRa(RI)<type>fem<LP>27153<k1P>BaraRa
 <L>27173.1<pc>520-13<k1>BaritA<k2>Barita(tA)<type>fem<LP>27173<k1P>Barita
 <L>27179.1<pc>520-19<k1>BarjanA<k2>Barjana(nA)<type>fem<LP>27179<k1P>Barjana
+<L>27218.1<pc>521-10<k1>BavntI<k2>Bavat(ntI)<type>fem<LP>27218<k1P>Bavat
+<L>27219.1<pc>521-10<k1>BavatI<k2>Bavat(tI)<type>fem<LP>27219<k1P>Bavat
 <L>27220.1<pc>521-11<k1>BavadIyA<k2>BavadIya(yA)<type>fem<LP>27220<k1P>BavadIya
 <L>27229.1<pc>521-16<k1>BavAdfkzI<k2>BavAdfkza(kzI)<type>fem<LP>27229<k1P>BavAdfkza
 <L>27230.1<pc>521-17<k1>BavikI<k2>Bavika(kI)<type>fem<LP>27230<k1P>Bavika
 <L>27232.1<pc>521-18<k1>BavitavyA<k2>Bavitavya(vyA)<type>fem<LP>27232<k1P>Bavitavya
+<L>27235.1<pc>521-20<k1>BavitrI<k2>Bavitf(trI)<type>fem<LP>27235<k1P>Bavitf
 <L>27239.1<pc>521-24<k1>BavizyA<k2>Bavizya(zyA)<type>fem<LP>27239<k1P>Bavizya
+<L>27244.1<pc>521-25<k1>BavizyatI<k2>Bavizyat(tI)<type>fem<LP>27244<k1P>Bavizyat
 <L>27247.1<pc>521-26<k1>BavyA<k2>Bavya(vyA)<type>fem<LP>27247<k1P>Bavya
 <L>27257.1<pc>522-07<k1>BasitA<k2>Basita(tA)<type>fem<LP>27257<k1P>Basita
 <L>27282.1<pc>522-14<k1>BAktI<k2>BAkta(ktI)<type>fem<LP>27282<k1P>BAkta
@@ -3086,6 +3132,7 @@
 <L>27615.1<pc>529-16<k1>BuktA<k2>Bukta(ktA)<type>fem<LP>27615<k1P>Bukta
 <L>27623.1<pc>529-18<k1>BugnA<k2>Bugna(gnA)<type>fem<LP>27623<k1P>Bugna
 <L>27740.1<pc>532-03<k1>BUtA<k2>BUta(tA)<type>fem<LP>27740<k1P>BUta
+<L>27858.1<pc>534-04<k1>BUyasI<k2>BUyas(sI)<type>fem<LP>27858<k1P>BUyas
 <L>27863.1<pc>534-06<k1>BUyizWA<k2>BUyizWa(zWA)<type>fem<LP>27863<k1P>BUyizWa
 <L>27890.1<pc>535-01<k1>BUzitA<k2>BUzita(tA)<type>fem<LP>27890<k1P>BUzita
 <L>27928.1<pc>535-19<k1>BftA<k2>Bfta(tA)<type>fem<LP>27928<k1P>Bfta
@@ -3155,9 +3202,12 @@
 <L>29277.1<pc>558-09<k1>malImasA<k2>malImasa(sA)<type>fem<LP>29277<k1P>malImasa
 <L>29280.1<pc>558-11<k1>mallA<k2>malla(llA)<type>fem<LP>29280<k1P>malla
 <L>29334.1<pc>559-24<k1>masfRA<k2>masfRa(RA)<type>fem<LP>29334<k1P>masfRa
+<L>29358.1<pc>559-38<k1>mahatI<k2>mahat(tI)<type>fem<LP>29358<k1P>mahat
 <L>29374.1<pc>560-02<k1>mahanIyA<k2>mahanIya(yA)<type>fem<LP>29374<k1P>mahanIya
 <L>29379.1<pc>560-06<k1>mahallikA<k2>mahallaka(llikA)<type>fem<LP>29379<k1P>mahallaka
 <L>29707.1<pc>564-02<k1>mahitA<k2>mahita(tA)<type>fem<LP>29707<k1P>mahita
+<L>29725.1<pc>564-09<k1>mahizmatI<k2>mahizmat(tI)<type>fem<LP>29725<k1P>mahizmat
+<L>29746.1<pc>565-01<k1>mahIyasI<k2>mahIyas(sI)<type>fem<LP>29746<k1P>mahIyas
 <L>29774.1<pc>565-07<k1>mAMsalA<k2>mAMsala(lA)<type>fem<LP>29774<k1P>mAMsala
 <L>29778.1<pc>565-11<k1>mAkarI<k2>mAkara(rI)<type>fem<LP>29778<k1P>mAkara
 <L>29779.1<pc>565-12<k1>mAkaraMdI<k2>mAkaraMda(dI)<type>fem<LP>29779<k1P>mAkaraMda
@@ -3182,6 +3232,7 @@
 <L>29913.1<pc>568-16<k1>mADyamikA<k2>mADyamaka(mikA)<type>fem<LP>29913<k1P>mADyamaka
 <L>29915.1<pc>568-18<k1>mADyAhnikI<k2>mADyAhnika(kI)<type>fem<LP>29915<k1P>mADyAhnika
 <L>29916.1<pc>568-19<k1>mADvI<k2>mADva(DvI)<type>fem<LP>29916<k1P>mADva
+<L>29942.1<pc>568-25<k1>mAnaHSillI<k2>mAnaHSilA(lI)<type>fem<LP>29942<k1P>mAnaHSilA
 <L>29944.1<pc>569-02<k1>mAnanIyA<k2>mAnanIya(yA)<type>fem<LP>29944<k1P>mAnanIya
 <L>29945.1<pc>569-03<k1>mAnavI<k2>mAnava(vI)<type>fem<LP>29945<k1P>mAnava
 <L>29952.1<pc>569-05<k1>mAnasI<k2>mAnasa(sI)<type>fem<LP>29952<k1P>mAnasa
@@ -3285,6 +3336,7 @@
 <L>31330.1<pc>594-03<k1>yamanI<k2>yamana(nI)<type>fem<LP>31330<k1P>yamana
 <L>31334.1<pc>594-05<k1>yamalA<k2>yamala(lA)<type>fem<LP>31334<k1P>yamala
 <L>31358.1<pc>595-04<k1>yavizWA<k2>yavizWa(zWA)<type>fem<LP>31358<k1P>yavizWa
+<L>31360.1<pc>595-05<k1>yavIyasI<k2>yavIyas(sI)<type>fem<LP>31360<k1P>yavIyas
 <L>31372.1<pc>595-07<k1>yaSasyA<k2>yaSasya(syA)<type>fem<LP>31372<k1P>yaSasya
 <L>31391.1<pc>596-07<k1>yAcitA<k2>yAcita(tA)<type>fem<LP>31391<k1P>yAcita
 <L>31397.1<pc>596-13<k1>yAjYikI<k2>yAjYika(kI)<type>fem<LP>31397<k1P>yAjYika
@@ -3364,6 +3416,7 @@
 <L>32368.1<pc>618-04<k1>lagitA<k2>lagita(tA)<type>fem<LP>32368<k1P>lagita
 <L>32370.1<pc>618-06<k1>lagnA<k2>lagna(gnA)<type>fem<LP>32370<k1P>lagna
 <L>32384.1<pc>618-11<k1>laGizWA<k2>laGizWa(zWA)<type>fem<LP>32384<k1P>laGizWa
+<L>32385.1<pc>618-12<k1>laGIyasI<k2>laGIyas(sI)<type>fem<LP>32385<k1P>laGIyas
 <L>32428.1<pc>619-10<k1>laMGitA<k2>laMGita(tA)<type>fem<LP>32428<k1P>laMGita
 <L>32438.1<pc>619-14<k1>lajjAkarA<k2>lajjAkara(rA)<type>fem<LP>32438<k1P>lajjAkara
 <L>32443.1<pc>619-16<k1>lajjitA<k2>lajjita(tA)<type>fem<LP>32443<k1P>lajjita
@@ -3435,6 +3488,7 @@
 <L>33310.1<pc>636-17<k1>vaqrA<k2>vaqra(qrA)<type>fem<LP>33310<k1P>vaqra
 <L>33326.1<pc>636-27<k1>vaMWA<k2>vaMWa(WA)<type>fem<LP>33326<k1P>vaMWa
 <L>33329.1<pc>636-29<k1>vaMqA<k2>vaMqa(qA)<type>fem<LP>33329<k1P>vaMqa
+<L>33333.1<pc>636-32<k1>vatI<k2>vat(tI)<type>fem<LP>33333<k1P>vat
 <L>33352.1<pc>637-03<k1>vatsalA<k2>vatsala(lA)<type>fem<LP>33352<k1P>vatsala
 <L>33360.1<pc>637-07<k1>vadA<k2>vada(dA)<type>fem<LP>33360<k1P>vada
 <L>33367.1<pc>637-13<k1>vadAvadA<k2>vadAvada(dA)<type>fem<LP>33367<k1P>vadAvada
@@ -3448,6 +3502,7 @@
 <L>33633.1<pc>641-14<k1>varAkI<k2>varAka(kI)<type>fem<LP>33633<k1P>varAka
 <L>33652.1<pc>641-25<k1>varivasitA<k2>varivasita(tA)<type>fem<LP>33652<k1P>varivasita
 <L>33655.1<pc>641-28<k1>varizWA<k2>varizWa(zWA)<type>fem<LP>33655<k1P>varizWa
+<L>33659.1<pc>641-30<k1>varIyasI<k2>varIyas(sI)<type>fem<LP>33659<k1P>varIyas
 <L>33675.1<pc>642-04<k1>varUTinI<k2>varUTin(nI)<type>fem<LP>33675<k1P>varUTin
 <L>33678.1<pc>642-06<k1>vareRyA<k2>vareRya(RyA)<type>fem<LP>33678<k1P>vareRya
 <L>33701.1<pc>642-21<k1>varjitA<k2>varjita(tA)<type>fem<LP>33701<k1P>varjita
@@ -3464,6 +3519,7 @@
 <L>33801.1<pc>644-12<k1>varmitA<k2>varmita(tA)<type>fem<LP>33801<k1P>varmita
 <L>33802.1<pc>644-13<k1>varyA<k2>varya(ryA)<type>fem<LP>33802<k1P>varya
 <L>33843.1<pc>644-28<k1>varzizWA<k2>varzizWa(zWA)<type>fem<LP>33843<k1P>varzizWa
+<L>33844.1<pc>644-29<k1>varzIyasI<k2>varzIyas(sI)<type>fem<LP>33844<k1P>varzIyas
 <L>33845.1<pc>644-30<k1>varzukI<k2>varzuka(kI)<type>fem<LP>33845<k1P>varzuka
 <L>33866.1<pc>645-11<k1>valayitA<k2>valayita(tA)<type>fem<LP>33866<k1P>valayita
 <L>33874.1<pc>645-18<k1>valitA<k2>valita(tA)<type>fem<LP>33874<k1P>valita
@@ -3814,10 +3870,12 @@
 <L>36104.1<pc>688-13<k1>vfMdArA<k2>vfMdAra(rA)<type>fem<LP>36104<k1P>vfMdAra
 <L>36105.1<pc>688-14<k1>vfMdArakA<k2>vfMdAraka(rakA)<type>fem<LP>36105<k1P>vfMdAraka
 <L>36107.1<pc>688-15<k1>vfMdizWA<k2>vfMdizWa(zWA)<type>fem<LP>36107<k1P>vfMdizWa
+<L>36108.1<pc>688-16<k1>vfMdIyasI<k2>vfMdIyas(sI)<type>fem<LP>36108<k1P>vfMdIyas
 <L>36135.1<pc>689-08<k1>vfzalI<k2>vfzala(lI)<type>fem<LP>36135<k1P>vfzala
 <L>36148.1<pc>689-18<k1>vfzwA<k2>vfzwa(zwA)<type>fem<LP>36148<k1P>vfzwa
 <L>36157.1<pc>689-21<k1>vfzyA<k2>vfzya(zyA)<type>fem<LP>36157<k1P>vfzya
 <L>36173.1<pc>690-07<k1>veginI<k2>vegin(nI)<type>fem<LP>36173<k1P>vegin
+<L>36203.1<pc>690-25<k1>vetasvatI<k2>vetasvat(tI)<type>fem<LP>36203<k1P>vetasvat
 <L>36210.1<pc>690-29<k1>vetrakIyA<k2>vetrakIya(yA)<type>fem<LP>36210<k1P>vetrakIya
 <L>36247.1<pc>691-07<k1>vedyA<k2>vedya(dyA)<type>fem<LP>36247<k1P>vedya
 <L>36256.1<pc>691-15<k1>veDitA<k2>veDita(tA)<type>fem<LP>36256<k1P>veDita
@@ -3949,6 +4007,7 @@
 <L>37136.1<pc>710-04<k1>SayitA<k2>Sayita(tA)<type>fem<LP>37136<k1P>Sayita
 <L>37181.1<pc>710-11<k1>SaraRyA<k2>SaraRya(RyA)<type>fem<LP>37181<k1P>SaraRya
 <L>37227.1<pc>711-02<k1>SarIriRI<k2>SarIrin(RI)<type>fem<LP>37227<k1P>SarIrin
+<L>37233.1<pc>711-05<k1>SarkarikkI<k2>SarkarikA(kI)<type>fem<LP>37233<k1P>SarkarikA
 <L>37299.1<pc>712-09<k1>SavalA<k2>Savala(lA)<type>fem<LP>37299<k1P>Savala
 <L>37346.1<pc>712-20<k1>SastA<k2>Sasta(stA)<type>fem<LP>37346<k1P>Sasta
 <L>37372.1<pc>713-03<k1>SastriRI<k2>Sastrin(RI)<type>fem<LP>37372<k1P>Sastrin
@@ -4073,6 +4132,7 @@
 <L>38545.1<pc>732-16<k1>SritA<k2>Srita(tA)<type>fem<LP>38545<k1P>Srita
 <L>38605.1<pc>733-01<k1>SrIlA<k2>SrIla(lA)<type>fem<LP>38605<k1P>SrIla
 <L>38611.1<pc>733-04<k1>SrutA<k2>Sruta(tA)<type>fem<LP>38611<k1P>Sruta
+<L>38640.1<pc>734-02<k1>SreyasI<k2>Sreyas(sI)<type>fem<LP>38640<k1P>Sreyas
 <L>38644.1<pc>734-03<k1>SrezWA<k2>SrezWa(zWA)<type>fem<LP>38644<k1P>SrezWa
 <L>38652.1<pc>734-07<k1>SroRA<k2>SroRa(RA)<type>fem<LP>38652<k1P>SroRa
 <L>38665.1<pc>734-13<k1>SrotriyA<k2>Srotriya(yA)<type>fem<LP>38665<k1P>Srotriya
@@ -4180,6 +4240,7 @@
 <L>39292.1<pc>748-35<k1>saMcitA<k2>saMcita(tA)<type>fem<LP>39292<k1P>saMcita
 <L>39302.1<pc>749-07<k1>saMjYA<k2>saMjYa(jYA)<type>fem<LP>39302<k1P>saMjYa
 <L>39310.1<pc>749-10<k1>saMjYitA<k2>saMjYita(tA)<type>fem<LP>39310<k1P>saMjYita
+<L>39325.1<pc>749-23<k1>satI<k2>sat(tI)<type>fem<LP>39325<k1P>sat
 <L>39381.1<pc>750-01<k1>satatA<k2>satata(tA)<type>fem<LP>39381<k1P>satata
 <L>39409.1<pc>751-01<k1>satyA<k2>satya(tyA)<type>fem<LP>39409<k1P>satya
 <L>39432.1<pc>751-03<k1>satvarA<k2>satvara(rA)<type>fem<LP>39432<k1P>satvara
@@ -4286,6 +4347,7 @@
 <L>40066.1<pc>765-31<k1>saraBasA<k2>saraBasa(sA)<type>fem<LP>40066<k1P>saraBasa
 <L>40071.1<pc>765-35<k1>saralA<k2>sarala(lA)<type>fem<LP>40071<k1P>sarala
 <L>40081.1<pc>766-01<k1>sarasA<k2>sarasa(sA)<type>fem<LP>40081<k1P>sarasa
+<L>40085.1<pc>766-03<k1>sarasvatI<k2>sarasvat(tI)<type>fem<LP>40085<k1P>sarasvat
 <L>40088.1<pc>766-05<k1>sarAgA<k2>sarAga(gA)<type>fem<LP>40088<k1P>sarAga
 <L>40089.1<pc>766-06<k1>sarAvA<k2>sarAva(vA)<type>fem<LP>40089<k1P>sarAva
 <L>40100.1<pc>766-13<k1>sarUpA<k2>sarUpa(pA)<type>fem<LP>40100<k1P>sarUpa
@@ -4294,6 +4356,7 @@
 <L>40175.1<pc>767-14<k1>savarRA<k2>savarRa(rRA)<type>fem<LP>40175<k1P>savarRa
 <L>40176.1<pc>767-15<k1>savikalpA<k2>savikalpa(lpA)<type>fem<LP>40176<k1P>savikalpa
 <L>40177.1<pc>767-16<k1>savigrahA<k2>savigraha(hA)<type>fem<LP>40177<k1P>savigraha
+<L>40179.1<pc>767-18<k1>savitrI<k2>savitf(trI)<type>fem<LP>40179<k1P>savitf
 <L>40182.1<pc>767-20<k1>saviDA<k2>saviDa(DA)<type>fem<LP>40182<k1P>saviDa
 <L>40185.1<pc>767-22<k1>saviSezA<k2>saviSeza(zA)<type>fem<LP>40185<k1P>saviSeza
 <L>40186.1<pc>767-23<k1>savistarA<k2>savistara(rA)<type>fem<LP>40186<k1P>savistara
@@ -4309,6 +4372,7 @@
 <L>40216.1<pc>768-13<k1>sahA<k2>saha(hA)<type>fem<LP>40216<k1P>saha
 <L>40248.1<pc>768-14<k1>sahanA<k2>sahana(nA)<type>fem<LP>40248<k1P>sahana
 <L>40273.1<pc>769-05<k1>sahasriRI<k2>sahasrin(RI)<type>fem<LP>40273<k1P>sahasrin
+<L>40275.1<pc>769-06<k1>sahasvatI<k2>sahasvat(tI)<type>fem<LP>40275<k1P>sahasvat
 <L>40281.1<pc>769-10<k1>sahitA<k2>sahita(tA)<type>fem<LP>40281<k1P>sahita
 <L>40282.1<pc>769-11<k1>sahizWA<k2>sahizWa(zWA)<type>fem<LP>40282<k1P>sahizWa
 <L>40287.1<pc>769-14<k1>sahfdayA<k2>sahfdaya(yA)<type>fem<LP>40287<k1P>sahfdaya
@@ -4345,6 +4409,7 @@
 <L>40390.1<pc>772-04<k1>sADAraRI<k2>sADAraRa(RI)<type>fem<LP>40390<k1P>sADAraRa
 <L>40396.1<pc>772-07<k1>sADitA<k2>sADita(tA)<type>fem<LP>40396<k1P>sADita
 <L>40398.1<pc>772-09<k1>sADizWA<k2>sADizWa(zWA)<type>fem<LP>40398<k1P>sADizWa
+<L>40399.1<pc>772-10<k1>sADIyasI<k2>sADIyas(sI)<type>fem<LP>40399<k1P>sADIyas
 <L>40408.1<pc>772-13<k1>sADyA<k2>sADya(DyA)<type>fem<LP>40408<k1P>sADya
 <L>40421.1<pc>773-05<k1>sAnurAgA<k2>sAnurAga(gA)<type>fem<LP>40421<k1P>sAnurAga
 <L>40423.1<pc>773-07<k1>sAMtarA<k2>sAMtara(rA)<type>fem<LP>40423<k1P>sAMtara
@@ -4438,6 +4503,7 @@
 <L>40959.1<pc>784-23<k1>sutIkzRA<k2>sutIkzRa(kzRA)<type>fem<LP>40959<k1P>sutIkzRa
 <L>40963.1<pc>784-25<k1>sutuMgA<k2>sutuMga(gA)<type>fem<LP>40963<k1P>sutuMga
 <L>40968.1<pc>784-29<k1>sudakziRA<k2>sudakziRa(RA)<type>fem<LP>40968<k1P>sudakziRa
+<L>40971.1<pc>784-32<k1>sudatI<k2>sudat(tI)<type>fem<LP>40971<k1P>sudat
 <L>40974.1<pc>784-35<k1>sudarSanA<k2>sudarSana(nA)<type>fem<LP>40974<k1P>sudarSana
 <L>40986.1<pc>784-43<k1>sudUrA<k2>sudUra(rA)<type>fem<LP>40986<k1P>sudUra
 <L>41027.1<pc>785-10<k1>sunABA<k2>sunABa(BA)<type>fem<LP>41027<k1P>sunABa
@@ -4526,6 +4592,7 @@
 <L>41606.1<pc>797-01<k1>sErikI<k2>sErika(kI)<type>fem<LP>41606<k1P>sErika
 <L>41610.1<pc>797-04<k1>sEsakI<k2>sEsaka(kI)<type>fem<LP>41610<k1P>sEsaka
 <L>41612.1<pc>797-06<k1>soQA<k2>soQa(QA)<type>fem<LP>41612<k1P>soQa
+<L>41613.1<pc>797-07<k1>soQrI<k2>soQf(QrI)<type>fem<LP>41613<k1P>soQf
 <L>41614.1<pc>797-08<k1>sotkA<k2>sotka(tkA)<type>fem<LP>41614<k1P>sotka
 <L>41615.1<pc>797-09<k1>sotprAsA<k2>sotprAsa(sA)<type>fem<LP>41615<k1P>sotprAsa
 <L>41618.1<pc>797-10<k1>sotsavA<k2>sotsava(vA)<type>fem<LP>41618<k1P>sotsava
@@ -4596,6 +4663,7 @@
 <L>42085.1<pc>806-13<k1>sTapuwA<k2>sTapuwa(wA)<type>fem<LP>42085<k1P>sTapuwa
 <L>42104.1<pc>806-19<k1>sTavirA<k2>sTavira(rA)<type>fem<LP>42104<k1P>sTavira
 <L>42107.1<pc>807-01<k1>sTavizWA<k2>sTavizWa(zWA)<type>fem<LP>42107<k1P>sTavizWa
+<L>42108.1<pc>807-02<k1>sTavIyasI<k2>sTavIyas(sI)<type>fem<LP>42108<k1P>sTavIyas
 <L>42127.1<pc>808-05<k1>sTAnikI<k2>sTAnika(kI)<type>fem<LP>42127<k1P>sTAnika
 <L>42129.1<pc>809-01<k1>sTAninI<k2>sTAnin(nI)<type>fem<LP>42129<k1P>sTAnin
 <L>42131.1<pc>809-02<k1>sTAnIyA<k2>sTAnIya(yA)<type>fem<LP>42131<k1P>sTAnIya
@@ -4611,6 +4679,7 @@
 <L>42208.1<pc>811-04<k1>sTUlA<k2>sTUla(lA)<type>fem<LP>42208<k1P>sTUla
 <L>42235.1<pc>811-05<k1>sTUlakA<k2>sTUlaka(kA)<type>fem<LP>42235<k1P>sTUlaka
 <L>42239.1<pc>811-08<k1>sTeyA<k2>sTeya(yA)<type>fem<LP>42239<k1P>sTeya
+<L>42241.1<pc>811-09<k1>sTeyasI<k2>sTeyas(sI)<type>fem<LP>42241<k1P>sTeyas
 <L>42242.1<pc>811-10<k1>sTezWA<k2>sTezWa(zWA)<type>fem<LP>42242<k1P>sTezWa
 <L>42261.1<pc>812-01<k1>snAnIyA<k2>snAnIya(yA)<type>fem<LP>42261<k1P>snAnIya
 <L>42269.1<pc>812-07<k1>snigDA<k2>snigDa(gDA)<type>fem<LP>42269<k1P>snigDa
@@ -4633,6 +4702,7 @@
 <L>42396.1<pc>815-01<k1>sPuwA<k2>sPuwa(wA)<type>fem<LP>42396<k1P>sPuwa
 <L>42405.1<pc>815-05<k1>sPuwitA<k2>sPuwita(tA)<type>fem<LP>42405<k1P>sPuwita
 <L>42420.1<pc>815-15<k1>sPuritA<k2>sPurita(tA)<type>fem<LP>42420<k1P>sPurita
+<L>42432.1<pc>816-07<k1>sPeyasI<k2>sPeyas(sI)<type>fem<LP>42432<k1P>sPeyas
 <L>42433.1<pc>816-08<k1>sPezWA<k2>sPezWa(zWA)<type>fem<LP>42433<k1P>sPezWa
 <L>42436.1<pc>816-10<k1>sPowanI<k2>sPowana(nI)<type>fem<LP>42436<k1P>sPowana
 <L>42476.1<pc>816-21<k1>smArA<k2>smAra(rA)<type>fem<LP>42476<k1P>smAra
@@ -4661,6 +4731,7 @@
 <L>42763.1<pc>822-10<k1>svalpA<k2>svalpa(lpA)<type>fem<LP>42763<k1P>svalpa
 <L>42769.1<pc>822-11<k1>svalpakA<k2>svalpaka(kA)<type>fem<LP>42769<k1P>svalpaka
 <L>42795.1<pc>823-03<k1>svAdizWA<k2>svAdizWa(zWA)<type>fem<LP>42795<k1P>svAdizWa
+<L>42796.1<pc>823-04<k1>svAdIyasI<k2>svAdIyas(sI)<type>fem<LP>42796<k1P>svAdIyas
 <L>42813.1<pc>823-11<k1>svABAvikI<k2>svABAvika(kI)<type>fem<LP>42813<k1P>svABAvika
 <L>42815.1<pc>823-12<k1>svAminI<k2>svAmin(nI)<type>fem<LP>42815<k1P>svAmin
 <L>42826.1<pc>823-14<k1>svAyaMBuvI<k2>svAyaMBuva(vI)<type>fem<LP>42826<k1P>svAyaMBuva
@@ -4671,6 +4742,7 @@
 <L>42859.1<pc>824-11<k1>svEriRI<k2>svErin(RI)<type>fem<LP>42859<k1P>svErin
 <L>42902.1<pc>825-14<k1>hatA<k2>hata(tA)<type>fem<LP>42902<k1P>hata
 <L>42913.1<pc>825-15<k1>hatakA<k2>hataka(kA)<type>fem<LP>42913<k1P>hataka
+<L>42932.1<pc>826-08<k1>haMtrI<k2>haMtf(trI)<type>fem<LP>42932<k1P>haMtf
 <L>42958.1<pc>827-03<k1>harA<k2>hara(rA)<type>fem<LP>42958<k1P>hara
 <L>43003.1<pc>827-07<k1>hariRI<k2>hariRa(RI)<type>fem<LP>43003<k1P>hariRa
 <L>43022.1<pc>828-04<k1>haritA<k2>harita(haritA)<type>fem<LP>43022<k1P>harita
@@ -4706,14 +4778,17 @@
 <L>43514.1<pc>838-15<k1>hEmanI<k2>hEmana(nI)<type>fem<LP>43514<k1P>hEmana
 <L>43516.1<pc>838-16<k1>hEmaMtikI<k2>hEmaMtika(kI)<type>fem<LP>43516<k1P>hEmaMtika
 <L>43518.1<pc>838-18<k1>hEmavatI<k2>hEmavata(tI)<type>fem<LP>43518<k1P>hEmavata
+<L>43528.1<pc>838-26<k1>hotrI<k2>hotf(trI)<type>fem<LP>43528<k1P>hotf
 <L>43543.1<pc>838-33<k1>homIyA<k2>homIya(yA)<type>fem<LP>43543<k1P>homIya
 <L>43563.1<pc>839-11<k1>hrasvA<k2>hrasva(svA)<type>fem<LP>43563<k1P>hrasva
 <L>43586.1<pc>839-22<k1>hrIRA<k2>hrIRa(RA)<type>fem<LP>43586<k1P>hrIRa
 <L>90001.1<pc>120-12.1<k1>IdfSI<k2>IdfSa(SI)<type>fem<LP>90001<k1P>IdfSa
 <L>90002.1<pc>149-14.1<k1>UrjasvinI<k2>Urjasvin(nI)<type>fem<LP>90002<k1P>Urjasvin
+<L>90003.1<pc>153-24.1<k1>etAdfSI<k2>etAdfS(SI)<type>fem<LP>90003<k1P>etAdfS
 <L>90004.1<pc>153-31.1<k1>enasvinI<k2>enasvin(nI)<type>fem<LP>90004<k1P>enasvin
 <L>90005.1<pc>169-15.1<k1>karaMbitA<k2>karaMbita(tA)<type>fem<LP>90005<k1P>karaMbita
 <L>90006.1<pc>182-05.1<k1>kAmayAnA<k2>kAmayAna(nA)<type>fem<LP>90006<k1P>kAmayAna
+<L>90007.1<pc>182-05.2<k1>kAmayitrI<k2>kAmayitf(trI)<type>fem<LP>90007<k1P>kAmayitf
 <L>90009.1<pc>190-24.2<k1>kIdfSI<k2>kIdfSa(SI)<type>fem<LP>90009<k1P>kIdfSa
 <L>90010.1<pc>195-16.1<k1>kumAriRI<k2>kumArin(RI)<type>fem<LP>90010<k1P>kumArin
 <L>90011.1<pc>199-05.1<k1>kuzWitA<k2>kuzWita(tA)<type>fem<LP>90011<k1P>kuzWita
@@ -4733,6 +4808,7 @@
 <L>90028.1<pc>293-25.1<k1>jYaptA<k2>jYapta(ptA)<type>fem<LP>90028<k1P>jYapta
 <L>90029.1<pc>295-17.1<k1>jvarinI<k2>jvarin(nI)<type>fem<LP>90029<k1P>jvarin
 <L>90030.1<pc>306-04.1<k1>tarzulA<k2>tarzula(lA)<type>fem<LP>90030<k1P>tarzula
+<L>90031.1<pc>307-06.1<k1>tAdfSI<k2>tAdfS(SI)<type>fem<LP>90031<k1P>tAdfS
 <L>90032.1<pc>307-06.2<k1>tAdfSI<k2>tAdfSa(SI)<type>fem<LP>90032<k1P>tAdfSa
 <L>90033.1<pc>309-07.1<k1>tAvakInA<k2>tAvakIna(nA)<type>fem<LP>90033<k1P>tAvakIna
 <L>90034.1<pc>309-09.1<k1>tAvatkA<k2>tAvatka(tkA)<type>fem<LP>90034<k1P>tAvatka
@@ -4747,6 +4823,7 @@
 <L>90044.1<pc>345-02.2<k1>dEnikI<k2>dEnika(kI)<type>fem<LP>90044<k1P>dEnika
 <L>90045.1<pc>347-07.1<k1>dOzkuleyA<k2>dOzkuleya(yA)<type>fem<LP>90045<k1P>dOzkuleya
 <L>90046.1<pc>361-05.1<k1>DurIyA<k2>DurIya(yA)<type>fem<LP>90046<k1P>DurIya
+<L>90048.1<pc>367-09.1<k1>naqvatI<k2>naqvat(tI)<type>fem<LP>90048<k1P>naqvat
 <L>90049.1<pc>369-10.1<k1>namasyitA<k2>namasyita(tA)<type>fem<LP>90049<k1P>namasyita
 <L>90050.1<pc>372-01.1<k1>navyA<k2>navya(vyA)<type>fem<LP>90050<k1P>navya
 <L>90051.1<pc>392-33.1<k1>nizRAtA<k2>nizRAta(tA)<type>fem<LP>90051<k1P>nizRAta

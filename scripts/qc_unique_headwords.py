@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Find headwords which are absent in sanhw1, if any.
 
-Usage - python3 unique_headwords.py
+Usage - python3 qc_unique_headwords.py
 """
 import codecs
 import re

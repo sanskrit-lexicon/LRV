@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Find headword and k2 differences.
 
-Usage - python3 hw_k2_diff.py
+Usage - python3 qc_hw_k2_diff.py
 """
 import codecs
 import re

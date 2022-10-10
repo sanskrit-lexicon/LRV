@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Find duplicate lnums, if any.
 
-Usage - python3 duplicate_lnum.py
+Usage - python3 qc_duplicate_lnum.py
 """
 import codecs
 import re

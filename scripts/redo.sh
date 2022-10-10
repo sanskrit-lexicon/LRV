@@ -6,4 +6,6 @@ echo "Step3. Add literary source and paragraph markups and store in lrv_3.txt."
 python3 lrv_prep3.py ../interim/lrv_2.txt ../interim/lrv_3.txt
 echo "Step4. Convert Devanagari to SLP1 and store in lrv_4.txt."
 python3 lrv_prep4.py ../interim/lrv_3.txt ../interim/lrv_4.txt
+echo "Step5. Keep only one headword in key1 out of alternate headwords."
+python3 lrv_prep5.py ../interim/lrv_4.txt ../interim/lrv_5.txt
 

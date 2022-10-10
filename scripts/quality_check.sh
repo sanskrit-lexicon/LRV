@@ -13,4 +13,9 @@ echo ""
 echo "Step 4. Find headwords having differences between k1 and k2."
 echo "Ideal - no diff."
 python3 qc_hw_k2_diff.py
+echo ""
+echo "Step 5. Find missing compounds. See https://github.com/sanskrit-lexicon/LRV/issues/14."
+echo "Ideal - no output."
+python3 qc_missing_compounds.py
+echo ""
 

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Prepare baseline data for lrv_hwextra.txt (from metalines having alternate headwords)
 
-Usage - python3 lrv_prep_althw.py ../interim/change_metalines.json ../interim/lrv_hwextra.txt
+Usage - python3 issue12.py ../interim/change_metalines.json ../logs/issue12/lrv_hwextra.txt
 """
 import codecs
 import sys

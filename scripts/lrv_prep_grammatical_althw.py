@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Find out alternate headwords from grammatical information.
 
-Usage - python3 lrv_prep_grammatical_althw.py ../interim/lrv_5.txt ../interim/grammatical_althw.txt
+Usage - python3 issue19.py ../interim/lrv_5.txt ../logs/issue19/grammatical_althw.txt
 """
 import sys
 import re

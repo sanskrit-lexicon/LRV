@@ -14,6 +14,7 @@ if __name__ == "__main__":
 	fileout = sys.argv[2]
 	fin = codecs.open(filein, 'r', 'utf-8')
 	fout = codecs.open(fileout, 'w', 'utf-8')
+	problematic_entries = []
 	for lin in fin:
 		lin = lin.rstrip('\n')
 		if lin.startswith('<L>'):
@@ -33,14 +34,17 @@ if __name__ == "__main__":
 					fout.write(result + '\n')
 				elif k1.endswith('in'):
 					new_k1 = k1[:-1] + fem_end
-					# <L>00005.1<pc>001-02<k1>afRinI<k2>afRin(nI)<type>fem<LP>00005<k1P>afRin
 					result = '<L>' + lnum + '.1<pc>' + pc + '<k1>' + new_k1 + '<k2>' + k1 + '(' + fem_end + ')' +  '<type>fem<LP>' + lnum + '<k1P>' + k1
 					fout.write(result + '\n')
 				elif fem_end.endswith('I') and len(fem_end) < 4:
 					new_k1 = k1[:-len(fem_end)+1] + fem_end
-					# <L>00005.1<pc>001-02<k1>afRinI<k2>afRin(nI)<type>fem<LP>00005<k1P>afRin
 					result = '<L>' + lnum + '.1<pc>' + pc + '<k1>' + new_k1 + '<k2>' + k1 + '(' + fem_end + ')' +  '<type>fem<LP>' + lnum + '<k1P>' + k1
 					fout.write(result + '\n')
 				else:
-					print(k1, fem_end)
-
+					# Store to append at the last, to allow easy analysis
+					result = '<L>' + lnum + '.1<pc>' + pc + '<k1>' + k1 + '(' + fem_end + ')' + '<k2>' + k1 + '(' + fem_end + ')' +  '<type>fem<LP>' + lnum + '<k1P>' + k1
+					problematic_entries.append(result)
+	# Write problematic entries at the end
+	for entry in problematic_entries:
+		fout.write(entry + '\n')
+	

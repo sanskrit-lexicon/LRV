@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+type: dataset
+title: L.R. Vaidya Standard Sanskrit-English Dictionary
+message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/LRV
+date-released: 1889-01-01
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+  - skt-eng
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
+preferred-citation:
+  type: book
+  title: L.R. Vaidya Standard Sanskrit-English Dictionary
+  year: 1889
+  authors:
+    - family-names: "Vaidya"
+      given-names: "L.R."
+  notes: "Indian Skt-Eng dict 1889; HathiTrust 008693928"

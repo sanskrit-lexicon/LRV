@@ -33,6 +33,7 @@
 00704	atiTi-satkAra, -satkriyA
 00756	atra-Bavat
 00760	atri-jAta, -dfgja
+00762	atri-netra˚ja, ˚BU, ˚prasUta, ˚sUta
 00795	aditi-ja, -naMdana
 00842	adri-tanayA, -sutA
 00845	adri-pati, -rAja
@@ -49,6 +50,7 @@
 01647	anta-avaSAyin, -avasAyin
 01648	anta-kara, -karaRa, -kArin
 01692	antar-pAta, -pAtya
+01698	antar-pura˚aDyakza, ˚rakzaka
 01719	antar-veSma(Si)ka
 01742	antara-puruza, -pUruza
 01749	antarA-vedi(dI)
@@ -68,6 +70,7 @@
 01871	anya-liMga, -liMgaka
 01898	anyUna-aMga
 01949	anvi(nvI)ta-arTa
+01950	anvi(nvI)ta-arTa˚vAda
 01996	apa-rUpa
 02248	apAna-pavana, -vAyu
 02384	aprApta-vayas, -vyavahAra
@@ -168,13 +171,16 @@
 06102	utaTya-anuja, -anujanman
 06168	uttama-fRa, -fRika
 06191	uttara-ozWa (forming either uttarozWa or uttarOzWa)
+06203	uttara-diS˚ISa, ˚pAla
 06269	utpAta-pavana, -vAta
 06334	udaka-karman n., -kAryam n., -kriyA f.
+06366	udan-Di˚kanyA, ˚tanayA, ˚sutA
 06392	udaya-acala, -adri, -parvata, -giri, -SEla
 06500	udData-manas, -manaska
 06552	udyAna-pAla, -pAlaka
 06843	upari-tana, -sTa
 06938	upasTa-dala, -patra
+07030	uBaya-tas˚dat, ˚daMta
 07049	uraga-ari, -aSana
 07062	uras-graha, -GAta
 07066	uras-tra, -trARa
@@ -275,6 +281,7 @@
 08627	kali-kAra, -kAraka, -kriya
 08628	kali-druma, -vfkza
 08635	kaliMda-kanyA, -jA, -tanayA, -naMdinI
+08637	kaliMda-giri˚jA, ˚tanayA, ˚naMdinI
 08656	kalpa-taru, -druma, -pAdapa, -vfkza
 08658	kalpa-latA, -latikA
 08674	kalya-pAla, -pAlaka
@@ -308,6 +315,7 @@
 09244	kAliMdI-karzaRa, -Bedana
 09296	kASmIra-ja, -janman
 09312	kAzWa-takza, -takzaka
+09362	kim-nara˚ISa, ˚ISvara
 09377	kim-u, -uta
 09381	kim-kartavyatA, -kAryatA
 09398	kim-nAmaDeya, -nAman
@@ -418,6 +426,8 @@
 10885	kzAra-BUmi, -mfttikA
 10899	kziti-ISa, -ISvara
 10909	kziti-nATa, -pa, -pati, -pAla, -Buj, -rakzin
+10951	kzIra-abDi˚jA, ˚tanayA
+10955	kzIra-uda˚tanayA, ˚sutA
 10963	kzIra-Di, -niDi
 10967	kzIra-vAri, -vAriDi
 11001	kzuD-Arta, -Avizwa
@@ -430,8 +440,10 @@
 11077	kzORi-prAcIra
 11078	kzORi-Buj
 11090	kzmA-pa, -pati, -Buj
+11113	Ka-ga˚iMdra, ˚ISvara, ˚pati
 11143	Ka-samutTa, -saMBava
 11161	KaMja-Kewa, -Kela
+11183	KawvA-aMga˚Dara, ˚Dft
 11185	KawvA-Apluta, -ArUQa
 11202	Kaqga-piDAna, -piDAnaka
 11252	Kara-aMSu, -kara, -raSmi
@@ -486,6 +498,7 @@
 12026	gADi-nagara
 12060	gArDra-pakza, -vAsas
 12093	giri-kadaMba, -kadaMbaka
+12107	giri-jA˚tanaya, ˚naMdana, ˚suta
 12117	giri-RadI, -nadI
 12118	giri-RadDa, -nadDa
 12120	giri-RitaMba, -nitaMba
@@ -508,12 +521,16 @@
 12444	gfha-vAwikA, -vAwI
 12493	go-kirAwA, kirAwikA
 12494	go-kila, -kIla
+12524	go-tra˚sKalana, ˚sKalita
 12531	go-duh, -duha
 12538	go-Duma, -DUma
 12545	go-nasa, -nAsa
+12550	go-pa˚aDyakza, ˚iMdra, ˚ISa
 12560	go-pAlikA, -pAlI
+12579	go-maya˚Canna, ˚priya
 12598	go-rAwikA, -rAwI
 12601	go-lAMgula, -lAMgUla
+12606	go-varDana˚Dara, ˚DArin
 12610	go-viz, -vizWA
 12625	go-zWi, -zWI
 12633	go-stanA, -stanI
@@ -550,6 +567,7 @@
 13185	catur-aSra, -asra
 13247	catur-hAyaRa, -hAyana
 13276	caMdana-acala, -giri, -adri
+13285	caMdra-arDa˚cUqAmaRi, ˚mOli, ˚SeKara
 13287	caMdra-Atmaja, -Orasa, -ja, jAta, -tanaya, -naMdana, -putra
 13309	caMdra-cUqa, -mOli, -SeKara, -cUqAmaRi
 13322	caMdra-reKA, -leKA
@@ -612,6 +630,7 @@
 14395	jala-uragA f., -okas f., -okasa m.
 14406	jala-kuMtala, -keSa
 14469	jala-bAlaka, -vAlaka
+14484	jala-yaMtra˚gfha, ˚niketana, ˚maMdira
 14488	jala-raMqa, -ruMqa
 14491	jala-ruh, -ruha
 14500	jala-Saya, -Sayana, -SAyin
@@ -698,14 +717,21 @@
 16051	tri-aMjala, -aMjali
 16053	tri-aDvaga, -mArgagA, -vartmagA
 16062	tri-aSra, -asra
+16072	tri-kAla˚jYa, ˚darSin
 16092	tri-jIvA, -jyA
 16094	tri-Rava, -Ravan
 16096	tri-taya
+16104	tri-daSa˚aDipa, ˚ISvara, ˚pati
+16108	tri-daSa˚Alaya, ˚AvAsa
+16113	tri-daSa˚vaDU, ˚vanitA
+16117	tri-diva˚aDISa, ˚ISa
 16124	tri-Rayana, -nayana, -netra, -locana
+16147	tri-pura˚aMtaka, ˚ari, ˚Gna, ˚dahana, ˚dviz
 16153	tri-bali, -balI, -vali, -valI
 16154	tri-bali, -vali
 16180	tri-vizwapa, -pizwapa
 16182	tri-veRi, -veRI
+16192	tri-SUla˚aMka, ˚DArin
 16200	tri-saptan, -sapta
 16203	tri-sItya, -halya
 16290	daMzwrA-astra, -AyuDa
@@ -721,6 +747,7 @@
 16412	daDi-uttara, uttaraga
 16413	daDi-uda, -udaka
 16422	daDi-sAra, -sneha
+16428	danu-ja˚ari, ˚dviz
 16429	danu-saMBava, -sUnu
 16436	daMta-AlikA, -AlI
 16463	daMta-mAMsa, -mUla, -valka
@@ -732,6 +759,7 @@
 16585	dava-agni, -dahana
 16599	daSan-Anana, -Asya
 16603	daSan-kaMWa, -kaMDara
+16604	daSan-kaMWa˚ari, ˚jit, ˚ripu
 16606	daSan-grAmin, -pa
 16608	daSan-taya
 16612	daSan-bala, -BUmiga
@@ -770,6 +798,7 @@
 17048	dugDa-agra, -tAlIya
 17068	dur-aDiga, -aDigama
 17104	dur-IzaRA, -ezaRA
+17112	dur-ga˚aDyakza, ˚pati, ˚pAla
 17121	dur-gaMDi, -gaMDin
 17123	dur-gAQa, -gADa, -gAhya
 17135	dur-jYAna, -jYeya
@@ -824,11 +853,15 @@
 17906	dvaMdva-cara, -cArin
 17922	dvAra-gopa, -nAyaka, -pa, -pAla, -pAlaka
 17933	dvAra(ri)kA-ISa
+17960	dvi-ja˚iMdra, ˚ISa
+17962	dvi-ja˚pati, ˚rAja
+17964	dvi-ja˚baMDu, ˚bruva
 17968	dvi-janman, -jAti
 17972	dvi-taya
 18006	dvi-padikA, -padI
 18008	dvi-pAd, -pAda
 18014	dvi-mAtf, -mAtfja
+18020	dvi-rada˚aMtaka, ˚arAti, ˚aSana
 18043	dvi-sahasra, -sAhasra
 18044	dvi-sItya, -halya
 18047	dvi-hAyana, -varza
@@ -863,6 +896,7 @@
 18591	DOta-kozaja, -kozeya
 18606	DyAna-tatpara, -nizWa, -para
 18660	DvAMta-unmeza, -vitta
+18669	na-eka˚Beda, ˚rUpa
 18685	naktam-dinam, -divam
 18691	nakzatra-ISa, -ISvara, -nATa, -pa, -pati, -rAja
 18729	naga-aDipa, -aDirAja, -iMdra
@@ -929,6 +963,8 @@
 20297	nIra-Di, -niDi
 20305	nIla-aMjanA, -aMjasA
 20306	nIla-abja, -aMbuja, -aMbujanman, -utpala
+20361	nf-pa˚ABIra, ˚gAna
+20367	nf-pa˚lakzman, ˚liMga
 20370	nf-pati, -pAla
 20386	nftta-priya
 20387	nftta-SAlA
@@ -939,6 +975,7 @@
 20496	nO-cara, -jIvika
 20589	pakzin-iMdra, -pravara, -rAj, -rAja, -siMha, -svAmin
 20591	pakzin-bAlaka, -SAvaka
+20602	paMka-ja˚ja, ˚janman
 20609	paMka-ruh, -ruha
 20621	paMkti-dUza, -dUzaka
 20655	paMcan-aMgula
@@ -968,6 +1005,7 @@
 20996	padma-ja, -jAta, -Bava, -BU, -yoni, -saMBava
 20998	padma-nABa, -nABi
 21016	padminI-ISa, -kAMta, -priya, -vallaBa
+21029	panna-ga˚ari, ˚aSana, ˚nASana
 21087	para-ASraya, -AsaMga
 21123	para-drohin, -dvezin
 21160	para-vaSa, -vaSya
@@ -1084,6 +1122,7 @@
 23443	pfzat-aMSa, -aSva
 23460	pfzWa-gopa, -rakza
 23462	pfzWa-cakzus, -dfzwi
+23468	pfzWa-mAMsa˚ada, ˚adana
 23473	pfzWa-vAh, -vAhya
 23503	peSi(SI)-koSa, -koza
 23589	pOra-aMganA, -yozit, -strI
@@ -1226,6 +1265,8 @@
 27549	Binna-varcas, varcaska
 27619	Bukta-Seza, -samujJita
 27629	Buja-aMtara, -aMtarAla
+27633	Buja-ga˚aMtaka, ˚aSana, ˚ABojin, ˚dAraRa, ˚Bojin
+27634	Buja-ga˚ISvara, ˚rAja
 27650	Buja-SiKara, -Siras
 27690	BU-gfha, -geha
 27698	BU-jaMbu, -jaMbU
@@ -1311,6 +1352,8 @@
 28742	maDu-Sizwa, -Seza
 28743	maDu-saKa, -sahAya, -sAraTi, -suhfd
 28768	maDya-aMguli, -aMgulI
+28789	maDya-loka˚ISa, ˚ISvara
+28936	manu-ja˚aDipa, ˚aDipati, ˚ISvara, ˚pati
 28946	manuzya-iMdra, -ISvara
 28953	manuzya-viS f., -viSa n., -viSA f.
 28969	maMtra-jala, -toya
@@ -1350,6 +1393,7 @@
 29589	mahA-brahma, -brahman
 29602	mahA-manas, manaska
 29637	mahA-rAtri, -rAtrI
+29717	mahiza-asura˚GAtinI, ˚maTinI, ˚mardanI, ˚sUdanI
 29720	mahiza-pAla, -pAlaka
 29736	mahI-nATa, -pa, -pati, -pAla, -Buj, -maGavan, -maheMdra
 29737	mahI-putra, -suta, -sUnu
@@ -1411,6 +1455,7 @@
 30662	mfga-daMSa, -daMSaka
 30667	mfga-DUrta, -DUrtaka
 30675	mfga-baDAjIva, -vaDAjIva
+30685	mfga-rAja˚DArin, ˚lakzman
 30731	mfta-matta, -mattaka
 30747	mftyu-bIja, -vIja
 30762	mfd-pAtra, -BAMqa
@@ -1479,6 +1524,7 @@
 31772	rati-pati, -priya, -ramaRa
 31782	ratna-dIpa, -pradIpa
 31787	ratna-sU, -sUti
+31794	raTa-aMga˚Ahvaya, ˚nAmaka, ˚nAman
 31795	raTa-ISA, -IzA
 31796	raTa-udvaha, -upasTa
 31800	raTa-kuwuMbika, -kuwuMbin
@@ -1632,6 +1678,7 @@
 35482	viloma-utpanna, -ja, -jAta
 35616	viSraMBa-pAtra n., -BUmi f., -sTAna n.
 35633	viSva-ISa, -ISvara
+35637	viSva-karman˚jA, ˚sutA
 35669	viSva-vAh
 35678	viSvAsa-pAtra n., -BUmi f., -sTAna n.
 35692	viza-akta, -digDa
@@ -1653,6 +1700,7 @@
 36133	vfzaBa-gati, -Dvaja
 36194	veRu-vAda, -vAdaka
 36208	vetra-Dara, -DAraka
+36218	veda-aMta˚ga, ˚jYa
 36222	veda-Adi n., -AdivarRa m., -AdibIja n.
 36283	veSa-nArI, -vanitA
 36406	vEdyuta-agni, -anala
@@ -1682,14 +1730,17 @@
 36992	Sata-pad, -pAd
 36997	Sata-maKa, -manyu
 37029	Sani-vAra, -vAsara
+37090	Sam-Bu˚tanaya, ˚naMdana
 37105	SamI(mi)-garBa
 37106	SamI(mi)-DAnya
 37114	SaMba(va)ra-ari, -sUdana
 37115	SaMba(va)ra-asura
+37116	SaMba(va)ra-asura˚vErin
 37139	SayyA-aDyakza, -pAla
 37145	Sara-awi(ti)
 37148	Sara-Aropa, -AvApa
 37150	Sara-Asana, -Asya
+37166	Sara-vaRa˚udBava, ˚Bava
 37177	SaraRa-arTin, -ezin
 37191	Sarad-Gana, -meGa
 37219	SarIra-yAtrA, -vftti
@@ -1744,6 +1795,7 @@
 38569	SrI-dayita, -Dara
 38572	SrI-niketana, -nivAsa
 38581	SrI-PalA, -PalI
+38592	SrI-vatsa˚DArin, ˚Bft, ˚lakzman, ˚lAMCana
 38594	SrI-vara, -vallaBa
 38619	Sruti-ukta, -udita
 38656	SroRi-tawa
@@ -1755,6 +1807,7 @@
 38794	Sveta-garut, -garuta
 38814	Sveta-SuMga, -SfMga
 39186	saMkalpa-janman, -yoni
+39360	sat-pAtra˚varza, ˚varzin
 39382	satata-ga, -gati
 39393	sattra-ayaRa
 39428	satya-vAc, -vacas
@@ -1812,6 +1865,7 @@
 42339	spazwa-BAzin, -vaktf
 42452	smara-Atura, -Arta
 42497	smfti-paTa, -vizaya
+42630	sva-BAva˚ja, ˚sidDa
 42700	svar-ApagA, -gaMgA, -siMDu
 42741	svarga-vaDU, -strI
 42759	svarRa-reKA, -leKA
@@ -1837,6 +1891,7 @@
 43244	hiqiMba-jit, -nizUdana, -Bid, -ripu, -han
 43253	hita-anvezin, -arTin
 43272	hima-acala, -adri
+43273	hima-acala˚jA, ˚tanayA
 43274	hima-aMbu, -aMBas
 43282	hima-Ahva, -Ahvaya
 43296	hima-BAs, -raSmi

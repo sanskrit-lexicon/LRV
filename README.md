@@ -1,163 +1,83 @@
-# LRV — Vaidya *The Standard Sanskrit-English Dictionary* (1889)
+# LRV — L. R. Vaidya's *Sanskrit-English Dictionary* (1889)
 
-Development and correction repository for **L. R. Vaidya's *The Standard Sanskrit-English Dictionary***, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/lrv/lrv.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/lrv/lrv.txt) (48,259 entries); this repository holds the development, correction, and enrichment work.
+_Created: 22-05-2026 · Last updated: 05-07-2026_
 
-An Indian-authored Sanskrit–English dictionary, digitized at Cologne from a HathiTrust copy.
+## Why this repo exists
 
-## Documentation
-
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
-
-## Contents
-
-| Path | Purpose |
-|---|---|
-| `glacier/` | `glacier/` working files |
-| `interim/` | `interim/` working files |
-| `issues/` | Per-issue working files |
-| `logs/` | `logs/` working files |
-| `scripts/` | `scripts/` working files |
-
-## Timeline
-
-| Period | Activity |
-|---|---|
-| 2022 | Repository activity begins (first tracked issues) |
-| 2024–2024 | Ongoing corrections, markup, and comparison work |
-| 2026-05 | Issue taxonomy, citation metadata, documentation |
-
-## Projects & Milestones
-
-| Milestone | Open | Closed | Total |
-|---|---|---|---|
-| Dictionary to Book | 0 | 0 | 0 |
-| Digitization Quality | 0 | 11 | 11 |
-| Structured Data | 2 | 14 | 16 |
-| Major Enhancements | 0 | 3 | 3 |
-| **Total** | **2** | **28** | **30** |
-
-```mermaid
-pie showData
-  title LRV issues by milestone
-  "Digitization Quality" : 11
-  "Structured Data" : 16
-  "Major Enhancements" : 3
-```
-
-## Issues
-
-```mermaid
-pie showData
-  title LRV issues by type
-  "markup" : 11
-  "bug" : 8
-  "question" : 5
-  "content-enhancement" : 3
-  "text-correction" : 2
-  "scan-quality" : 1
-```
-
-### Open
-
-| # | Title | Type | Severity | Milestone |
-|---|---|---|---|---|
-| 13 | Debatable entries | question | minor | Structured Data |
-| 29 | LRV compounds - Add markup for indentation level for comp… | markup | minor | Structured Data |
-
-### Solved
-
-| # | Title | Type | Severity | Milestone |
-|---|---|---|---|---|
-| 1 | 18 odd entries | question | minor | Structured Data |
-| 2 | page sequence v/s page column | markup | minor | Structured Data |
-| 3 | Comma separated entries with multiple gender details | bug | minor | Digitization Quality |
-| 4 | Two spaces instead of one after 'b' tag | markup | minor | Structured Data |
-| 5 | Some errors while finding key2 | markup | minor | Structured Data |
-| 6 | transliteration error | bug | minor | Digitization Quality |
-| 7 | revert_2to1.py errors which give rise to differences | bug | minor | Digitization Quality |
-| 8 | Duplicate page-sequence | bug | minor | Digitization Quality |
-| 9 | Multiple headword as first part and single word as second… | bug | minor | Digitization Quality |
-| 10 | Find headword differences programmatically | text-correction | minor | Digitization Quality |
-| 11 | Find headwords missing in sanhw1 (Cologne dictionary head… | question | minor | Structured Data |
-| 12 | Brackets showing alternate headwords | markup | minor | Structured Data |
-| 14 | Potential places to find new headwords | content-enhancement | medium | Major Enhancements |
-| 15 | Add to csl-orig repository | content-enhancement | medium | Major Enhancements |
-| 16 | xmllint errors on lrv.xml | bug | minor | Digitization Quality |
-| 17 | New xml lint errors | bug | minor | Digitization Quality |
-| 18 | miscellaneous corrections | text-correction | minor | Digitization Quality |
-| 19 | Feminine alternate words | markup | minor | Structured Data |
-| 20 | neuter gender headwords | markup | minor | Structured Data |
-| 21 | Add scanned pages | scan-quality | minor | Digitization Quality |
-| 22 | lrvheader | bug | minor | Digitization Quality |
-| 23 | Add LRV to simple-search dictionary list | content-enhancement | medium | Major Enhancements |
-| 24 | semantic versioning how to | question | minor | Structured Data |
-| 25 | LRV headwords not marked as per CDSL style | markup | minor | Structured Data |
-| 26 | Lbody for LRV | question | minor | Structured Data |
-| 27 | Lbody with full headwords | markup | minor | Structured Data |
-| 28 | LRV Lbody seems to have missed some data | markup | minor | Structured Data |
-| 30 | [markup] Minor lrv.txt Markup Oddities | markup | minor | Structured Data |
-
-## Labels
-
-### Type labels
-
-| Label | Meaning |
-|---|---|
-| `link-target` | Click-throughs from `<ls>` abbreviations to scanned PDF pages |
-| `link-splitting` | Splitting combined `SOURCE N,N` refs into per-page links |
-| `markup` | Normalising XML tag content |
-| `text-correction` | Corrections to English/Sanskrit definitions or headwords |
-| `content-enhancement` | New material or structural additions beyond correction |
-| `encoding` | SLP1/IAST transcoding, character normalisation |
-| `scan-quality` | Replacing blurry/skewed/missing scan pages |
-| `bug` | Broken links, XML errors, broken downloads |
-| `question` | Scholarly questions requiring research |
-
-### Severity labels
-
-| Label | Meaning |
-|---|---|
-| `minor` | Targeted fix — a handful of lines or a single file |
-| `medium` | Standard unit of work — one batch of corrections |
-| `hard` | Large effort spanning many sources or files |
-
-## Contributors
-
-| Contributor | Commits |
-|---|---|
-| drdhaval2785 | 121 |
-| gasyoun (Mārcis Gasūns) | 3 |
-| funderburkjim | 2 |
-
-## Source
-
-- **Author**: Vaidya, L. R.
-- **Title**: *The Standard Sanskrit-English Dictionary*
-- **Place / Publisher**: Bombay
-- **Year(s)**: 1889
-- **Language pair**: Sanskrit → English
-- **Size (CDSL headword index)**: 48,259 entries
-- **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
-
-## Encoding
-
-- UTF-8 (NFC) throughout.
-- Sanskrit text in SLP1 transliteration, wrapped in `{#…#}`; English gloss / italic display text in `{%…%}`.
-- Devanāgarī and IAST display forms are generated at display time, not stored in the source.
+L. R. Vaidya's 1889 *The Standard Sanskrit-English Dictionary* (with appendices on prosody and mythological names, digitized copy at [HathiTrust](https://catalog.hathitrust.org/Record/008693928)) had to go from a proofread OCR transcript to CDSL's structured markup format before it could join the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) collection at `csl-orig/v02/lrv/lrv.txt`. That conversion isn't a single script — a raw proofread text has no entry boundaries, no SLP1 transliteration, no `<ls>` literary-source markup, and inevitably its own transcription slips (duplicate line numbers, headwords that don't match their `<k2>` sort key, missing compound cross-references). This repo is the multi-stage pipeline that did that conversion once, plus the quality-check scripts and per-issue correction workflows that keep catching new defects as they're found.
 
 ## How it works
 
+The conversion runs in five incremental stages (`interim/lrv_0.txt` → `lrv_5.txt`), each stage's change documented in [`interim/README.md`](interim/README.md):
+
+| Stage | What changed |
+|---|---|
+| `lrv_0.txt` | Copy of [`glacier/LR_Vaidya_Main_proofed_20220920.txt`](glacier/LR_Vaidya_Main_proofed_20220920.txt) (the proofread source) |
+| `lrv_1.txt` | Line endings normalized `\r\n` → `\n` |
+| `lrv_2.txt` | `<L>`/metaline markup added; kept only key2, grammar, and entry text |
+| `lrv_3.txt` | `<ls>` literary-source markup added; `//` paragraph breaks → `<P>` |
+| `lrv_4.txt` | Devanāgarī → SLP1 conversion |
+| `lrv_5.txt` | Alternate headwords added — this is the CDSL-ready output |
+
 ```mermaid
 flowchart LR
-  S["Print scan"] -->|keyboarding| O["csl-orig/v02/lrv/lrv.txt"]
-  O -->|updateByLine.py| C["change_*.txt corrections"]
-  C --> O
-  O -->|csl-pywork build| X["lrv.xml"]
-  X --> A["csl-app web display"]
+  G["glacier/ proofread source"] --> I0["interim/lrv_0.txt"]
+  I0 -->|normalize| I1["lrv_1.txt"]
+  I1 -->|metaline| I2["lrv_2.txt"]
+  I2 -->|ls markup| I3["lrv_3.txt"]
+  I3 -->|to SLP1| I4["lrv_4.txt"]
+  I4 -->|alt headwords| I5["lrv_5.txt"]
+  I5 --> O["csl-orig/v02/lrv/lrv.txt"]
 ```
 
+Quality-check scripts ([`scripts/qc_*.py`](scripts/)) then catch specific defect classes — duplicate line numbers, duplicate `<pc>` page refs, headword/`<k2>` mismatches, missing compound cross-references — and per-issue folders under [`issues/`](issues/) hold the fix for each defect found this way.
+
+## Usage example (verified)
+
+The pipeline's real output is already committed at [`interim/lrv_5.txt`](interim/lrv_5.txt) — 190,412 lines, compared to 43,598 lines in the original proofread source (`glacier/LR_Vaidya_Main_proofed_20220920.txt`; the growth is markup, not new content). Its first entry:
+
+```
+<L>00001<pc>001-01<k1>a<k2>a
+a¦ {%(I) ind.%} An interjection- (1) of pity; (2) of calling, e.g. {#a anaMta#}; (3) of blame or reproach, e.g. {#a pacasi tvaM jAlma#}.
+<LEND>
+
+<L>00002<pc>001-01<k1>a<k2>a
+a¦ {%(II) ind.%} A prefix implying- (1) negation arising from similarity...
+<LEND>
+```
+
+`<k1>a<k2>a` is the headword "a"; `{%...%}` marks italic grammatical notes; `{#...#}` marks SLP1 Sanskrit examples (`a anaMta`, `a pacasi tvaM jAlma`) — the same CDSL entry format used across the Cologne collection (compare [`BOR/readme.md`](https://github.com/sanskrit-lexicon/BOR/blob/main/readme.md)'s `bor_corrected.txt` sample). This confirms stage 5 of the pipeline actually produced valid, entry-delimited CDSL markup from the raw proofread text.
+
+Re-running the full pipeline was not attempted here — `scripts/redo.sh` regenerates all five interim stages from the glacier source and would rewrite tracked files; the sample above is real already-committed pipeline output, not synthesized.
+
+## Common commands
+
+```sh
+cd scripts
+sh redo.sh                # full conversion pipeline, lrv_0 through lrv_5
+sh quality_check.sh        # run all qc_*.py scripts, summarize results
+```
+
+Rebuild and validate XML (from `csl-pywork/v02/`):
+```sh
+sh generate_dict.sh lrv ../../LRVScan/2020
+sh xmlchk_xampp.sh lrv
+```
+
+## Layout
+
+| Path | Purpose |
+|---|---|
+| [`scripts/`](scripts/) | `lrv_prep1.py`–`lrv_prep5.py` (stage scripts), `parseheadline.py`, `qc_*.py` (quality checks), `redo.sh`, `revert_Nto(N-1).py` rollback scripts |
+| [`issues/issueNNN/`](issues/) | Per-issue correction workflow: copy `lrv.txt`, apply corrections, rebuild XML, validate, commit to `csl-orig` |
+| [`interim/`](interim/) | The five pipeline stages described above |
+| [`glacier/`](glacier/) | Archived/historical proofread source versions |
+| [`logs/`](logs/) | Pipeline execution logs |
+
+## Dependencies
+
+Python 3; the proofread source `lrv.txt` lives at `$BASE/cologne/csl-orig/v02/lrv/lrv.txt`.
+
 ---
-*Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,6 @@
 # LRV — L. R. Vaidya's *Sanskrit-English Dictionary* (1889)
 
-_Created: 22-05-2026 · Last updated: 05-07-2026_
+_Created: 22-05-2026 · Last updated: 11-07-2026_
 
 ## Why this repo exists
 
@@ -8,11 +8,11 @@ L. R. Vaidya's 1889 *The Standard Sanskrit-English Dictionary* (with appendices 
 
 ## How it works
 
-The conversion runs in five incremental stages (`interim/lrv_0.txt` → `lrv_5.txt`), each stage's change documented in [`interim/README.md`](interim/README.md):
+The conversion runs in five incremental stages (`interim/lrv_0.txt` → `lrv_5.txt`), each stage's change documented in [`interim/README.md`](https://github.com/sanskrit-lexicon/LRV/blob/main/interim/README.md):
 
 | Stage | What changed |
 |---|---|
-| `lrv_0.txt` | Copy of [`glacier/LR_Vaidya_Main_proofed_20220920.txt`](glacier/LR_Vaidya_Main_proofed_20220920.txt) (the proofread source) |
+| `lrv_0.txt` | Copy of [`glacier/LR_Vaidya_Main_proofed_20220920.txt`](https://github.com/sanskrit-lexicon/LRV/blob/main/glacier/LR_Vaidya_Main_proofed_20220920.txt) (the proofread source) |
 | `lrv_1.txt` | Line endings normalized `\r\n` → `\n` |
 | `lrv_2.txt` | `<L>`/metaline markup added; kept only key2, grammar, and entry text |
 | `lrv_3.txt` | `<ls>` literary-source markup added; `//` paragraph breaks → `<P>` |
@@ -30,11 +30,11 @@ flowchart LR
   I5 --> O["csl-orig/v02/lrv/lrv.txt"]
 ```
 
-Quality-check scripts ([`scripts/qc_*.py`](scripts/)) then catch specific defect classes — duplicate line numbers, duplicate `<pc>` page refs, headword/`<k2>` mismatches, missing compound cross-references — and per-issue folders under [`issues/`](issues/) hold the fix for each defect found this way.
+Quality-check scripts ([`scripts/qc_*.py`](https://github.com/sanskrit-lexicon/LRV/tree/main/scripts)) then catch specific defect classes — duplicate line numbers, duplicate `<pc>` page refs, headword/`<k2>` mismatches, missing compound cross-references — and per-issue folders under [`issues/`](https://github.com/sanskrit-lexicon/LRV/tree/main/issues) hold the fix for each defect found this way.
 
 ## Usage example (verified)
 
-The pipeline's real output is already committed at [`interim/lrv_5.txt`](interim/lrv_5.txt) — 190,412 lines, compared to 43,598 lines in the original proofread source (`glacier/LR_Vaidya_Main_proofed_20220920.txt`; the growth is markup, not new content). Its first entry:
+The pipeline's real output is already committed at [`interim/lrv_5.txt`](https://github.com/sanskrit-lexicon/LRV/blob/main/interim/lrv_5.txt) — 190,412 lines, compared to 43,598 lines in the original proofread source (`glacier/LR_Vaidya_Main_proofed_20220920.txt`; the growth is markup, not new content). Its first entry:
 
 ```
 <L>00001<pc>001-01<k1>a<k2>a
@@ -68,11 +68,11 @@ sh xmlchk_xampp.sh lrv
 
 | Path | Purpose |
 |---|---|
-| [`scripts/`](scripts/) | `lrv_prep1.py`–`lrv_prep5.py` (stage scripts), `parseheadline.py`, `qc_*.py` (quality checks), `redo.sh`, `revert_Nto(N-1).py` rollback scripts |
-| [`issues/issueNNN/`](issues/) | Per-issue correction workflow: copy `lrv.txt`, apply corrections, rebuild XML, validate, commit to `csl-orig` |
-| [`interim/`](interim/) | The five pipeline stages described above |
-| [`glacier/`](glacier/) | Archived/historical proofread source versions |
-| [`logs/`](logs/) | Pipeline execution logs |
+| [`scripts/`](https://github.com/sanskrit-lexicon/LRV/tree/main/scripts) | `lrv_prep1.py`–`lrv_prep5.py` (stage scripts), `parseheadline.py`, `qc_*.py` (quality checks), `redo.sh`, `revert_Nto(N-1).py` rollback scripts |
+| [`issues/issueNNN/`](https://github.com/sanskrit-lexicon/LRV/tree/main/issues) | Per-issue correction workflow: copy `lrv.txt`, apply corrections, rebuild XML, validate, commit to `csl-orig` (the canonical 8-stage csl-orig procedure lives in [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)) |
+| [`interim/`](https://github.com/sanskrit-lexicon/LRV/tree/main/interim) | The five pipeline stages described above |
+| [`glacier/`](https://github.com/sanskrit-lexicon/LRV/tree/main/glacier) | Archived/historical proofread source versions |
+| [`logs/`](https://github.com/sanskrit-lexicon/LRV/tree/main/logs) | Pipeline execution logs |
 
 ## Dependencies
 

@@ -6,6 +6,10 @@ _Created: 22-05-2026 · Last updated: 11-07-2026_
 
 L. R. Vaidya's 1889 *The Standard Sanskrit-English Dictionary* (with appendices on prosody and mythological names, digitized copy at [HathiTrust](https://catalog.hathitrust.org/Record/008693928)) had to go from a proofread OCR transcript to CDSL's structured markup format before it could join the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) collection at `csl-orig/v02/lrv/lrv.txt`. That conversion isn't a single script — a raw proofread text has no entry boundaries, no SLP1 transliteration, no `<ls>` literary-source markup, and inevitably its own transcription slips (duplicate line numbers, headwords that don't match their `<k2>` sort key, missing compound cross-references). This repo is the multi-stage pipeline that did that conversion once, plus the quality-check scripts and per-issue correction workflows that keep catching new defects as they're found.
 
+## Documentation
+
+- [docs/CONVERSION_MANUAL.md](https://github.com/sanskrit-lexicon/LRV/blob/main/docs/CONVERSION_MANUAL.md) — **operator manual**: re-running/extending the 5-stage pipeline, the QC scans and the reversion round-trip proof, the `issues/issueNNN/` post-delivery correction pattern, symptom→cause→cure.
+
 ## How it works
 
 The conversion runs in five incremental stages (`interim/lrv_0.txt` → `lrv_5.txt`), each stage's change documented in [`interim/README.md`](https://github.com/sanskrit-lexicon/LRV/blob/main/interim/README.md):

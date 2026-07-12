@@ -23,7 +23,7 @@ without reading the source.
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H510-Fable_LRV_conversion_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H510-Fable_LRV_conversion_pipeline_manual_10.07.26.md)
+[H510-Fable_LRV_conversion_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H510-Fable_LRV_conversion_pipeline_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Commands and formats read from `scripts/redo.sh`,
 `quality_check.sh`, `redo_revert.sh`, the prep/QC script docstrings,
@@ -89,7 +89,7 @@ convention, per the [CLAUDE.md](https://github.com/sanskrit-lexicon/LRV/blob/mai
 session-state protocol; there is no separate owning pipeline or service.
 A human (currently Dr. Mārcis Gasūns) is the final maintainer of record for
 the `sanskrit-lexicon` org's per-repo manuals programme
-([H501–H531](https://github.com/gasyoun/Uprava/blob/main/handoffs/H510-Fable_LRV_conversion_pipeline_manual_10.07.26.md)).
+([H501–H531](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H510-Fable_LRV_conversion_pipeline_manual_10.07.26.md)).
 "Archived/ended" for this document means: the LRV conversion pipeline is
 fully retired (the dictionary will never be re-delivered from a new
 proofread source, per §9's "what extend really means") AND all

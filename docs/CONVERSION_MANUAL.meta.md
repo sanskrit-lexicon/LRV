@@ -23,7 +23,7 @@ without reading the source.
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H510-Fable_LRV_conversion_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H510-Fable_LRV_conversion_pipeline_manual_10.07.26.md)
+[H510-Fable_LRV_conversion_pipeline_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H510-Fable_LRV_conversion_pipeline_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Commands and formats read from `scripts/redo.sh`,
 `quality_check.sh`, `redo_revert.sh`, the prep/QC script docstrings,

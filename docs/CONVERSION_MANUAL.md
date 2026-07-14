@@ -121,7 +121,7 @@ pipeline has to a test suite, and a new stage should come with its inverse.
 ## 5. Post-conversion corrections — the `issues/issueNNN/` pattern
 
 The pipeline ran once; the canonical text now lives in
-[csl-orig/v02/lrv/lrv.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/lrv/lrv.txt),
+[csl-orig/v02/lrv/lrv.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/lrv/lrv.txt),
 and **new defects are fixed there, not by re-running the pipeline.** Each
 fix gets a folder `issues/issueNNN/` (pattern of record, e.g.
 [issues/issue25/](https://github.com/sanskrit-lexicon/LRV/tree/main/issues/issue25),

@@ -50,7 +50,7 @@ a¦ {%(II) ind.%} A prefix implying- (1) negation arising from similarity...
 <LEND>
 ```
 
-`<k1>a<k2>a` is the headword "a"; `{%...%}` marks italic grammatical notes; `{#...#}` marks SLP1 Sanskrit examples (`a anaMta`, `a pacasi tvaM jAlma`) — the same CDSL entry format used across the Cologne collection (compare [`BOR/readme.md`](https://github.com/sanskrit-lexicon/BOR/blob/main/readme.md)'s `bor_corrected.txt` sample). This confirms stage 5 of the pipeline actually produced valid, entry-delimited CDSL markup from the raw proofread text.
+`<k1>a<k2>a` is the headword "a"; `{%...%}` marks italic grammatical notes; `{#...#}` marks SLP1 Sanskrit examples (`a anaMta`, `a pacasi tvaM jAlma`) — the same CDSL entry format used across the Cologne collection (compare [`BOR/readme.md`](https://github.com/sanskrit-lexicon/BOR/blob/main/README.md)'s `bor_corrected.txt` sample). This confirms stage 5 of the pipeline actually produced valid, entry-delimited CDSL markup from the raw proofread text.
 
 Re-running the full pipeline was not attempted here — `scripts/redo.sh` regenerates all five interim stages from the glacier source and would rewrite tracked files; the sample above is real already-committed pipeline output, not synthesized.
 

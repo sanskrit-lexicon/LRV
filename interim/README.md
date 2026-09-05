@@ -1,3 +1,5 @@
+_Created: 20-09-2022 · Last updated: 05-09-2026_
+
 # lrv_0.txt
 
 1. Copy of `glacier/LR_Vaidya_Main_proofed_20220920.txt` made on 20 September 2022
@@ -25,3 +27,4 @@ Three cases of extra spaces after `<b>` tag were corrected. See https://github.c
 
 1. Added alternate headwords.
 
+_Dr. Mārcis Gasūns_

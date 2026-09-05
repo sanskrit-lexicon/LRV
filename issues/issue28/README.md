@@ -1,3 +1,5 @@
+_Created: 22-05-2026 · Last updated: 05-09-2026_
+
 # Walkthrough - LRV Suffix Insertion (Issue 28)
 
 We have successfully completed all the steps outlined in the implementation plan to parse, transliterate, reconstruct, and integrate the missing compound/suffix data from the Vaidya database (`glacier/LR_Vaidya_Main_proofed_20220920.txt`) into `temp_lrv_0.txt`, producing the finalized `temp_lrv_1.txt`.
@@ -67,3 +69,5 @@ We compared the line count of both files to ensure that no formatting or text la
 - `temp_lrv_1.txt`: 160,326 lines
 
 The files are identical in structure and formatting, with exactly 1,908 targeted entry headwords updated.
+
+_Dr. Mārcis Gasūns_

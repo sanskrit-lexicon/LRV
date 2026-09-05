@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -53,3 +55,5 @@ sh xmlchk_xampp.sh lrv
 
 - **Python 3**
 - **lrv.txt** — in `$BASE/cologne/csl-orig/v02/lrv/lrv.txt`
+
+_Dr. Mārcis Gasūns_

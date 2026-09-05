@@ -62,7 +62,7 @@ stage) or in a post-delivery issue folder (§9's distinction).
 **Known/likely misuse:**
 - Treating `interim/lrv_5.txt` as the editable canonical text — it was
   delivered once; the live text is
-  [csl-orig/v02/lrv/lrv.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/lrv/lrv.txt)
+  [csl-orig/v02/lrv/lrv.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/lrv/lrv.txt)
   and all further fixes go through §5, never a re-run of the pipeline (§7
   table, row 5).
 - Running `redo.sh` "just to look" — it rewrites the five tracked

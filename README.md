@@ -1,5 +1,7 @@
 # LRV — L. R. Vaidya's *Sanskrit-English Dictionary* (1889)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151350.svg)](https://doi.org/10.5281/zenodo.23151350)
+
 _Created: 22-05-2026 · Last updated: 11-07-2026_
 
 ## Why this repo exists
